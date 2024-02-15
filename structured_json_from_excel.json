@@ -1,0 +1,754 @@
+{ "countries": {
+    "Argentina": {
+        "regions": [
+            "Mendoza",
+            "Los Chacayes",
+            "Salta",
+            "Uco Valley",
+            "Lujan De Cuyo",
+            "Agrelo",
+            "UcoValley",
+            "Aconcagua",
+            "Cafayate",
+            "San Rafael",
+            "Tupungato",
+	    "Patagonia"
+        ]
+    },
+    "Armenia": {
+        "regions": [
+            "Vayots Dzor"
+        ]
+    },
+    "Asia": {
+        "regions": [
+            "Armenia"
+        ]
+    },
+    "Australia": {
+        "regions": [
+            "Margaret River",
+            "Mclaren Vale",
+            "McLaren Vale",
+            "Barossa Valley",
+            "Victoria",
+            "Clare Valley",
+            "Riverina",
+            "Central Coast",
+            "Riverland",
+            "Australia",
+            "Tasmania",
+            "Western Australia",
+            "South Australia",
+            "Southern Australia",
+            "SouthernAustralia",
+            "BarossaValley",
+            "Coonawarra",
+            "WesternAustralia",
+            "SouthAustralia",
+            "SoutheastAustralia",
+            "EdenValley",
+            "NewSouthWales",
+            "McLaren Valley",
+            "Yarra Valley",
+            "Barossa",
+            "Barossa Valey"
+        ]
+    },
+    "Austria": {
+        "regions": [
+            "Wachau",
+            "Niederosterreich",
+            "Vienna",
+            "Kremstal",
+            "Burgenland",
+            "Niedoresterreich"
+        ]
+    },
+    "Canada": {
+        "regions": [
+            "Oakville",
+            "ColumbiaValley"
+        ]
+    },
+    "Chile": {
+        "regions": [
+            "Maipo",
+            "Casablanca Valley",
+            "Talagante",
+            "Apalta",
+            "Colchagua Valley",
+            "Cachapoal Valley",
+            "Maipo Valley",
+            "Itata Valley",
+            "Rapel Valley",
+            "Valle del Maipo",
+            "Colchagua",
+            "ElquiValley",
+            "Maule",
+            "ColchaguaValley",
+            "Curico",
+            "Obliqua Carmenere",
+            "Bio Bio Valley",
+            "Maule Valley",
+            "Aconcagua Valley",
+            "Cauquenes",
+            "Cachapoal",
+            "Millahue",
+            "Peumo",
+	    "Patagonia"
+        ]
+    },
+    "China": {
+        "regions": [
+            "Yunnan"
+        ]
+    },
+    "Costa Rica": {
+        "regions": [
+            "Valle Central",
+            "Central Valley"
+        ]
+    },
+    "Cyprus": {
+        "regions": [
+            "Cyprus\u00a0",
+            "Paphos"
+        ]
+    },
+    "Czech Republic": {
+        "regions": [
+            "Pilsner"
+        ]
+    },
+    "Dominican Republic": {
+        "regions": [
+            "Tamboril"
+        ]
+    },
+    "Ecuador": {
+        "regions": [
+            "Cuenca"
+        ]
+    },
+    "Europe": {
+        "regions": [
+            "France",
+            "Austria",
+            "Germany"
+        ]
+    },
+    "France": {
+        "regions": [
+            "Burgundy",
+            "Champagne",
+            "Provence",
+            "Languedoc",
+            "Sancerre",
+            "Alsace",
+            "Touraine Oisly",
+            "Pouilly Fume",
+            "Chablis",
+            "Vin de France",
+            "Beaujolais",
+            "Vacqueryas",
+            "Pouilly Fuisse",
+            "Languedoc-Roussillon",
+            "Bordeaux",
+            "Rhone",
+            "Cotes du Rhone",
+            "Condrieu",
+            "Loire Valley",
+            "Loire",
+            "IGP Pays d'Herault",
+            "Pomerol",
+            "South West France",
+            "Ch\u00e2teauneuf-du-Pape",
+            "Cotes de Provence",
+            "C\u00f4tes de Provence",
+            "Tavel",
+            "C\u00f4tes du Rhone",
+            "Saint-Julien",
+            "Cotes de Castillon",
+            "Margaux",
+            "Pessac-L\u00e9ognan",
+            "Saint-Est\u00e8phe",
+            "Saint-\u00c9milion",
+            "Sauternes",
+            "Saint-Emilion",
+            "Pauillac",
+            "Pessac-Leognan",
+            "Cote du Roussillon",
+            "Hautes Cotes de Nuits",
+            "Southwest France",
+            "Rhone Valley",
+            "Gascony",
+            "Bourgogne",
+            "C\u00f4te de Nuits",
+            "Cahors",
+            "Montagne St Emilion",
+            "Haut-M\u00e9doc",
+            "Cotes-du-Rhone",
+            "Medoc",
+            "Northern Rh\u00f4ne Valley",
+            "Ventoux",
+            "Gigondas",
+            "Vacqueyras",
+            "Calvados",
+            "St Emilion",
+            "Saint-Estephe",
+            "PulignyMontrachet",
+            "CotesDeProvence",
+            "Cotes De Provence",
+            "Corsica",
+            "Cotes Du Rhone",
+            "Chateauneuf-Du-Pape",
+            "St-Emilion",
+            "Gevrey Chambertin",
+            "Santenay",
+            "Macon-Villages",
+            "Cornas",
+            "Bandol",
+            "Rh\u00f4ne Valley",
+            "Savoie",
+            "Jura",
+            "burgundy",
+            "Languedoc Roussillon",
+            "CotesDuVentoux",
+            "CoteDuRhone",
+            "loire",
+            "Jurancon",
+            "Chamapagne",
+            "Le Mesnil Sur Oger",
+            "Sub Musigny",
+            "Sub Saint \u00c9milion",
+            "Champagane",
+            "Bergerac",
+            "Vin de Pays",
+            "Monbazillac",
+            "Chambolle-Musigny",
+            "Saint Emilion",
+            "Chablis Montee de Tonnerre",
+            "Menetou-Salon"
+        ]
+    },
+    "Georgia": {
+        "regions": [
+            "Kakheti"
+        ]
+    },
+    "Germany": {
+        "regions": [
+            "Mosel-Saar-Ruwer",
+            "Mosel",
+            "Rheingau",
+            "Rheinhessen",
+            "Mosel Valley",
+            "Pfalz",
+            "Ayler Kupp",
+            "Saar",
+            "Baden",
+            "Urziger Wurzgarten",
+            "Wehlen",
+            "Mosel Saar Ruwer",
+            "Dolgesheim"
+        ]
+    },
+    "Greece": {
+        "regions": [
+            "Peloponnese",
+            "Santorini",
+            "Peloponnesos",
+            "Attica",
+            "peloponnese",
+            "Thessaly",
+            "Aegean",
+            "Ionian",
+            "Ionian Islands",
+            "Crete",
+            "Plakota",
+            "Attika",
+            "Naoussa",
+            "Drama",
+            "Aegean Islands",
+            "Amyndeon",
+            "Cephalonia",
+            "Avdira",
+            "Achaia",
+            "Halkidiki"
+        ]
+    },
+    "Hungary": {
+        "regions": [
+            "Tokaj-Hegyalja",
+            "Tokaj",
+            "Tokaji",
+            "Somlo",
+            "Balaton"
+        ]
+    },
+    "India": {
+        "regions": [
+            "Nashik"
+        ]
+    },
+    "Israel": {
+        "regions": [
+            "Judean Hills"
+        ]
+    },
+    "Italy": {
+        "regions": [
+            "Veneto",
+            "Piedmont",
+            "Tuscany",
+            "Sicilia",
+            "Treviso",
+            "Montalcino",
+            "Collio",
+            "Venezia",
+            "Abruzzo",
+            "Emilia Romagna",
+            "Bolgheri",
+            "Sicily",
+            "Fruili",
+            "Delle Venezie",
+            "Alto Adige",
+            "Puglia",
+            "DOCG",
+            "Campania",
+            "Lodi",
+            "Sardegna",
+            "Prosecco",
+            "Umbria",
+            "Friuli-Venezia Giulia",
+            "Tuscany",
+            "Emilia-Romagna",
+            "Trentino-Alto Adige",
+            "Lombardy",
+            "Marche",
+            "Abruzzi",
+            "Calabria",
+            "Gavi di Gavi",
+            "South Tyrol",
+            "Salento",
+            "Primitivo di Manduria",
+            "S\u00fcdtirol",
+            "Franciacorta",
+            "Valle d'Aosta",
+            "Chianti Classico",
+            "Sannio",
+            "Gavi",
+            "Valpolicella",
+            "Alto Adige/S\u00fcdtirol",
+            "Alto Adige (S\u00fcdtirol)",
+            "Frascati DOCG",
+            "Valpolicella DOC",
+            "Gavi DOCG",
+            "Valpolicella Classico",
+            "Romagna",
+            "Roero",
+            "Sardinia",
+            "Friuli-VeneziaGiulia",
+            "Apulia",
+            "Chianti",
+            "Italy",
+            "Marches",
+            "Trentino-AltoAdige",
+            "Piedmont",
+            "Vino Rosso d'Italia",
+            "Barbera D'Asti",
+            "Bussia",
+            "Langhe",
+            "Barolo",
+            "Montepulciano d'Abruzzo",
+            "Montefalco Sagrantino DOCG",
+            "AmaroneDellaValpolicella",
+            "Trentino Alto Adige",
+            "Valdobbiadene Prosecc",
+            "Morellino di Scansano",
+            "Friuli",
+            "Montepulciano",
+            "Lombardia",
+            "Lazio",
+            "Vento",
+            "Veneto",
+            "Toscana",
+            "Gattinara",
+            "Piedmonte",
+            "ToscanaIgt",
+            "piedmont",
+            "Colli Orientali del Friuli",
+            "VerdicchioDeCastelliDiIesi",
+            "Cafaggio",
+            "tuscany",
+            "Tusany",
+            "Moscato D Asti",
+            "Colli di Salerno",
+            "Piemonte",
+            "Pidemont",
+            "Unbria",
+            "Cmpania",
+            "Barbaresco",
+            "Barbera d'Asti",
+            "\\tTrentino-Alto Adige",
+            "Valtellina Superiore",
+            "Sant'Antimo"
+        ]
+    },
+    "Japan": {
+        "regions": [
+            "Japan",
+            "Toyama",
+            "Okinawa",
+            "Niigata Prefecture",
+            "Niigata",
+            "Iwate",
+            "Akita",
+            "Ibaraki",
+            "Tochigi",
+            "NIIGATA",
+            "Yamaguchi",
+            "Shiga",
+            "Koshu Isehara"
+        ]
+    },
+    "Lebanon": {
+        "regions": [
+            "Bekaa Valley",
+            "BekaaValley",
+            "Batroun",
+            "Bekka Valley"
+        ]
+    },
+    "Mexico": {
+        "regions": [
+            "Valle de Guadalupe",
+            "Baja",
+            "Valle de Santo Tomas",
+            "Valle de Parras",
+            "San Antonio de las Minas",
+            "Dolores Hidalgo",
+            "Baja California",
+            "Ensenada",
+            "Valle De Guadalupe"
+        ]
+    },
+    "Morocco": {
+        "regions": [
+            "Casablanca"
+        ]
+    },
+    "Namibia": {
+        "regions": [
+            "Na"
+        ]
+    },
+    "New Zealand": {
+        "regions": [
+            "Marlborough",
+            "Kumeu",
+            "Hawkes Bay",
+            "Hawke's Bay",
+            "SouthIsland",
+            "HawkesBay",
+            "South Island",
+            "Kumeu River",
+            "Kumeu region",
+            "North Island",
+            "Central Otago",
+            "Auckland",
+            "Mclaren Valley",
+            "Martinborough"
+        ]
+    },
+    "None": {
+        "regions": [
+            0
+        ]
+    },
+    "North Macedonia": {
+        "regions": [
+            "Macedonia",
+            "Tikves"
+        ]
+    },
+    "Palestine": {
+        "regions": [
+            "West Bank"
+        ]
+    },
+    "Portugal": {
+        "regions": [
+            "Douro",
+            "Coastal Region",
+            "Estremadura - Lisboa",
+            "Alentejo",
+            "Douro Valley",
+            "Vinho Verde",
+            "Portugal",
+            "Madeira",
+            "Encostas de Alqueva",
+            "Alcaria",
+            "Ribeiro",
+            "Porto",
+            "Bairrada",
+            "VinhoVerde",
+            "Minho",
+            "Lisboa",
+            "Maderia",
+            "Paid Vasco",
+            "Touriga Franca",
+            "Lisbon",
+            "Set\u00fabal Peninsula",
+            "Oporto"
+        ]
+    },
+    "Scotland": {
+        "regions": [
+            "Rutherglen"
+        ]
+    },
+    "Slovenia": {
+        "regions": [
+            "Isonzo",
+            "Slovenia",
+            "Goriska Brda"
+        ]
+    },
+    "South Africa": {
+        "regions": [
+            "Paarl",
+            "Stellenbosch",
+            "South Africa",
+            "Western Cape",
+            "Western Cape",
+            "Swartland",
+            "Elgin Valley",
+            "SouthAfrica",
+            "WesternCape",
+            "Robertson",
+            "Constantia",
+            "Simonsberg-Paarl",
+            "BreedeRiverValley"
+        ]
+    },
+    "South America": {
+        "regions": [
+            "Argentina",
+            "Chile"
+        ]
+    },
+    "Spain": {
+        "regions": [
+            "JerezSherry",
+            "Valencia",
+            "Navarra",
+            "Rias Baixas",
+            "Ribera del Duero",
+            "Rioja",
+            "Castilla",
+            "Penedes",
+            "Priorat",
+            "Ribera Del Duero",
+            "Emporda",
+            "Castilla Y Leon",
+            "Pago de Vicario",
+            "Catalunya",
+            "Valladolid",
+            "Galicia",
+            "Baleares",
+            "Mallorca",
+            "Catalonia",
+            "Spain",
+            "Pais Vasco (Basque)",
+            "Cigales",
+            "Rueda",
+            "Alicante",
+            "Canary Islands",
+            "Castilla La Mancha",
+            "Bierzo",
+            "Jerez-X\u00e9r\u00e8s-Sherry",
+            "Calatayud",
+            "Montsant",
+            "Utiel-Requena",
+            "La Mancha",
+            "Yecla",
+            "Alejaire Valley",
+            "Castilla y Le\u00f3n",
+            "Basque Country",
+            "Terra Alta",
+            "Ribera del Duero",
+            "RiberaDelDuero",
+            "CampoDeBorja",
+            "Campo De Borja",
+            "Tierra Castilla",
+            "Sardon de Duero",
+            "Madrid",
+            "Extremadura",
+            "Basque",
+            "Canary Island",
+            "Jumilla",
+            "Ribiera Sacra",
+            "Camino del Pilar",
+            "Quintanilla",
+            "Andalusia",
+            "M\u00e1laga",
+            "Valdeorras",
+            "O Luar Do Sil",
+            "CastillaYLeon",
+            "BIERZO",
+            "Jerez",
+            "Campo de Borja",
+            "Montilla-Moriles",
+            "Malaga",
+            "Ribera del duero",
+            "Tierra de Castilla y Le\u00f3n",
+            "Castilla-La Mancha",
+            "JUMILLA",
+            "rioja",
+            "Aragon-Campo De Borja",
+            "Andalucia",
+            "Andaluc\u00eda",
+            "Aragon",
+            "Cava",
+            "aldeorras",
+            "La Rioja",
+            "Tudela de Duero",
+            "Ribera del Jucar",
+            "Catalonia-Priorat",
+            "Rioja",
+            "Castilla Leon",
+            "\u00a0Ribera del Duero",
+            "Castilla y Leon",
+            "Aragon-CampoDeBorja",
+            "Murcia-Yecla",
+            "Zamora",
+            "Mentrida",
+            "Alava",
+            "Almansa",
+            "Tudela del Duero",
+            "ribera del Duero",
+            "Rioja Alavesa",
+            "Ribera Duero",
+            "Pa\u00eds Vasco",
+            "alava",
+            "Pened\u221a\u00aes",
+            "Pesquera de Duero",
+            "Rioja Alta",
+            "Vinos de Pago",
+            "Pais Vasco",
+            "Ribeira Sacra",
+            "priorat",
+            "Sanlucar de Barrameda"
+        ]
+    },
+    "Switzerland": {
+        "regions": [
+            "Fribourg"
+        ]
+    },
+    "Trinidad and Tobago": {
+        "regions": [
+            "Saint Joeseph"
+        ]
+    },
+    "Turkey": {
+        "regions": [
+            "Erdener Pralat"
+        ]
+    },
+    "Uganda": {
+        "regions": [
+            "Toro"
+        ]
+    },
+    "United Kingdom": {
+        "regions": [
+            "England",
+            "St. Helena",
+            "Uk",
+            "Englan"
+        ]
+    },
+    "United States": {
+        "regions": [
+            "California",
+            "Oregon",
+            "Washington",
+            "Mendocino",
+            "Coombsville",
+            "Carneros",
+            "Macon Village",
+            "Napa Valley",
+            "Alexander Valley",
+            "Paso Robles",
+            "Russian River Valley",
+            "Willamette Valley",
+            "CoastalRegion",
+            "Santa Barbara",
+            "Califorina",
+            "Califronia",
+            "New York",
+            "Red Hills AVA",
+            "Sonoma Valley",
+            "Cienega Valley",
+            "Santa Barbara County",
+            "Paso Robles AVA",
+            "Mendocino County",
+            "Sonoma County",
+            "Central Coast AVA",
+            "Finger Lakes",
+            "Graves",
+            "Macon",
+            "Southwest",
+            "SonomaCounty",
+            "RussianRiverValley",
+            "NapaValley",
+            "WallaWallaValley",
+            "Virginia",
+            "SouthCarolina",
+            "Sonoma",
+            "NAPA VALLEY",
+            "Yakima Valley",
+            "Anderson Valley",
+            "Napa",
+            "Sonoma Coast",
+            "Santa Lucia Highlands",
+            "Rutherford",
+            "Oak Knoll District Napa Valley",
+            "Howell Mountain",
+            "Santa Rita Hills",
+            "Santa Cruz Mountains",
+            "Walla Walla Valley",
+            "Hermitage",
+            "Washington State",
+            "Californa",
+            "Potter Valley",
+            "NewYork",
+            "LosCarneros",
+            "Cloverdale peak",
+            "Knights Valley",
+            "Napa Valleu",
+            "North Coast",
+            "San Luis Obispo",
+            "Edna Valley",
+            "Healdsburg",
+            "Sierra Foothills",
+            "Wahluke",
+            "Napa valley",
+            "Santa lucia Highlands"
+        ]
+    },
+    "Uruguay": {
+        "regions": [
+            "Lavalleja"
+        ]
+    },
+    "Vietnam": {
+        "regions": [
+            "Dao"
+        ]
+    }
+}
+}
