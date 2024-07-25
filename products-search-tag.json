@@ -264,12 +264,6 @@
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Malagousia"
-    },
-    {
         "Country": "Mexico",
         "Region": "Valle de Guadalupe",
         "Type": "Red",
@@ -570,12 +564,6 @@
         "Varietal": "Blend"
     },
     {
-        "Country": "China",
-        "Region": "Yunnan",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
         "Country": "France",
         "Region": "Champagne",
         "Type": "Rose",
@@ -592,18 +580,6 @@
         "Region": "Koshu Isehara",
         "Type": "White",
         "Varietal": "Koshu"
-    },
-    {
-        "Country": "Hungary",
-        "Region": "Somlo",
-        "Type": "Natural Wine",
-        "Varietal": "Furmint"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Natural Wine",
-        "Varietal": "Gruner Veltliner"
     },
     {
         "Country": "Italy",
@@ -766,12 +742,6 @@
         "Region": "Champagne",
         "Type": "Champagne",
         "Varietal": "Champagne"
-    },
-    {
-        "Country": "Great Britain",
-        "Region": "England",
-        "Type": "Sparkling",
-        "Varietal": "Sparkling Wine"
     },
     {
         "Country": "Chile",
@@ -1038,48 +1008,6 @@
         "Varietal": "Tempranillo"
     },
     {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Natural",
-        "Varietal": "Sankt Laurent"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Red",
-        "Varietal": "Agiorgitiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Sparkling",
-        "Varietal": "Moschofilero"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Rose",
-        "Varietal": "Agiorgitiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "spain",
-        "Region": "Catalonia",
-        "Type": "Natural",
-        "Varietal": "Sumoll"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Natural",
-        "Varietal": "Pinot Noir"
-    },
-    {
         "Country": "Spain",
         "Region": "Jerez",
         "Type": "Sherry",
@@ -1102,18 +1030,6 @@
         "Region": "Castilla y Leon",
         "Type": "Natural",
         "Varietal": "Garnacha"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Dessert",
-        "Varietal": "Muscat"
     },
     {
         "Country": "Mexico",
@@ -1144,18 +1060,6 @@
         "Region": "Tuscany",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Red",
-        "Varietal": "Syrah"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean",
-        "Type": "Dessert",
-        "Varietal": "Mandilaria"
     },
     {
         "Country": "Spain",
@@ -2154,12 +2058,6 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Red",
-        "Varietal": "Agiorgitiko"
-    },
-    {
         "Country": "France",
         "Region": "IGP Pays d'Herault",
         "Type": "Red",
@@ -2646,24 +2544,6 @@
         "Varietal": "Gamay"
     },
     {
-        "Country": "Austria",
-        "Region": "Wachau",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Wachau",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
         "Country": "Italy",
         "Region": "Tuscany",
         "Type": "Red",
@@ -2772,12 +2652,6 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Austria",
-        "Region": "Vienna",
-        "Type": "White",
-        "Varietal": "White Blend"
-    },
-    {
         "Country": "Spain",
         "Region": "Castilla La Mancha",
         "Type": "Red",
@@ -2818,12 +2692,6 @@
         "Region": "Veneto",
         "Type": "White",
         "Varietal": "Pinot Grigio"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Kremstal",
-        "Type": "White",
-        "Varietal": "Riesling"
     },
     {
         "Country": "USA",
@@ -2968,18 +2836,6 @@
         "Region": "California",
         "Type": "White",
         "Varietal": "Marsanne"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "White",
-        "Varietal": "White Blend"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnesos",
-        "Type": "Red",
-        "Varietal": "Agiorgitiko"
     },
     {
         "Country": "USA",
@@ -3424,78 +3280,6 @@
         "Region": "Penedes",
         "Type": "Sparkling",
         "Varietal": "White Blend"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Swartland",
-        "Type": "Red",
-        "Varietal": "Cinsault"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Marlborough",
-        "Type": "Rose",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Central Coast",
-        "Type": "White",
-        "Varietal": "Cinsault"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Western Cape",
-        "Type": "Red",
-        "Varietal": "Pinotage"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Central Coast",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Elgin Valley",
-        "Type": "Red",
-        "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Elgin Valley",
-        "Type": "Red",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Elgin Valley",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Napa Valley",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Western Cape",
-        "Type": "Red",
-        "Varietal": "Red"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Barossa Valley",
-        "Type": "Red",
-        "Varietal": "Red"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Western Cape",
-        "Type": "Red",
-        "Varietal": "Chenin Blanc"
     },
     {
         "Country": "Italy",
@@ -5292,18 +5076,6 @@
         "Varietal": " Cinsault"
     },
     {
-        "Country": "Hungary",
-        "Region": "Tokaj-Hegyalja",
-        "Type": "Dessert",
-        "Varietal": " H\u00e1rslevelu"
-    },
-    {
-        "Country": "Hungary",
-        "Region": "Tokaj-Hegyalja",
-        "Type": "Dessert",
-        "Varietal": "Furmint"
-    },
-    {
         "Country": "France",
         "Region": "Southwest France",
         "Type": "White",
@@ -5452,12 +5224,6 @@
         "Region": "Sardinia",
         "Type": "White",
         "Varietal": "Vermentino"
-    },
-    {
-        "Country": "India",
-        "Region": "Na",
-        "Type": "Red",
-        "Varietal": "Shiraz"
     },
     {
         "Country": "New Zealand",
@@ -5628,12 +5394,6 @@
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Greece",
-        "Region": "Attica",
-        "Type": "White",
-        "Varietal": "Savatiano"
-    },
-    {
         "Country": "Chile",
         "Region": "Maipo",
         "Type": "White",
@@ -5782,150 +5542,6 @@
         "Region": "Bekaa Valley",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Thessaly",
-        "Type": "Red",
-        "Varietal": "Xinomavro"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Santorini",
-        "Type": "White",
-        "Varietal": "Aidani"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean",
-        "Type": "Red",
-        "Varietal": "Mandilaria"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "White",
-        "Varietal": "Moschofilero"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "White",
-        "Varietal": "Sideritis"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Ros\u00e9",
-        "Varietal": "Agiorgitiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Red",
-        "Varietal": "Limnio"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Ros\u00e9",
-        "Varietal": "Xinomavro"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Viognier"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Red",
-        "Varietal": "Red Blend"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Dessert",
-        "Varietal": "Assyrtiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Red",
-        "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Vidiano"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Ionian",
-        "Type": "Red",
-        "Varietal": "Mavrodaphne"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Ionian Islands",
-        "Type": "White",
-        "Varietal": "Zakynthino"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Ionian",
-        "Type": "White",
-        "Varietal": "Robola"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Crete",
-        "Type": "Red",
-        "Varietal": "Kotsifali"
     },
     {
         "Country": "USA",
@@ -6582,12 +6198,6 @@
         "Varietal": "Txakoli Rose"
     },
     {
-        "Country": "italy",
-        "Region": "Umbria",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
         "Country": "Italy",
         "Region": "Sicily",
         "Type": "Red",
@@ -6642,12 +6252,6 @@
         "Varietal": " Cabernet Franc"
     },
     {
-        "Country": "Georgia",
-        "Region": "Kakheti",
-        "Type": "Red",
-        "Varietal": "Teinturier"
-    },
-    {
         "Country": "Italy",
         "Region": "Montefalco Sagrantino DOCG",
         "Type": "Red",
@@ -6658,12 +6262,6 @@
         "Region": "Erdener Pralat",
         "Type": "White",
         "Varietal": "Riesling"
-    },
-    {
-        "Country": "Georgia",
-        "Region": "Kakheti",
-        "Type": "Red",
-        "Varietal": "Saperavi"
     },
     {
         "Country": "France",
@@ -6720,12 +6318,6 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Dessert",
-        "Varietal": "Gewurztraminer"
-    },
-    {
         "Country": "Argentina",
         "Region": "Los Chacayes",
         "Type": "Red",
@@ -6778,12 +6370,6 @@
         "Region": "Los Chacayes",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Cyprus\u00a0",
-        "Type": "White",
-        "Varietal": "Morokanella"
     },
     {
         "Country": "Australia",
@@ -6912,22 +6498,10 @@
         "Varietal": "Gamay"
     },
     {
-        "Country": "Austria",
-        "Region": "Austria",
-        "Type": "White",
-        "Varietal": "WhiteBlend"
-    },
-    {
         "Country": "Germany",
         "Region": "Germany",
         "Type": "White",
         "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Slovenia",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "Spain",
@@ -7038,18 +6612,6 @@
         "Varietal": "Nebbiolo"
     },
     {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Sauvingon blanc"
-    },
-    {
-        "Country": "\u00a0Georgian Republic",
-        "Region": "Kakheti",
-        "Type": "White",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
@@ -7134,12 +6696,6 @@
         "Varietal": "Red Blend"
     },
     {
-        "Country": "Austria",
-        "Region": "Kremstal",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
         "Country": "Argentina",
         "Region": "Mendoza",
         "Type": "Red",
@@ -7164,22 +6720,10 @@
         "Varietal": "Pinot Grigio"
     },
     {
-        "Country": "Hungary",
-        "Region": "Tokaj",
-        "Type": "White",
-        "Varietal": "Furmint"
-    },
-    {
         "Country": "Italy",
         "Region": "Campania",
         "Type": "White",
         "Varietal": "Fiano"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niedoresterreich",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
     },
     {
         "Country": "Italy",
@@ -7276,12 +6820,6 @@
         "Region": "Loire Valley",
         "Type": "White",
         "Varietal": "Romorantin"
-    },
-    {
-        "Country": "Georgian Republic",
-        "Region": "Kakheti",
-        "Type": "red",
-        "Varietal": "saperavi"
     },
     {
         "Country": "Spain",
@@ -7512,12 +7050,6 @@
         "Varietal": "Gruner Veltliner"
     },
     {
-        "Country": "Hungary",
-        "Region": "Tokaji",
-        "Type": "Dessert",
-        "Varietal": "Furmit"
-    },
-    {
         "Country": "Italy",
         "Region": "Campania",
         "Type": "Red",
@@ -7530,28 +7062,10 @@
         "Varietal": "Rice"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "Stellenbosch",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean Islands",
-        "Type": "White",
-        "Varietal": "Aidani"
-    },
-    {
         "Country": "Germany",
         "Region": "Rheingau",
         "Type": "Dessert",
         "Varietal": "Riesling"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Red",
-        "Varietal": "Mavrodaphne"
     },
     {
         "Country": "Argentina",
@@ -7746,12 +7260,6 @@
         "Varietal": "RedBlend"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "Robertson",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "France",
         "Region": "Alsace",
         "Type": "White",
@@ -7866,12 +7374,6 @@
         "Varietal": "CabernetFranc"
     },
     {
-        "Country": "NewZealand",
-        "Region": "Marlborough",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
         "Country": "USA",
         "Region": "Lodi",
         "Type": "White",
@@ -7914,18 +7416,6 @@
         "Varietal": "CabernetFranc"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "Stellenbosch",
-        "Type": "Red",
-        "Varietal": "Pinotage"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Stellenbosch",
-        "Type": "Red",
-        "Varietal": "RedBlend"
-    },
-    {
         "Country": "USA",
         "Region": "ColumbiaValley",
         "Type": "Red",
@@ -7942,18 +7432,6 @@
         "Region": "Rheinhessen",
         "Type": "White",
         "Varietal": "Gewurztraminer"
-    },
-    {
-        "Country": "UnitedKingdom",
-        "Region": "England",
-        "Type": "Rose",
-        "Varietal": "PinotNoir"
-    },
-    {
-        "Country": "UnitedKingdom",
-        "Region": "England",
-        "Type": "White",
-        "Varietal": "Chardonnay"
     },
     {
         "Country": "Italy",
@@ -8010,12 +7488,6 @@
         "Varietal": "CabernetSauvignon"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "Constantia",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
         "Country": "USA",
         "Region": "Paso Robles",
         "Type": "Red",
@@ -8046,24 +7518,6 @@
         "Varietal": "Malbec"
     },
     {
-        "Country": "Greece",
-        "Region": "Naoussa",
-        "Type": "Red",
-        "Varietal": "\tXinomavro"
-    },
-    {
-        "Country": "Uruguay",
-        "Region": "Lavalleja",
-        "Type": "Red",
-        "Varietal": "Cabernet Franc"
-    },
-    {
-        "Country": "Uruguay",
-        "Region": "Lavalleja",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
         "Country": "Spain",
         "Region": "Ribera del Jucar",
         "Type": "Red",
@@ -8088,18 +7542,6 @@
         "Varietal": "Prosecco"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "Red",
-        "Varietal": "PinotNoir"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
         "Country": "Australia",
         "Region": "SouthernAustralia",
         "Type": "White",
@@ -8110,12 +7552,6 @@
         "Region": "Alsace",
         "Type": "White",
         "Varietal": "WhiteBlend"
-    },
-    {
-        "Country": "NewZealand",
-        "Region": "Marlborough",
-        "Type": "Red",
-        "Varietal": "PinotNoir"
     },
     {
         "Country": "USA",
@@ -8190,12 +7626,6 @@
         "Varietal": "PinotNoir"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "Robertson",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
-    },
-    {
         "Country": "Portugal",
         "Region": "Portugal",
         "Type": "Red",
@@ -8220,12 +7650,6 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Greece",
-        "Region": "Santorini",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
         "Country": "Italy",
         "Region": "Lombardy",
         "Type": "White",
@@ -8236,12 +7660,6 @@
         "Region": "tuscany",
         "Type": "Red",
         "Varietal": "Cabernet Sauvigno"
-    },
-    {
-        "Country": "Israel\u00a0",
-        "Region": "Judean Hills",
-        "Type": "Kosher",
-        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Australia",
@@ -8298,24 +7716,6 @@
         "Varietal": "CabernetSauvignon"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "SouthAfrica",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "India",
-        "Region": "Nashik",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
-    },
-    {
         "Country": "Spain",
         "Region": "Castilla",
         "Type": "Red",
@@ -8328,40 +7728,10 @@
         "Varietal": "Monastrell"
     },
     {
-        "Country": "Cyprus",
-        "Region": "Paphos",
-        "Type": "Red",
-        "Varietal": "Maratheftiko"
-    },
-    {
-        "Country": "NewZealand",
-        "Region": "Marlborough",
-        "Type": "Rose",
-        "Varietal": "PinotNoir"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "White",
-        "Varietal": "Zweigelt"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "White",
-        "Varietal": "GrunerVeltliner"
-    },
-    {
         "Country": "Italy",
         "Region": "Trentino-AltoAdige",
         "Type": "White",
         "Varietal": "PinotBianco"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Cephalonia",
-        "Type": "White",
-        "Varietal": "Robola"
     },
     {
         "Country": "USA",
@@ -8490,12 +7860,6 @@
         "Varietal": "Verdejo"
     },
     {
-        "Country": "Greece",
-        "Region": "Avdira",
-        "Type": "orange",
-        "Varietal": "Assyrtiko"
-    },
-    {
         "Country": "Italy",
         "Region": "Tuscany",
         "Type": "red",
@@ -8592,12 +7956,6 @@
         "Varietal": "Vermentino"
     },
     {
-        "Country": "NewZealand",
-        "Region": "HawkesBay",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "Chile",
         "Region": "Maipo",
         "Type": "White",
@@ -8620,12 +7978,6 @@
         "Region": "Piedmont",
         "Type": "Red",
         "Varietal": "Grignolino"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "Red",
-        "Varietal": "CabernetSauvignon"
     },
     {
         "Country": "Italy",
@@ -8700,12 +8052,6 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Greece",
-        "Region": "Crete",
-        "Type": "Red",
-        "Varietal": "Liatiko"
-    },
-    {
         "Country": "USA",
         "Region": "Sonoma",
         "Type": "white",
@@ -8774,12 +8120,6 @@
     {
         "Country": "USA",
         "Region": "Galicia",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Mendoza",
         "Type": "White",
         "Varietal": "CheninBlanc"
     },
@@ -8896,12 +8236,6 @@
         "Region": "Coonawarra",
         "Type": "Red",
         "Varietal": "CabernetSauvignon"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Stellenbosch",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
     },
     {
         "Country": "Australia",
@@ -9042,12 +8376,6 @@
         "Varietal": "Riesling"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "BreedeRiverValley",
-        "Type": "Red",
-        "Varietal": "CabernetSauvignon"
-    },
-    {
         "Country": "France",
         "Region": "Savoie",
         "Type": "White",
@@ -9180,12 +8508,6 @@
         "Varietal": "PinotNoir"
     },
     {
-        "Country": "NewZealand",
-        "Region": "HawkesBay",
-        "Type": "Rose",
-        "Varietal": "Merlot"
-    },
-    {
         "Country": "Italy",
         "Region": "Campania",
         "Type": "White",
@@ -9216,18 +8538,6 @@
         "Varietal": "Syrah"
     },
     {
-        "Country": "Austria",
-        "Region": "Austria",
-        "Type": "Rose",
-        "Varietal": "RoseBlend"
-    },
-    {
-        "Country": "India",
-        "Region": "Uk",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
         "Country": "Italy",
         "Region": "Sicily",
         "Type": "White",
@@ -9256,12 +8566,6 @@
         "Region": "Maule",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "NewZealand",
-        "Region": "SouthIsland",
-        "Type": "Red",
-        "Varietal": "PinotNoir"
     },
     {
         "Country": "USA",
@@ -9372,24 +8676,6 @@
         "Varietal": "Lambrusco"
     },
     {
-        "Country": "NewZealand",
-        "Region": "SouthIsland",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "NewZealand",
-        "Region": "SouthIsland",
-        "Type": "White",
-        "Varietal": "PinotGris"
-    },
-    {
-        "Country": "NewZealand",
-        "Region": "SouthIsland",
-        "Type": "White",
-        "Varietal": "Gewurztraminer"
-    },
-    {
         "Country": "Portugal",
         "Region": "Alentejo",
         "Type": "White",
@@ -9400,12 +8686,6 @@
         "Region": "Spain",
         "Type": "Red",
         "Varietal": "Garnacha"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnesos",
-        "Type": "White",
-        "Varietal": "Roditis"
     },
     {
         "Country": "Portugal",
@@ -9460,12 +8740,6 @@
         "Region": "Catalonia",
         "Type": "Rose",
         "Varietal": "Trepat"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "Red",
-        "Varietal": "RedBlend"
     },
     {
         "Country": "France",
@@ -9540,12 +8814,6 @@
         "Varietal": "Malvasia"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "Red",
-        "Varietal": "Pinotage"
-    },
-    {
         "Country": "Chile",
         "Region": "Chile",
         "Type": "White",
@@ -9588,18 +8856,6 @@
         "Varietal": "Cabernet Franc"
     },
     {
-        "Country": "Hungary",
-        "Region": "Tokaji",
-        "Type": "Dessert",
-        "Varietal": "furmint"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Sparkling",
-        "Varietal": "Moshofilero"
-    },
-    {
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Dessert",
@@ -9628,12 +8884,6 @@
         "Region": "Marches",
         "Type": "White",
         "Varietal": "Pecorino"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean",
-        "Type": "natural",
-        "Varietal": "Muscat of Alexandria"
     },
     {
         "Country": "Spain",
@@ -9682,12 +8932,6 @@
         "Region": "Aragon-CampoDeBorja",
         "Type": "Red",
         "Varietal": "Garnacha"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "SouthAfrica",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
     },
     {
         "Country": "France",
@@ -9766,18 +9010,6 @@
         "Region": "Toscana",
         "Type": "White",
         "Varietal": "Ansonica"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Thessaly",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Hungary",
-        "Region": "Tokaji",
-        "Type": "White",
-        "Varietal": "Furmint"
     },
     {
         "Country": "Spain",
@@ -9894,12 +9126,6 @@
         "Varietal": "SauvignonBlanc"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "USA",
         "Region": "PulignyMontrachet",
         "Type": "Red",
@@ -9936,12 +9162,6 @@
         "Varietal": "Tempranillo"
     },
     {
-        "Country": "Austria",
-        "Region": "Austria",
-        "Type": "White",
-        "Varietal": "GrunerVeltliner"
-    },
-    {
         "Country": "Chile",
         "Region": "CentralValley",
         "Type": "White",
@@ -9970,12 +9190,6 @@
         "Region": "California",
         "Type": "Rose",
         "Varietal": "Grenache"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Greece",
-        "Type": "White",
-        "Varietal": "Moschofilero"
     },
     {
         "Country": "Italy",
@@ -10062,12 +9276,6 @@
         "Varietal": "Loureiro"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "Stellenbosch",
-        "Type": "Rose",
-        "Varietal": "Pinotage"
-    },
-    {
         "Country": "USA",
         "Region": "Washington",
         "Type": "White",
@@ -10104,12 +9312,6 @@
         "Varietal": "WhiteBlend"
     },
     {
-        "Country": "Armenia",
-        "Region": "Armenia",
-        "Type": "White",
-        "Varietal": "WhiteBlend"
-    },
-    {
         "Country": "France",
         "Region": "Pomerol",
         "Type": "Red",
@@ -10120,12 +9322,6 @@
         "Region": "Mendoza",
         "Type": "Red",
         "Varietal": "CabernetFranc"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Robertson",
-        "Type": "Rose",
-        "Varietal": "Chardonnay"
     },
     {
         "Country": "Italy",
@@ -10194,12 +9390,6 @@
         "Varietal": "Rose Blend"
     },
     {
-        "Country": "Armenia",
-        "Region": "Armenia",
-        "Type": "Red",
-        "Varietal": "Red Blend"
-    },
-    {
         "Country": "USA",
         "Region": "Virginia",
         "Type": "Red",
@@ -10240,12 +9430,6 @@
         "Region": "Languedoc-Roussillon",
         "Type": "Red",
         "Varietal": "Shiraz"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnesos",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
     },
     {
         "Country": "Italy",
@@ -10300,12 +9484,6 @@
         "Region": "Provence",
         "Type": "Rose",
         "Varietal": "\nCinsault"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean Islands",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
     },
     {
         "Country": "South Africa",
@@ -10404,28 +9582,10 @@
         "Varietal": "Cinsault"
     },
     {
-        "Country": "Greece",
-        "Region": "Attica",
-        "Type": "White",
-        "Varietal": "Malagouzi"
-    },
-    {
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "Rose",
         "Varietal": "Barbera"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Wachau",
-        "Type": "White",
-        "Varietal": "Weissburgunder"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Steiermark",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "South Africa",
@@ -10464,12 +9624,6 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Red",
-        "Varietal": "Blaufrankisch"
-    },
-    {
         "Country": "Australia",
         "Region": "Australia",
         "Type": "White",
@@ -10486,12 +9640,6 @@
         "Region": "Chile",
         "Type": "Red",
         "Varietal": "Merlot"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Attica",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Italy",
@@ -10528,12 +9676,6 @@
         "Region": "Burgundy",
         "Type": "Rose",
         "Varietal": "Gamay"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Stellenbosch",
-        "Type": "Red",
-        "Varietal": "CabernetSauvignon"
     },
     {
         "Country": "Australia",
@@ -10740,12 +9882,6 @@
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Greece",
-        "Region": "Greece",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
         "Country": "Portugal",
         "Region": "Vinho Verde",
         "Type": "White",
@@ -10840,12 +9976,6 @@
         "Region": "Simonsberg-Paarl",
         "Type": "Red",
         "Varietal": "Merlot"
-    },
-    {
-        "Country": "Spaine",
-        "Region": "Terra Alta",
-        "Type": "White",
-        "Varietal": "Grenache Blanc"
     },
     {
         "Country": "Spain",
@@ -10950,12 +10080,6 @@
         "Varietal": "Sparkling white blend"
     },
     {
-        "Country": "South Africaca",
-        "Region": "Stellenbosch",
-        "Type": "White",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
         "Country": "Spain",
         "Region": "Ribera del Duero",
         "Type": "Red",
@@ -11038,12 +10162,6 @@
         "Region": "Saint-Julien",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
-    },
-    {
-        "Country": "Bulgaria",
-        "Region": "Thracian Valley",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
     },
     {
         "Country": "USA",
@@ -11284,12 +10402,6 @@
         "Region": "Rioja",
         "Type": "White",
         "Varietal": "Garnacha Blanca"
-    },
-    {
-        "Country": "Bulgaria",
-        "Region": "Tharcian Valley",
-        "Type": "Rose",
-        "Varietal": "Bouquet"
     },
     {
         "Country": "Australia",
@@ -12546,42 +11658,6 @@
         "Varietal": "White"
     },
     {
-        "Country": "South Africaca",
-        "Region": "Marlborough",
-        "Type": "Red",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Central Valley",
-        "Type": "White",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Marlborough",
-        "Type": "White",
-        "Varietal": " Cabernet Franc"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Napa Valley",
-        "Type": "Red",
-        "Varietal": "Cabernet Franc"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Napa Valley",
-        "Type": "White",
-        "Varietal": "Merlot"
-    },
-    {
-        "Country": "South Africaca",
-        "Region": "Western Cape",
-        "Type": "Sparkling",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
         "Country": "Spain",
         "Region": "La Mancha",
         "Type": "White",
@@ -12816,18 +11892,6 @@
         "Varietal": "Albarino"
     },
     {
-        "Country": "Brazil",
-        "Region": "BentoGoncalves",
-        "Type": "Red",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Brazil",
-        "Region": "BentoGoncalves",
-        "Type": "Red",
-        "Varietal": "RedBlend"
-    },
-    {
         "Country": "USA",
         "Region": "PulignyMontrachet",
         "Type": "White",
@@ -12850,36 +11914,6 @@
         "Region": "PugliaIgt",
         "Type": "Red",
         "Varietal": "Negroamaro"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Austria",
-        "Type": "White",
-        "Varietal": "Muskateller"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Kamptal",
-        "Type": "White",
-        "Varietal": "GrunerVeltliner"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Kamptal",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Austria",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Kamptal",
-        "Type": "Red",
-        "Varietal": "Zweigelt"
     },
     {
         "Country": "USA",
@@ -12966,12 +12000,6 @@
         "Varietal": "Carmenere"
     },
     {
-        "Country": "Greece",
-        "Region": "Peloponnesos",
-        "Type": "Red",
-        "Varietal": "Refosco"
-    },
-    {
         "Country": "USA",
         "Region": "RussianRiverValley",
         "Type": "Red",
@@ -13044,12 +12072,6 @@
         "Varietal": "JunmaiGinjo"
     },
     {
-        "Country": "NewZealand",
-        "Region": "Nelson",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
         "Country": "France",
         "Region": "Macon",
         "Type": "White",
@@ -13092,12 +12114,6 @@
         "Varietal": "PinotNoir"
     },
     {
-        "Country": "Greece",
-        "Region": "Attica",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
         "Country": "France",
         "Region": "Provence",
         "Type": "Rose",
@@ -13108,12 +12124,6 @@
         "Region": "Spain",
         "Type": "White",
         "Varietal": "SauvignonBlanc"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "White",
-        "Varietal": "Riesling"
     },
     {
         "Country": "USA",
@@ -13138,12 +12148,6 @@
         "Region": "NapaValley",
         "Type": "Red",
         "Varietal": "PinotNoir"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Greece",
-        "Type": "White",
-        "Varietal": "Chardonnay"
     },
     {
         "Country": "Australia",
@@ -13174,18 +12178,6 @@
         "Region": "Tuscany",
         "Type": "Red",
         "Varietal": "Morellino"
-    },
-    {
-        "Country": "NewZealand",
-        "Region": "SouthIsland",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Wachau",
-        "Type": "White",
-        "Varietal": "GrunerVeltliner"
     },
     {
         "Country": "USA",
@@ -13222,18 +12214,6 @@
         "Region": "California",
         "Type": "Red",
         "Varietal": "Grenache"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Stellenbosch",
-        "Type": "Red",
-        "Varietal": "CabernetFranc"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Stellenbosch",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
     },
     {
         "Country": "France",
@@ -13356,12 +12336,6 @@
         "Varietal": "PinotNoir"
     },
     {
-        "Country": "Austria",
-        "Region": "Austria",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
         "Country": "Italy",
         "Region": "Valpolicella",
         "Type": "Red",
@@ -13458,22 +12432,10 @@
         "Varietal": "SauvignonBlanc"
     },
     {
-        "Country": "NewZealand",
-        "Region": "Marlborough",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
         "Country": "USA",
         "Region": "Oregon",
         "Type": "White",
         "Varietal": "PinotBlanc"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Kremstal",
-        "Type": "White",
-        "Varietal": "GrunerVeltliner"
     },
     {
         "Country": "Italy",
@@ -13488,22 +12450,10 @@
         "Varietal": "Trebbiano"
     },
     {
-        "Country": "India",
-        "Region": "Uk",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
-    },
-    {
         "Country": "Italy",
         "Region": "Sardinia",
         "Type": "Red",
         "Varietal": "Vermentino"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "White",
-        "Varietal": "Chardonnay"
     },
     {
         "Country": "Spain",
@@ -13554,12 +12504,6 @@
         "Varietal": "Carmenere"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "Swartland",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
-    },
-    {
         "Country": "USA",
         "Region": "AlexanderValley",
         "Type": "Red",
@@ -13588,12 +12532,6 @@
         "Region": "Veneto",
         "Type": "Red",
         "Varietal": "Lagrein"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "SouthAfrica",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
     },
     {
         "Country": "France",
@@ -13704,12 +12642,6 @@
         "Varietal": "Arneis"
     },
     {
-        "Country": "NewZealand",
-        "Region": "NewZealand",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
         "Country": "Germany",
         "Region": "Pfalz",
         "Type": "White",
@@ -13758,34 +12690,16 @@
         "Varietal": "Tempranillo"
     },
     {
-        "Country": "Austria",
-        "Region": "Vienna",
-        "Type": "White",
-        "Varietal": "WhiteBlend"
-    },
-    {
         "Country": "Australia",
         "Region": "Australia",
         "Type": "Red",
         "Varietal": "New..."
     },
     {
-        "Country": "NewZealand",
-        "Region": "Provence",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
         "Country": "USA",
         "Region": "NewYork",
         "Type": "Red",
         "Varietal": "Merlot"
-    },
-    {
-        "Country": "Armenia",
-        "Region": "Armenia",
-        "Type": "Red",
-        "Varietal": "RedBlend"
     },
     {
         "Country": "Australia",
@@ -13900,18 +12814,6 @@
         "Region": "Oregon",
         "Type": "Red",
         "Varietal": "PinotBlanc"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnesos",
-        "Type": "Rose",
-        "Varietal": "Agiorgitiko"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Robertson",
-        "Type": "Red",
-        "Varietal": "CabernetSauvignon"
     },
     {
         "Country": "Italy",
@@ -14038,18 +12940,6 @@
         "Region": "MargaretRiver",
         "Type": "Red",
         "Varietal": "CabernetSauvignon"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "CoastalRegion",
-        "Type": "Red",
-        "Varietal": "CabernetSauvignon"
-    },
-    {
-        "Country": "NewZealand",
-        "Region": "Marlborough",
-        "Type": "White",
-        "Varietal": "Chardonnay"
     },
     {
         "Country": "USA",
@@ -14226,12 +13116,6 @@
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Armenia",
-        "Region": "Vayots Dzor",
-        "Type": "Red",
-        "Varietal": "Areni Noir"
-    },
-    {
         "Country": "Australia",
         "Region": "South Australia",
         "Type": "White",
@@ -14284,18 +13168,6 @@
         "Region": "Trentino-AltoAdige",
         "Type": "White",
         "Varietal": "Sylvaner"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Red",
-        "Varietal": "RedBlend"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "SouthAfrica",
-        "Type": "Red",
-        "Varietal": "Cinsault"
     },
     {
         "Country": "Argentina",
@@ -14370,12 +13242,6 @@
         "Varietal": "Sangiovese"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "CoastalRegion",
-        "Type": "White",
-        "Varietal": "CheninBlanc"
-    },
-    {
         "Country": "France",
         "Region": "Jura",
         "Type": "Red",
@@ -14392,18 +13258,6 @@
         "Region": "ColumbiaValley",
         "Type": "White",
         "Varietal": "Riesling"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "Constantia",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Red",
-        "Varietal": "Zweigelt"
     },
     {
         "Country": "France",
@@ -14952,12 +13806,6 @@
         "Varietal": "Riesling"
     },
     {
-        "Country": "NewZealand",
-        "Region": "HawkesBay",
-        "Type": "Red",
-        "Varietal": "RedBlend"
-    },
-    {
         "Country": "USA",
         "Region": "Oregon",
         "Type": "Red",
@@ -15006,12 +13854,6 @@
         "Varietal": "Garnacha"
     },
     {
-        "Country": "NewZealand",
-        "Region": "Japan",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
         "Country": "France",
         "Region": "Languedoc-Roussillon",
         "Type": "Rose",
@@ -15034,24 +13876,6 @@
         "Region": "CentralCoast",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Nemea",
-        "Type": "Red",
-        "Varietal": "Agiorgitiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Greece",
-        "Type": "Red",
-        "Varietal": "Agiorgitiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Greece",
-        "Type": "Red",
-        "Varietal": "Mavrodaphne"
     },
     {
         "Country": "Italy",
@@ -15082,12 +13906,6 @@
         "Region": "Japan",
         "Type": "Red",
         "Varietal": "Merlot"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "White",
-        "Varietal": "WhiteBlend"
     },
     {
         "Country": "USA",
@@ -15138,18 +13956,6 @@
         "Varietal": "CabernetSauvignon"
     },
     {
-        "Country": "Austria",
-        "Region": "Traisental",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "Red",
-        "Varietal": "Zweigelt"
-    },
-    {
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "White",
@@ -15160,12 +13966,6 @@
         "Region": "GetariakoTxakolina",
         "Type": "Rose",
         "Varietal": "RoseBlend"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "WesternCape",
-        "Type": "Red",
-        "Varietal": "Merlot"
     },
     {
         "Country": "USA",
@@ -15342,12 +14142,6 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Great Britain",
-        "Region": "Englan",
-        "Type": "Sparkling",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "White",
@@ -15408,34 +14202,10 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Assyrtiko\u00a0"
-    },
-    {
-        "Country": "Cyprus\u00a0",
-        "Region": "Paphos",
-        "Type": "White",
-        "Varietal": "Xynisteri"
-    },
-    {
         "Country": "South Africa",
         "Region": "Constantia",
         "Type": "Red",
         "Varietal": "Pinotage"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Naoussa",
-        "Type": "Red",
-        "Varietal": "Xynomavro"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Rose",
-        "Varietal": "Sideritis"
     },
     {
         "Country": "Italy",
@@ -15466,12 +14236,6 @@
         "Region": "Maipo Valley",
         "Type": "Red",
         "Varietal": "Bordeaux Blanc"
-    },
-    {
-        "Country": "Cyprus",
-        "Region": "Paphos",
-        "Type": "White",
-        "Varietal": "Morokanella"
     },
     {
         "Country": "Lebanon",
@@ -15522,18 +14286,6 @@
         "Varietal": "Petit Sirah"
     },
     {
-        "Country": "portugal",
-        "Region": "Alentejo",
-        "Type": "Red",
-        "Varietal": "Alicante Boushet"
-    },
-    {
-        "Country": "Great Britian",
-        "Region": "England",
-        "Type": "sparkling",
-        "Varietal": "Sparkling Blend"
-    },
-    {
         "Country": "France",
         "Region": "Champagne",
         "Type": "sparkling",
@@ -15568,12 +14320,6 @@
         "Region": "Maule Valley",
         "Type": "Red",
         "Varietal": "Carignan"
-    },
-    {
-        "Country": "Armenia",
-        "Region": "Armenia",
-        "Type": "White",
-        "Varietal": "White Blend"
     },
     {
         "Country": "USA",
@@ -15636,12 +14382,6 @@
         "Varietal": "Blend"
     },
     {
-        "Country": "Greece",
-        "Region": "Amyndeon",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
         "Country": "Argentina",
         "Region": "Patagonia",
         "Type": "Red",
@@ -15702,28 +14442,10 @@
         "Varietal": "Petite Sryah"
     },
     {
-        "Country": "Greece",
-        "Region": "Crete",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
         "Country": "USA",
         "Region": "Alexander Valley",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "greece",
-        "Region": "peloponnese",
-        "Type": "White",
-        "Varietal": "moshofilero"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Crete",
-        "Type": "Natural",
-        "Varietal": "Vidiano"
     },
     {
         "Country": "France",
@@ -15798,12 +14520,6 @@
         "Varietal": "Nebbiolo"
     },
     {
-        "Country": "Greece",
-        "Region": "Aegean",
-        "Type": "Natural Wines",
-        "Varietal": "Limnio"
-    },
-    {
         "Country": "USA",
         "Region": "Central Coast",
         "Type": "Red",
@@ -15820,12 +14536,6 @@
         "Region": "Montsant",
         "Type": "kosher",
         "Varietal": "Garnacha"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean",
-        "Type": "White",
-        "Varietal": "Aidani"
     },
     {
         "Country": "Italy",
@@ -15882,12 +14592,6 @@
         "Varietal": "Sangiovese"
     },
     {
-        "Country": "Cyprus",
-        "Region": "Plakota",
-        "Type": "Red",
-        "Varietal": "Plakota"
-    },
-    {
         "Country": "France",
         "Region": "Macon-Villages",
         "Type": "White",
@@ -15928,12 +14632,6 @@
         "Region": "Alto Adige",
         "Type": "White",
         "Varietal": "Pinot Bianco"
-    },
-    {
-        "Country": "Cyprus",
-        "Region": "Paphos",
-        "Type": "White",
-        "Varietal": "Xynisteri"
     },
     {
         "Country": "France",
@@ -16002,12 +14700,6 @@
         "Varietal": "Carmenere"
     },
     {
-        "Country": "Greece",
-        "Region": "Attika",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
         "Country": "Germany",
         "Region": "Urziger Wurzgarten",
         "Type": "White",
@@ -16072,12 +14764,6 @@
         "Region": "Barossa Valley",
         "Type": "Dessert",
         "Varietal": "Semillon"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Rose",
-        "Varietal": "Xinomavro"
     },
     {
         "Country": "USA",
@@ -16194,22 +14880,10 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Hungary",
-        "Region": "Tokaji",
-        "Type": "RED",
-        "Varietal": "Furmit"
-    },
-    {
         "Country": "Spain",
         "Region": "Tierra de Castilla y Le\u00f3n",
         "Type": "Red",
         "Varietal": "Garnacha"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Drama",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
     },
     {
         "Country": "Australia",
@@ -16306,12 +14980,6 @@
         "Region": "Champagne",
         "Type": "Kosher",
         "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "Argentino",
-        "Region": "Mendoza",
-        "Type": "Red",
-        "Varietal": "Malbec"
     },
     {
         "Country": "France",
@@ -16428,12 +15096,6 @@
         "Varietal": "Tempranilo"
     },
     {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Natural",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
         "Country": "Chile",
         "Region": "Cachapoal",
         "Type": "Rose",
@@ -16456,12 +15118,6 @@
         "Region": "Colchagua Valley",
         "Type": "Red",
         "Varietal": "Carmenere"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Red",
-        "Varietal": "Koniaros"
     },
     {
         "Country": "Germany",
@@ -16588,12 +15244,6 @@
         "Region": "Penedes",
         "Type": "Natural",
         "Varietal": "Garnacha"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Achaia",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
     },
     {
         "Country": "Mexico",
@@ -17148,12 +15798,6 @@
         "Varietal": "pinot Noir"
     },
     {
-        "Country": "Hungary",
-        "Region": "Tokaj",
-        "Type": "Dessert",
-        "Varietal": "Furmint"
-    },
-    {
         "Country": "Spain",
         "Region": "Andalucia",
         "Type": "Sherry",
@@ -17208,22 +15852,10 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Natural Wine",
-        "Varietal": "Blaufrankisch"
-    },
-    {
         "Country": "Spain",
         "Region": "Ribera del Duero",
         "Type": "Red",
         "Varietal": "Syrah"
-    },
-    {
-        "Country": "Hungary",
-        "Region": "Balaton",
-        "Type": "Natural Wine",
-        "Varietal": "Furmint"
     },
     {
         "Country": "Portugal",
@@ -17304,12 +15936,6 @@
         "Varietal": "Mataro"
     },
     {
-        "Country": "Greece",
-        "Region": "Santorini",
-        "Type": "Red",
-        "Varietal": "Mavrotragano"
-    },
-    {
         "Country": "France",
         "Region": "Champagne",
         "Type": "Champagne",
@@ -17386,12 +16012,6 @@
         "Region": "Rioja",
         "Type": "White",
         "Varietal": "Grenache"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Crete",
-        "Type": "Sweet",
-        "Varietal": "Blend"
     },
     {
         "Country": "France",
@@ -17514,12 +16134,6 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Hungary",
-        "Region": "Tokaji",
-        "Type": "Dessert",
-        "Varietal": "Furmint Blend"
-    },
-    {
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Dessert",
@@ -17530,12 +16144,6 @@
         "Region": "Catalonia",
         "Type": "Sherry",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Hungary",
-        "Region": "Tokaji",
-        "Type": "Dessert",
-        "Varietal": "Proprietary White"
     },
     {
         "Country": "France",
@@ -17590,12 +16198,6 @@
         "Region": "Jerez",
         "Type": "Dessert",
         "Varietal": "Palomino Fino"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Halkidiki",
-        "Type": "Dessert",
-        "Varietal": "Malagousia"
     },
     {
         "Country": "Chile",
@@ -17682,12 +16284,6 @@
         "Varietal": "Viognier"
     },
     {
-        "Country": "Hungary",
-        "Region": "Tokaj",
-        "Type": "Dessert",
-        "Varietal": "Furmint Blend"
-    },
-    {
         "Country": "Spain",
         "Region": "Rias Baixas",
         "Type": "White",
@@ -17704,12 +16300,6 @@
         "Region": "Rhone Valley",
         "Type": "Red",
         "Varietal": "Counoise"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Thessaly",
-        "Type": "White",
-        "Varietal": "Malagousia"
     },
     {
         "Country": "Spain",
@@ -18162,12 +16752,6 @@
         "Varietal": "Merlot"
     },
     {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "Italy",
         "Region": "Vigneti Delle Dolomiti",
         "Type": "White",
@@ -18390,12 +16974,6 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Uruguay",
-        "Region": "Juanico",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "France",
         "Region": "Ventoux",
         "Type": "Red",
@@ -18432,12 +17010,6 @@
         "Varietal": "Vermouth Extra Dry"
     },
     {
-        "Country": "Uruguay",
-        "Region": "Juanico",
-        "Type": "Red",
-        "Varietal": "Tannat"
-    },
-    {
         "Country": "Spain",
         "Region": "Rueda",
         "Type": "White",
@@ -18460,24 +17032,6 @@
         "Region": "Livermore Valley",
         "Type": "Red",
         "Varietal": "Merlot"
-    },
-    {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "Rose",
-        "Varietal": "Merlot"
-    },
-    {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "Rose",
-        "Varietal": "Moscato"
-    },
-    {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "White",
-        "Varietal": "Moscato"
     },
     {
         "Country": "USA",
@@ -18588,12 +17142,6 @@
         "Varietal": "Pinotage"
     },
     {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
         "Country": "USA",
         "Region": "California",
         "Type": "White",
@@ -18616,12 +17164,6 @@
         "Region": "Columbia Valley",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
-    },
-    {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "Sherry",
-        "Varietal": "Sherry"
     },
     {
         "Country": "USA",
@@ -18698,12 +17240,6 @@
     {
         "Country": "France",
         "Region": "Bordeaux",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Galilee",
         "Type": "Red",
         "Varietal": "Blend"
     },
@@ -18876,12 +17412,6 @@
         "Varietal": "Zinfandel"
     },
     {
-        "Country": "Israel",
-        "Region": "Upper Galilee",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
         "Country": "Spain",
         "Region": "Manzanilla Sanlucar De Barrameda",
         "Type": "Sherry",
@@ -18916,18 +17446,6 @@
         "Region": "Elqui Valley",
         "Type": "Red",
         "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Galilee",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Galilee",
-        "Type": "White",
-        "Varietal": "Chardonnay"
     },
     {
         "Country": "Spain",
@@ -19090,12 +17608,6 @@
         "Region": "Ribeiro",
         "Type": "Red",
         "Varietal": "Mencia"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Wagram",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
     },
     {
         "Country": "USA",
@@ -19290,12 +17802,6 @@
         "Varietal": "Blend"
     },
     {
-        "Country": "Austria",
-        "Region": "Wagram",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
         "Country": "Italy",
         "Region": "Offida",
         "Type": "White",
@@ -19380,12 +17886,6 @@
         "Varietal": "Vermentino"
     },
     {
-        "Country": "Austria",
-        "Region": "Weinviertel",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
         "Country": "France",
         "Region": "Cheverny",
         "Type": "Red",
@@ -19428,12 +17928,6 @@
         "Varietal": "Barbera"
     },
     {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "White",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
@@ -19452,12 +17946,6 @@
         "Varietal": "Malvasia"
     },
     {
-        "Country": "Israel",
-        "Region": "Upper Galilee",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
         "Country": "Italy",
         "Region": "Abruzzo",
         "Type": "White",
@@ -19474,12 +17962,6 @@
         "Region": "Etna",
         "Type": "White",
         "Varietal": "Carricante"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
     },
     {
         "Country": "Italy",
@@ -19554,12 +18036,6 @@
         "Varietal": "Zinfandel"
     },
     {
-        "Country": "Israel",
-        "Region": "Judean Hills",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
         "Country": "France",
         "Region": "Malepere",
         "Type": "Red",
@@ -19612,12 +18088,6 @@
         "Region": "Amarone Della Valpolicella",
         "Type": "Red",
         "Varietal": "Blend"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Judean Hills",
-        "Type": "Red",
-        "Varietal": "Merlot"
     },
     {
         "Country": "USA",
@@ -19678,18 +18148,6 @@
         "Region": "Rosso Di Montalcino",
         "Type": "Red",
         "Varietal": "Sangiovese"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Spitz",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Durnstein",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
     },
     {
         "Country": "USA",
@@ -19956,24 +18414,6 @@
         "Varietal": "Malbec"
     },
     {
-        "Country": "Austria",
-        "Region": "Weissenkirchen",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Weissenkirchen",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Canada",
-        "Region": "Niagara Peninsula",
-        "Type": "White",
-        "Varietal": "Vidal"
-    },
-    {
         "Country": "USA",
         "Region": "Santa Barbara County",
         "Type": "Red",
@@ -20098,12 +18538,6 @@
         "Region": "Vin Santo Del Chianti Classico",
         "Type": "Red",
         "Varietal": "Blend"
-    },
-    {
-        "Country": "Canada",
-        "Region": "Niagara Peninsula",
-        "Type": "White",
-        "Varietal": "Riesling"
     },
     {
         "Country": "France",
@@ -20316,12 +18750,6 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Uruguay",
-        "Region": "Juanico",
-        "Type": "White",
-        "Varietal": "Albarino"
-    },
-    {
         "Country": "Spain",
         "Region": "Castilla",
         "Type": "Red",
@@ -20340,28 +18768,10 @@
         "Varietal": "Blend"
     },
     {
-        "Country": "United States",
-        "Region": "Oregon",
-        "Type": "Sake",
-        "Varietal": "Sake Coconut Lemongrass"
-    },
-    {
         "Country": "Italy",
         "Region": "Vermentino Di Sardegna",
         "Type": "White",
         "Varietal": "Vermentino"
-    },
-    {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "Rose",
-        "Varietal": "White Zinfandel"
-    },
-    {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "White",
-        "Varietal": "Chenin Blanc"
     },
     {
         "Country": "USA",
@@ -20386,12 +18796,6 @@
         "Region": "Wahluke Slope",
         "Type": "Red",
         "Varietal": "Merlot"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Judean Hills",
-        "Type": "Red",
-        "Varietal": "Argaman"
     },
     {
         "Country": "USA",
@@ -20572,12 +18976,6 @@
         "Region": "Fiano Di Avellino",
         "Type": "White",
         "Varietal": "Fiano"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Galilee",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
@@ -20886,12 +19284,6 @@
         "Varietal": "Syrah"
     },
     {
-        "Country": "Canada",
-        "Region": "Niagara Peninsula",
-        "Type": "Red",
-        "Varietal": "Cabernet Franc"
-    },
-    {
         "Country": "USA",
         "Region": "Stags Leap District",
         "Type": "Red",
@@ -20944,18 +19336,6 @@
         "Region": "Marsannay",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Galilee",
-        "Type": "Red",
-        "Varietal": "Shiraz"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Galilee",
-        "Type": "Red",
-        "Varietal": "Malbec"
     },
     {
         "Country": "USA",
@@ -21174,12 +19554,6 @@
         "Varietal": "Gamay"
     },
     {
-        "Country": "Greece",
-        "Region": "Aegean Islands",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "USA",
         "Region": "Willamette Valley",
         "Type": "White",
@@ -21270,54 +19644,6 @@
         "Varietal": "Prosecco"
     },
     {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "White",
-        "Varietal": "Fum\u00e9 Blanc"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Florina",
-        "Type": "Red",
-        "Varietal": " Syrah"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Rose",
-        "Varietal": "Ros\u00e9"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Amyndeon",
-        "Type": "Red",
-        "Varietal": "Tannat"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Amyndeon",
-        "Type": "Red",
-        "Varietal": "Xinomavro"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Amyndeon",
-        "Type": "Red",
-        "Varietal": "Blend (Red)"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Amyndeon",
-        "Type": "Red",
-        "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Amyndeon",
-        "Type": "Rose",
-        "Varietal": "Blend (Ros\u00e9)"
-    },
-    {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Rose",
@@ -21384,18 +19710,6 @@
         "Varietal": "Pedro Xim\u00e9nez"
     },
     {
-        "Country": "Austria",
-        "Region": "Durnstein",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Loiben",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
         "Country": "Portugal",
         "Region": "Alentejano",
         "Type": "Red",
@@ -21430,24 +19744,6 @@
         "Region": "Burgundy",
         "Type": "Natural Wines",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Avdira",
-        "Type": "Red",
-        "Varietal": "Limnio"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Avdira",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Avdira",
-        "Type": "Red",
-        "Varietal": "Mavroudi"
     },
     {
         "Country": "France",
@@ -21582,12 +19878,6 @@
         "Varietal": "Sparkling Wine"
     },
     {
-        "Country": "Usa",
-        "Region": "California",
-        "Type": "Rose",
-        "Varietal": "Touriga Nacional"
-    },
-    {
         "Country": "Italy",
         "Region": "Valtellina Superiore Sassella",
         "Type": "Red",
@@ -21604,30 +19894,6 @@
         "Region": "Rosso Di Valtellina",
         "Type": "Red",
         "Varietal": "Nebbiolo"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Cyclades",
-        "Type": "Red",
-        "Varietal": "Mavrotragano"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Santorini",
-        "Type": "White",
-        "Varietal": "Blend"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Cyclades",
-        "Type": "White",
-        "Varietal": "Aidani"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Cyclades",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
     },
     {
         "Country": "New Zealand",
@@ -21744,36 +20010,6 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "spain",
-        "Region": "Catalunya",
-        "Type": "Sparkling",
-        "Varietal": "Macabeo"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Dan",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Negev",
-        "Type": "Red",
-        "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Adulam",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Dan",
-        "Type": "Red",
-        "Varietal": "Shiraz"
-    },
-    {
         "Country": "USA",
         "Region": "Sonoma County",
         "Type": "Rose",
@@ -21796,12 +20032,6 @@
         "Region": "Madrid",
         "Type": "White",
         "Varietal": "Macabeo"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Feuersbrunn",
-        "Type": "White",
-        "Varietal": "Riesling"
     },
     {
         "Country": "Italy",
@@ -22230,12 +20460,6 @@
         "Varietal": "Blend"
     },
     {
-        "Country": "Usa",
-        "Region": "Washington State",
-        "Type": "Red",
-        "Varietal": "Blend (Red)"
-    },
-    {
         "Country": "USA",
         "Region": "Washington State",
         "Type": "White",
@@ -22440,12 +20664,6 @@
         "Varietal": "Riesling"
     },
     {
-        "Country": "Greece",
-        "Region": "Florina",
-        "Type": "White",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "France",
         "Region": "Coteaux Du Layon Chaume",
         "Type": "White",
@@ -22608,12 +20826,6 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Greece",
-        "Region": "Florina",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "France",
         "Region": "Fiefs Vendeens Brem",
         "Type": "Red",
@@ -22758,12 +20970,6 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Greece",
-        "Region": "Robola Of Cephalonia",
-        "Type": "White",
-        "Varietal": "Robola"
-    },
-    {
         "Country": "France",
         "Region": "La Clape",
         "Type": "Red",
@@ -22798,24 +21004,6 @@
         "Region": "Patrimonio",
         "Type": "White",
         "Varietal": "Vermentino"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Carnuntum",
-        "Type": "Red",
-        "Varietal": "Blaufrankisch"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Carnuntum",
-        "Type": "Red",
-        "Varietal": "St Laurent"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Carnuntum",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
     },
     {
         "Country": "Germany",
@@ -22870,18 +21058,6 @@
         "Region": "Yakima Valley",
         "Type": "Rose",
         "Varietal": "Grenache"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "White",
-        "Varietal": "Furmint"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Weinland",
-        "Type": "White",
-        "Varietal": "Muscat"
     },
     {
         "Country": "Germany",
@@ -22996,18 +21172,6 @@
         "Region": "Carso",
         "Type": "White",
         "Varietal": "Vitovska"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Crete",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Crete",
-        "Type": "White",
-        "Varietal": "Vidiano"
     },
     {
         "Country": "USA",
@@ -23256,24 +21420,6 @@
         "Varietal": "Blend"
     },
     {
-        "Country": "Austria",
-        "Region": "Krems",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Mautern",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Mautern",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
         "Country": "Spain",
         "Region": "Priorat",
         "Type": "White",
@@ -23334,34 +21480,16 @@
         "Varietal": "Merlot"
     },
     {
-        "Country": "Austria",
-        "Region": "Neusiedlersee Hugelland",
-        "Type": "Red",
-        "Varietal": "Blaufrankisch"
-    },
-    {
         "Country": "Chile",
         "Region": "Casablanca Valley",
         "Type": "Rose",
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Greece",
-        "Region": "Rapsani",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "Spain",
         "Region": "Tierra De Leon",
         "Type": "Red",
         "Varietal": "Prieto Picudo"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Galilee",
-        "Type": "Red",
-        "Varietal": "Petite Sirah"
     },
     {
         "Country": "USA",
@@ -23418,36 +21546,6 @@
         "Varietal": "Grenache"
     },
     {
-        "Country": "Austria",
-        "Region": "Burgenland",
-        "Type": "Red",
-        "Varietal": "St Laurent"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Zobing",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Langenlois",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Kamptal",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "Rose",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "Italy",
         "Region": "Cannonau Di Sardegna",
         "Type": "Red",
@@ -23458,18 +21556,6 @@
         "Region": "Alghero",
         "Type": "White",
         "Varietal": "Torbato"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Wachau",
-        "Type": "White",
-        "Varietal": "Gewurztraminer"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "White",
-        "Varietal": "Roter Veltliner"
     },
     {
         "Country": "USA",
@@ -23524,12 +21610,6 @@
         "Region": "Verdicchio Dei Castelli Di Jesi",
         "Type": "White",
         "Varietal": "Verdicchio"
-    },
-    {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "White",
-        "Varietal": "Pinot Grigio"
     },
     {
         "Country": "USA",
@@ -23604,18 +21684,6 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Cyprus",
-        "Region": "Lemesos",
-        "Type": "White",
-        "Varietal": "Blend"
-    },
-    {
-        "Country": "Cyprus",
-        "Region": "Lemesos",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "Argentina",
         "Region": "El Peral",
         "Type": "Red",
@@ -23688,24 +21756,6 @@
         "Varietal": "Riesling"
     },
     {
-        "Country": "Austria",
-        "Region": "Langenlois",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Kammern",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
-        "Country": "United States",
-        "Region": "California",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
         "Country": "France",
         "Region": "Saint Nicolas De Bourgueil",
         "Type": "Red",
@@ -23772,22 +21822,10 @@
         "Varietal": "Blend"
     },
     {
-        "Country": "Austria",
-        "Region": "Feuersbrunn",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
         "Country": "Portugal",
         "Region": "Madeira",
         "Type": "Dessert",
         "Varietal": "Bual"
-    },
-    {
-        "Country": "Uruguay",
-        "Region": "Canelones",
-        "Type": "Red",
-        "Varietal": "Tannat"
     },
     {
         "Country": "Spain",
@@ -24234,20 +22272,8 @@
         "Varietal": "Blend (Sparkling)"
     },
     {
-        "Country": "Greece",
-        "Region": "Naoussa",
-        "Type": "Red",
-        "Varietal": "Xinomavro"
-    },
-    {
         "Country": "USA",
         "Region": "Oregon",
-        "Type": "Red",
-        "Varietal": "Blend (Red)"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean Islands",
         "Type": "Red",
         "Varietal": "Blend (Red)"
     },
@@ -24384,36 +22410,6 @@
         "Varietal": null
     },
     {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Red",
-        "Varietal": "Xinomavro"
-    },
-    {
-        "Country": "Greece",
-        "Region": "PGI Imathia",
-        "Type": "Red",
-        "Varietal": "Xinomavro"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Rose",
-        "Varietal": " Merlot"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Florina",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Imathia",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
         "Country": "France",
         "Region": "Rhone",
         "Type": "Rose",
@@ -24474,18 +22470,6 @@
         "Varietal": "Sorry"
     },
     {
-        "Country": "Cyprus",
-        "Region": "Commandaria",
-        "Type": "Red",
-        "Varietal": "Cabernet Franc"
-    },
-    {
-        "Country": "Cyprus",
-        "Region": "Commandaria",
-        "Type": "White",
-        "Varietal": "Blend (White)"
-    },
-    {
         "Country": "Spain",
         "Region": "Castile y Leon",
         "Type": "White",
@@ -24502,30 +22486,6 @@
         "Region": "California",
         "Type": "Dessert",
         "Varietal": "S\u00e9millon"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Central Greece",
-        "Type": "White",
-        "Varietal": "Malagouzia"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Central Greece",
-        "Type": "White",
-        "Varietal": "Assyrtiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Central Greece",
-        "Type": "White",
-        "Varietal": "Savatiano"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Central Greece",
-        "Type": "White",
-        "Varietal": "Blend (White)"
     },
     {
         "Country": "Italy",
@@ -24682,48 +22642,6 @@
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Agiorgitiko"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Red",
-        "Varietal": "Blend (Red)"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Nemea",
-        "Type": "Red",
-        "Varietal": "Moscofilero"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "White",
-        "Varietal": "Merlot"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "White",
-        "Varietal": "Garganega"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "Red",
-        "Varietal": "Garganega"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Nemea",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnese",
-        "Type": "White",
-        "Varietal": "Moscophilero"
     },
     {
         "Country": "New Zealand",
@@ -24946,12 +22864,6 @@
         "Region": "Aragon",
         "Type": "White",
         "Varietal": "White Wine"
-    },
-    {
-        "Country": "Great Britain",
-        "Region": "England",
-        "Type": "Sparkling",
-        "Varietal": "Champagne Blend"
     },
     {
         "Country": "Italy",
@@ -25410,18 +23322,6 @@
         "Varietal": "Muscat"
     },
     {
-        "Country": "Bulgaria",
-        "Region": "Thracian Valley",
-        "Type": "Red",
-        "Varietal": "Mavrud"
-    },
-    {
-        "Country": "Bulgaria",
-        "Region": "Thracian Valley",
-        "Type": "White",
-        "Varietal": "Traminer"
-    },
-    {
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "Rose",
@@ -25514,12 +23414,6 @@
     {
         "Country": "USA",
         "Region": "New York",
-        "Type": "Red",
-        "Varietal": "Blend"
-    },
-    {
-        "Country": "Israel",
-        "Region": "Shomron",
         "Type": "Red",
         "Varietal": "Blend"
     },
@@ -25830,12 +23724,6 @@
         "Varietal": "Tannat"
     },
     {
-        "Country": "Greece",
-        "Region": "Greece",
-        "Type": "White",
-        "Varietal": "White Blend"
-    },
-    {
         "Country": "South Africa",
         "Region": "Coastal Region",
         "Type": "Red",
@@ -26058,12 +23946,6 @@
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "Rose",
-        "Varietal": "Rose Blend"
-    },
-    {
         "Country": "Spain",
         "Region": "Spain",
         "Type": "White",
@@ -26176,12 +24058,6 @@
         "Region": "Piedmont",
         "Type": "Vermouth",
         "Varietal": "Spirit And Cocktail"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Niederosterreich",
-        "Type": "White",
-        "Varietal": "Weissburgunder"
     },
     {
         "Country": "South Africa",
@@ -26316,22 +24192,10 @@
         "Varietal": "Glera"
     },
     {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Organic",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
         "Country": "Mexico",
         "Region": "Valle de Guadalupe",
         "Type": "White",
         "Varietal": "Sauvingon Blanc"
-    },
-    {
-        "Country": "Hungary",
-        "Region": "Tokaji",
-        "Type": "White",
-        "Varietal": "Furmit"
     },
     {
         "Country": "Italy",
@@ -26472,36 +24336,6 @@
         "Varietal": "Grenache"
     },
     {
-        "Country": "Austria",
-        "Region": "Nieder\u00f6sterreich",
-        "Type": "Red",
-        "Varietal": "St. Laurent"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Nieder\u00f6sterreich",
-        "Type": "Red",
-        "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Nieder\u00f6sterreich",
-        "Type": "White",
-        "Varietal": "Rotgipfler"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Nieder\u00f6sterreich",
-        "Type": "Red",
-        "Varietal": "Zweigelt"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Nieder\u00f6sterreich",
-        "Type": "Rose",
-        "Varietal": "Pinot Noir"
-    },
-    {
         "Country": "Spain",
         "Region": "Andaluc\u00eda",
         "Type": "Dessert",
@@ -26542,18 +24376,6 @@
         "Region": "Sonoma County",
         "Type": "Red",
         "Varietal": "Red Blend"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnisos",
-        "Type": "Red",
-        "Varietal": "Mavrodaphne"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Peloponnisos",
-        "Type": "White",
-        "Varietal": "Malagouzia"
     },
     {
         "Country": "Chile",
@@ -26644,12 +24466,6 @@
         "Region": "Monterey County",
         "Type": "Red",
         "Varietal": "Grenache"
-    },
-    {
-        "Country": "FALSE",
-        "Region": "California",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
@@ -26830,12 +24646,6 @@
         "Region": "Oregon",
         "Type": "Sparkling",
         "Varietal": "Sparkling Wine"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Attika",
-        "Type": "White",
-        "Varietal": "White Wine"
     },
     {
         "Country": "USA",
@@ -27174,12 +24984,6 @@
         "Varietal": "Monastrel"
     },
     {
-        "Country": "Austria",
-        "Region": "Nieder\u00f6sterreich",
-        "Type": "White",
-        "Varietal": "Gr\u00fcner Veltliner"
-    },
-    {
         "Country": "Australia",
         "Region": "South Australia",
         "Type": "Red",
@@ -27342,18 +25146,6 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Austria",
-        "Region": "Nieder\u00f6sterreich",
-        "Type": "White",
-        "Varietal": "Riesling"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Austria",
-        "Type": "White",
-        "Varietal": "Gruner Veltliner"
-    },
-    {
         "Country": "USA",
         "Region": "California",
         "Type": "Rose",
@@ -27376,12 +25168,6 @@
         "Region": "San Luis Obispo County",
         "Type": "White",
         "Varietal": "Gruner Veltliner"
-    },
-    {
-        "Country": "Austria",
-        "Region": "Weinviertel",
-        "Type": "Red",
-        "Varietal": "Zweigelt"
     },
     {
         "Country": "Italy",
@@ -27648,24 +25434,6 @@
         "Varietal": "Riesling"
     },
     {
-        "Country": "SouthAfrica",
-        "Region": "BreedeRiverValley",
-        "Type": "Red",
-        "Varietal": "Syrah"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "BreedeRiverValley",
-        "Type": "White",
-        "Varietal": "SauvignonBlanc"
-    },
-    {
-        "Country": "SouthAfrica",
-        "Region": "BreedeRiverValley",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "France",
         "Region": "France",
         "Type": "Rose",
@@ -27748,30 +25516,6 @@
         "Region": "Champagne",
         "Type": "Champagne",
         "Varietal": "Chardonany"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Rose",
-        "Varietal": "Syrah"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Aegean",
-        "Type": "White",
-        "Varietal": "White Blend"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Macedonia",
-        "Type": "Dessert",
-        "Varietal": "Malagousia"
-    },
-    {
-        "Country": "Greece",
-        "Region": "Thessaly",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "USA",
