@@ -2142,12 +2142,6 @@
         "Varietal": "Cabernet Sauvingon"
     },
     {
-        "Country": " France",
-        "Region": "Loire",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
         "Country": "Argentina",
         "Region": "Mendoza",
         "Type": "White",
@@ -2192,12 +2186,6 @@
     {
         "Country": "USA",
         "Region": "California",
-        "Type": "Red",
-        "Varietal": "Shiraz"
-    },
-    {
-        "Country": "Australia\u00a0",
-        "Region": "Barossa Valley",
         "Type": "Red",
         "Varietal": "Shiraz"
     },
@@ -8728,12 +8716,6 @@
         "Region": "Cachapoal Valley",
         "Type": "Red",
         "Varietal": "Cabernet Franc"
-    },
-    {
-        "Country": " Italy",
-        "Region": "Tuscany",
-        "Type": "Red",
-        "Varietal": "Sangiovese"
     },
     {
         "Country": "Italy",
@@ -15774,7 +15756,7 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": " Spain",
+        "Country": "Spain",
         "Region": "Castilla Y Leon",
         "Type": "White",
         "Varietal": "Verdejo"
@@ -16314,12 +16296,6 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Lebanon\u00a0",
-        "Region": "Bekka Valley",
-        "Type": "Red",
-        "Varietal": "Cabernet Franc"
-    },
-    {
         "Country": "Lebanon",
         "Region": "Bekka Valley",
         "Type": "Red",
@@ -16722,12 +16698,6 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": " France",
-        "Region": "Champagne",
-        "Type": "Natural",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "Red",
@@ -16924,12 +16894,6 @@
         "Region": "Tuscany",
         "Type": "Natural",
         "Varietal": "Canaiolo"
-    },
-    {
-        "Country": " France",
-        "Region": "Loire Valley",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "USA",
