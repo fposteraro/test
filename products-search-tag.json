@@ -211,12 +211,6 @@
     },
     {
         "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"Cult",
-        "Varietal":"Cabernet Franc"
-    },
-    {
-        "Country":"USA",
         "Region":"California",
         "Type":"White",
         "Varietal":"Pinot Blanc"
@@ -690,36 +684,6 @@
         "Varietal":"Nebbiolo"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"Cult",
-        "Varietal":"Sauvignon Blanc"
-    },
-    {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"Cult",
-        "Varietal":"Cabernet Franc"
-    },
-    {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"Cult",
-        "Varietal":"Chardonnay"
-    },
-    {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"Cult",
-        "Varietal":"Cabernet Franc"
-    },
-    {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"Cult",
-        "Varietal":"Chardonnay"
-    },
-    {
         "Country":"USA",
         "Region":"California",
         "Type":"Sparkling",
@@ -778,18 +742,6 @@
         "Region":"California",
         "Type":"Red",
         "Varietal":"Cabernet Sauvignon"
-    },
-    {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"Cult",
-        "Varietal":"Cabernet Sauvignon"
-    },
-    {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"Cult",
-        "Varietal":"Sangiovese"
     },
     {
         "Country":"Germany",
@@ -870,12 +822,6 @@
         "Varietal":"Cabernet Franc"
     },
     {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"Cult",
-        "Varietal":"Pinot Noir"
-    },
-    {
         "Country":"Germany",
         "Region":"Mosel",
         "Type":"Dessert",
@@ -918,12 +864,6 @@
         "Varietal":"Pinot Noir"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"Cult",
-        "Varietal":"Cabernet Franc"
-    },
-    {
         "Country":"France",
         "Region":"Champagne",
         "Type":"Rose",
@@ -936,34 +876,10 @@
         "Varietal":"Pinot Noir"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"Cult",
-        "Varietal":"Merlot"
-    },
-    {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"Cult",
-        "Varietal":"Sauvignon Blanc"
-    },
-    {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"Cult",
-        "Varietal":"Cabernet Sauvignon"
-    },
-    {
         "Country":"USA",
         "Region":"Napa Valley",
         "Type":"Organic",
         "Varietal":"Cabernet Franc"
-    },
-    {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"Cult",
-        "Varietal":"Cabernet Sauvignon"
     },
     {
         "Country":"France",
@@ -981,12 +897,6 @@
         "Country":"USA",
         "Region":"Napa Valley",
         "Type":"Sparkling",
-        "Varietal":"Merlot"
-    },
-    {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"Cult",
         "Varietal":"Merlot"
     },
     {
@@ -1014,30 +924,6 @@
         "Varietal":"Cabernet Sauvignon"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"Cult",
-        "Varietal":"Chardonnay"
-    },
-    {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"Cult",
-        "Varietal":"Syrah"
-    },
-    {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"Cult",
-        "Varietal":"Cabernet Sauvignon"
-    },
-    {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"Cult",
-        "Varietal":"Sauvignon blanc"
-    },
-    {
         "Country":"Spain",
         "Region":"Catalonia",
         "Type":"Sparkling",
@@ -1053,12 +939,6 @@
         "Country":"France",
         "Region":"Champagne",
         "Type":"Biodynamic",
-        "Varietal":"Pinot Noir"
-    },
-    {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"Cult",
         "Varietal":"Pinot Noir"
     },
     {
