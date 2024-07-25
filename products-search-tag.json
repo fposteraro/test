@@ -5767,19 +5767,19 @@
     },
     {
         "Country": "Argentina",
-        "Region": "Lujan De Cuyo",
+        "Region": "Luj\u00e1n de Cuyo",
         "Type": "Red",
         "Varietal": "Red Blend"
     },
     {
         "Country": "Argentina",
-        "Region": "Lujan De Cuyo",
+        "Region": "Luj\u00e1n de Cuyo",
         "Type": "Red",
         "Varietal": "Malbec"
     },
     {
         "Country": "Argentina",
-        "Region": "Lujan De Cuyo",
+        "Region": "Luj\u00e1n de Cuyo",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
     },
@@ -11599,7 +11599,7 @@
     },
     {
         "Country": "Argentina",
-        "Region": "Lujan de Cuyo",
+        "Region": "Luj\u00e1n de Cuyo",
         "Type": "Red",
         "Varietal": "Syrah"
     },
@@ -12079,7 +12079,7 @@
     },
     {
         "Country": "Argentina",
-        "Region": "AltoAgrelo",
+        "Region": "Agrelo",
         "Type": "White",
         "Varietal": "PinotGris"
     },
@@ -14023,7 +14023,7 @@
     },
     {
         "Country": "Argentina",
-        "Region": "AltoAgrelo",
+        "Region": "Agrelo",
         "Type": "Rose",
         "Varietal": "Malbec"
     },
@@ -14110,12 +14110,6 @@
         "Region": "Coastal Region",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Argentina",
-        "Region": "Argentina : Mendoza",
-        "Type": "Red",
-        "Varietal": "Malbec"
     },
     {
         "Country": "Spain",
@@ -18391,7 +18385,7 @@
     },
     {
         "Country": "Argentina",
-        "Region": "Rio Negro",
+        "Region": "R\u00edo Negro",
         "Type": "Red",
         "Varietal": "Malbec"
     },
@@ -21361,7 +21355,7 @@
     },
     {
         "Country": "Argentina",
-        "Region": "Lujan De Cuyo",
+        "Region": "Luj\u00e1n de Cuyo",
         "Type": "Red",
         "Varietal": "Blend"
     },
@@ -22894,12 +22888,6 @@
         "Region": "Coastal Region",
         "Type": "White",
         "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "Argentina",
-        "Region": "Argentina : Mendoza",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Spain",
