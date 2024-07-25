@@ -1,12 +1,12 @@
 [
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
@@ -18,13 +18,13 @@
         "Varietal": "Sangiovese"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "White",
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Merlot"
@@ -42,7 +42,7 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "White",
         "Varietal": "Sauvignon Blanc"
@@ -114,13 +114,13 @@
         "Varietal": "Cabernet Franc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Cabernet Franc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Rose",
         "Varietal": "Pinot Noir"
@@ -138,7 +138,7 @@
         "Varietal": "Glera"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Syrah"
@@ -174,7 +174,7 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
         "Varietal": "Sauvignon Blanc"
@@ -198,7 +198,7 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
@@ -216,7 +216,7 @@
         "Varietal": "Merlot"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "White",
         "Varietal": "Pinot Blanc"
@@ -240,7 +240,7 @@
         "Varietal": "Merlot"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Merlot"
@@ -258,7 +258,7 @@
         "Varietal": "Sangiovese"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
         "Varietal": "Cabernet Sauvignon"
@@ -270,13 +270,13 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
@@ -354,37 +354,37 @@
         "Varietal": "Nero D'Avola"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Champagne",
         "Type": "White",
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Rose",
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
         "Varietal": "Cabernet Franc"
@@ -654,7 +654,7 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Sangiovese"
@@ -672,73 +672,73 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Sonoma County",
         "Type": "White",
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "White",
         "Varietal": "Moscato"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Sonoma County",
         "Type": "White",
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Sonoma County",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Sonoma County",
         "Type": "Red",
         "Varietal": "Merlot"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "White",
         "Varietal": "Riesling"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Rose",
         "Varietal": "Sangiovese"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Sonoma County",
         "Type": "Red",
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Sparkling",
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Rose",
         "Varietal": "Moscato"
@@ -750,7 +750,7 @@
         "Varietal": "Tempranillo"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Merlot"
@@ -762,61 +762,61 @@
         "Varietal": "Nebbiolo"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Sparkling",
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "White",
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Rose",
         "Varietal": "Merlot"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Rose",
         "Varietal": "Moscato"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "White",
         "Varietal": "Moscato"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Merlot"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Rose",
         "Varietal": "Merlot"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Sangiovese"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Moscato"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
@@ -834,7 +834,7 @@
         "Varietal": "Garnacha Tintorera"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Biodynamic",
         "Varietal": "Cabernet Franc"
@@ -852,7 +852,7 @@
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Cabernet Franc"
@@ -870,13 +870,13 @@
         "Varietal": "Moscato"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Rose",
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
         "Varietal": "Merlot"
@@ -894,7 +894,7 @@
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
         "Varietal": "Merlot"
@@ -924,7 +924,7 @@
         "Varietal": "Syrah"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "California",
         "Type": "Red",
         "Varietal": "Chardonnay"
@@ -936,13 +936,13 @@
         "Varietal": "Tempranillo"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
         "Varietal": "Syrah"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Dessert",
         "Varietal": "Cabernet Sauvignon"
@@ -972,7 +972,7 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Organic",
         "Varietal": "Cabernet Franc"
@@ -996,13 +996,13 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Sparkling",
         "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country": "Usa",
+        "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Sparkling",
         "Varietal": "Merlot"
