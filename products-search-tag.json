@@ -768,31 +768,31 @@
         "Varietal":"Chardonnay"
     },
     {
-        "Country":"United States",
+        "Country":"USA",
         "Region":"California",
         "Type":"white",
         "Varietal":"Chardonnay"
     },
     {
-        "Country":"United States",
+        "Country":"USA",
         "Region":"California",
         "Type":"rose",
         "Varietal":"Merlot"
     },
     {
-        "Country":"United States",
+        "Country":"USA",
         "Region":"California",
         "Type":"rose",
         "Varietal":"Moscato"
     },
     {
-        "Country":"United States",
+        "Country":"USA",
         "Region":"California",
         "Type":"white",
         "Varietal":"Moscato"
     },
     {
-        "Country":"United States",
+        "Country":"USA",
         "Region":"California",
         "Type":"red",
         "Varietal":"Merlot"
@@ -816,7 +816,7 @@
         "Varietal":"Moscato"
     },
     {
-        "Country":"United States",
+        "Country":"USA",
         "Region":"California",
         "Type":"red",
         "Varietal":"Cabernet Sauvignon"
