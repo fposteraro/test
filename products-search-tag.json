@@ -105,7 +105,7 @@
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
@@ -135,19 +135,19 @@
         "Country": "USA",
         "Region": "Santa Barbara County",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Burgundy",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
@@ -207,7 +207,7 @@
         "Country": "France",
         "Region": "Saint-Julien",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
@@ -219,7 +219,7 @@
         "Country": "France",
         "Region": "Margaux",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Spain",
@@ -387,7 +387,7 @@
         "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "Spain",
@@ -2053,7 +2053,7 @@
     },
     {
         "Country": "Italy",
-        "Region": " Tuscany",
+        "Region": "Tuscany",
         "Type": "Red",
         "Varietal": "Merlot"
     },
@@ -2176,12 +2176,6 @@
         "Region": "Loire",
         "Type": "Red",
         "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Tuscany",
-        "Type": "Red",
-        "Varietal": "Merlot"
     },
     {
         "Country": "USA",
@@ -2368,12 +2362,6 @@
         "Region": "Maipo Valley",
         "Type": "Red",
         "Varietal": "Bordeaux Blend"
-    },
-    {
-        "Country": "France",
-        "Region": "Bordeaux",
-        "Type": "Red",
-        "Varietal": "Merlot"
     },
     {
         "Country": "Spain",
@@ -2857,7 +2845,7 @@
     },
     {
         "Country": "South Africa",
-        "Region": " Western Cape",
+        "Region": "Western Cape",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
     },
@@ -2937,43 +2925,31 @@
         "Country": "Italy",
         "Region": "Tuscany",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Tuscany",
-        "Type": "Red",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Piedmont",
-        "Type": "Red",
-        "Varietal": " Pinot Noir"
     },
     {
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Burgundy",
         "Type": "Red",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "France",
         "Region": "Burgundy",
         "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
@@ -2985,13 +2961,13 @@
         "Country": "France",
         "Region": "Burgundy",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Argentina",
         "Region": "Mendoza",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Chile",
@@ -3009,37 +2985,31 @@
         "Country": "Argentina",
         "Region": "Mendoza",
         "Type": "White",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Argentina",
         "Region": "Napa Valley",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "Argentina",
         "Region": "Mendoza",
         "Type": "Red",
-        "Varietal": " Syrah"
+        "Varietal": "Syrah"
     },
     {
         "Country": "Chile",
         "Region": "Valle del Maipo",
         "Type": "Red",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "Argentina",
         "Region": "Uco Valley",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
-    },
-    {
-        "Country": "Argentina",
-        "Region": "Mendoza",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Spain",
@@ -3051,7 +3021,7 @@
         "Country": "Spain",
         "Region": "Rueda",
         "Type": "Red",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "Spain",
@@ -3067,27 +3037,15 @@
     },
     {
         "Country": "Spain",
-        "Region": "Priorat",
-        "Type": "Red",
-        "Varietal": " Pinot Noir"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Rioja",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
-    },
-    {
-        "Country": "Spain",
         "Region": "Jerez-X\u00e9r\u00e8s-Sherry",
         "Type": "Dessert",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Spain",
         "Region": "Rueda",
         "Type": "White",
-        "Varietal": " Marsanne"
+        "Varietal": "Marsanne"
     },
     {
         "Country": "Spain",
@@ -3099,13 +3057,13 @@
         "Country": "Spain",
         "Region": "Calatayud",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Spain",
         "Region": "Calatayud",
         "Type": "Red",
-        "Varietal": " Viognier"
+        "Varietal": "Viognier"
     },
     {
         "Country": "Spain",
@@ -3117,7 +3075,7 @@
         "Country": "Spain",
         "Region": "Utiel-Requena",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "Spain",
@@ -3129,25 +3087,25 @@
         "Country": "Spain",
         "Region": "Rueda",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Spain",
         "Region": "Bierzo",
         "Type": "Port",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Spain",
         "Region": "Priorat",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Spain",
         "Region": "Yecla",
         "Type": "Sangria",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Spain",
@@ -3165,7 +3123,7 @@
         "Country": "Spain",
         "Region": "Ribera del Duero",
         "Type": "Red",
-        "Varietal": " Grenache"
+        "Varietal": "Grenache"
     },
     {
         "Country": "Spain",
@@ -3189,7 +3147,7 @@
         "Country": "Spain",
         "Region": "Rias Baixas",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Spain",
@@ -3201,13 +3159,13 @@
         "Country": "Spain",
         "Region": "Rias Baixas",
         "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Spain",
         "Region": "Castilla y Le\u00f3n",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "Spain",
@@ -3219,7 +3177,7 @@
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "Fortified",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Spain",
@@ -3237,49 +3195,49 @@
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "White",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Spain",
         "Region": "Rias Baixas",
         "Type": "Dessert",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Spain",
         "Region": "Utiel-Requena",
         "Type": "Sparkling",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "Spain",
         "Region": "Bierzo",
         "Type": "White",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "Fortified",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "Fortified",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "Dessert",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "Portugal",
@@ -3291,13 +3249,13 @@
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "Dessert",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "Dessert",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Portugal",
@@ -3339,7 +3297,7 @@
         "Country": "Spain",
         "Region": "Rioja",
         "Type": "Red",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "Spain",
@@ -3357,7 +3315,7 @@
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
@@ -3423,7 +3381,7 @@
         "Country": "Italy",
         "Region": "Friuli-Venezia Giulia",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -3459,7 +3417,7 @@
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -3471,7 +3429,7 @@
         "Country": "Italy",
         "Region": "Friuli-Venezia Giulia",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
@@ -3483,7 +3441,7 @@
         "Country": "Italy",
         "Region": "Friuli-Venezia Giulia",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -3520,12 +3478,6 @@
         "Region": "Piedmont",
         "Type": "White",
         "Varietal": "Nebbiolo"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Tuscany",
-        "Type": "Red",
-        "Varietal": " Chardonnay"
     },
     {
         "Country": "Italy",
@@ -3657,25 +3609,25 @@
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "Red",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "Italy",
         "Region": "Gavi",
         "Type": "White",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
@@ -3687,13 +3639,13 @@
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -3819,7 +3771,7 @@
         "Country": "Italy",
         "Region": "Valpolicella DOC",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -3849,7 +3801,7 @@
         "Country": "Italy",
         "Region": "Abruzzo",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -3879,25 +3831,25 @@
         "Country": "Italy",
         "Region": "Romagna",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Italy",
         "Region": "Tuscany",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
         "Region": "Tuscany",
         "Type": "White",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Italy",
         "Region": "Puglia",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Italy",
@@ -3933,7 +3885,7 @@
         "Country": "USA",
         "Region": "Marlborough",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "USA",
@@ -3981,7 +3933,7 @@
         "Country": "USA",
         "Region": "Russian River Valley",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "USA",
@@ -4005,7 +3957,7 @@
         "Country": "USA",
         "Region": "Central Coast",
         "Type": "White",
-        "Varietal": " H\u00e1rslevelu"
+        "Varietal": "H\u00e1rslevelu"
     },
     {
         "Country": "USA",
@@ -4021,12 +3973,6 @@
     },
     {
         "Country": "USA",
-        "Region": "Napa Valley",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
-        "Country": "USA",
         "Region": "Maipo Valley",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
@@ -4035,7 +3981,7 @@
         "Country": "USA",
         "Region": "Cienega Valley",
         "Type": "Red",
-        "Varietal": " H\u00e1rslevelu"
+        "Varietal": "H\u00e1rslevelu"
     },
     {
         "Country": "USA",
@@ -4093,18 +4039,6 @@
     },
     {
         "Country": "USA",
-        "Region": "Napa Valley",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
-    },
-    {
-        "Country": "USA",
-        "Region": "Marlborough",
-        "Type": "White",
-        "Varietal": " Sauvignon Blanc"
-    },
-    {
-        "Country": "USA",
         "Region": "Maipo Valley",
         "Type": "White",
         "Varietal": "Cabernet Sauvignon"
@@ -4125,13 +4059,13 @@
         "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Red",
-        "Varietal": " H\u00e1rslevelu"
+        "Varietal": "H\u00e1rslevelu"
     },
     {
         "Country": "USA",
@@ -4143,7 +4077,7 @@
         "Country": "USA",
         "Region": "Central Coast",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "USA",
@@ -4161,7 +4095,7 @@
         "Country": "USA",
         "Region": "Napa Valley",
         "Type": "White",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "USA",
@@ -4173,7 +4107,7 @@
         "Country": "USA",
         "Region": "Russian River Valley",
         "Type": "White",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "USA",
@@ -4240,12 +4174,6 @@
         "Region": "Central Coast",
         "Type": "Red",
         "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "USA",
-        "Region": "Napa Valley",
-        "Type": "Red",
-        "Varietal": " Cabernet Franc"
     },
     {
         "Country": "USA",
@@ -4317,7 +4245,7 @@
         "Country": "Australia",
         "Region": "Russian River Valley",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Australia",
@@ -4339,27 +4267,15 @@
     },
     {
         "Country": "France",
-        "Region": "Burgundy",
-        "Type": "Red",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "France",
         "Region": "Cotes de Provence",
         "Type": "White",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Rose",
-        "Varietal": " Cabernet Sauvignon"
-    },
-    {
-        "Country": "France",
-        "Region": "Bordeaux",
-        "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Italy",
@@ -4371,13 +4287,13 @@
         "Country": "France",
         "Region": "C\u00f4tes de Provence",
         "Type": "White",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Tavel",
         "Type": "Rose",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
@@ -4389,7 +4305,7 @@
         "Country": "France",
         "Region": "C\u00f4tes du Rhone",
         "Type": "Red",
-        "Varietal": " Syrah"
+        "Varietal": "Syrah"
     },
     {
         "Country": "Germany",
@@ -4431,25 +4347,25 @@
         "Country": "France",
         "Region": "Alsace",
         "Type": "Sparkling",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Alsace",
         "Type": "White",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Alsace",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Burgundy",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -4461,37 +4377,31 @@
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
-    },
-    {
-        "Country": "France",
-        "Region": "Champagne",
-        "Type": "Red",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Champagne",
         "Type": "Sparkling",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "France",
         "Region": "Champagne",
         "Type": "Rose",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "France",
         "Region": "Pessac-L\u00e9ognan",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -4503,37 +4413,31 @@
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "White",
-        "Varietal": " Semillon"
+        "Varietal": "Semillon"
     },
     {
         "Country": "France",
         "Region": "Saint-\u00c9milion",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
-    },
-    {
-        "Country": "France",
-        "Region": "Bordeaux",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Sauternes",
         "Type": "White",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "France",
         "Region": "Saint-Julien",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Saint-Emilion",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -4545,49 +4449,43 @@
         "Country": "France",
         "Region": "Pessac-Leognan",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Pauillac",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Pomerol",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Burgundy",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Cote du Roussillon",
         "Type": "White",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Champagne",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
-    },
-    {
-        "Country": "France",
-        "Region": "Bordeaux",
-        "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
@@ -4600,12 +4498,6 @@
         "Region": "Burgundy",
         "Type": "White",
         "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "France",
-        "Region": "Bordeaux",
-        "Type": "White",
-        "Varietal": " Sauvignon Blanc"
     },
     {
         "Country": "France",
@@ -4623,7 +4515,7 @@
         "Country": "USA",
         "Region": "Finger Lakes",
         "Type": "Sparkling",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "France",
@@ -4641,7 +4533,7 @@
         "Country": "France",
         "Region": "Saint-Emilion",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
@@ -4653,7 +4545,7 @@
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Red",
-        "Varietal": " Syrah"
+        "Varietal": "Syrah"
     },
     {
         "Country": "France",
@@ -4665,7 +4557,7 @@
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Sparkling",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
@@ -4677,25 +4569,25 @@
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "C\u00f4tes du Rhone",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "Red",
-        "Varietal": " Viognier"
+        "Varietal": "Viognier"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Rose",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
@@ -4713,31 +4605,31 @@
         "Country": "France",
         "Region": "Beaujolais",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "White",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "White",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Central Valley",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -4749,19 +4641,19 @@
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Champagne",
         "Type": "White",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Sparkling",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
@@ -4785,7 +4677,7 @@
         "Country": "France",
         "Region": "Saint-Est\u00e8phe",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
@@ -4797,13 +4689,13 @@
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Montagne St Emilion",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -4815,7 +4707,7 @@
         "Country": "France",
         "Region": "Graves",
         "Type": "White",
-        "Varietal": " Semillon"
+        "Varietal": "Semillon"
     },
     {
         "Country": "France",
@@ -4836,12 +4728,6 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "USA",
-        "Region": "Napa Valley",
-        "Type": "White",
-        "Varietal": "Merlot"
-    },
-    {
         "Country": "France",
         "Region": "Macon",
         "Type": "Red",
@@ -4851,67 +4737,61 @@
         "Country": "France",
         "Region": "Haut-M\u00e9doc",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
-    },
-    {
-        "Country": "France",
-        "Region": "Bordeaux",
-        "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Cotes-du-Rhone",
         "Type": "Rose",
-        "Varietal": " Pinot Meunier"
+        "Varietal": "Pinot Meunier"
     },
     {
         "Country": "France",
         "Region": "Medoc",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "Sparkling",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Burgundy",
         "Type": "White",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Languedoc-Roussillon",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Languedoc-Roussillon",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Languedoc-Roussillon",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "White",
-        "Varietal": " Syrah"
+        "Varietal": "Syrah"
     },
     {
         "Country": "France",
@@ -4923,31 +4803,31 @@
         "Country": "France",
         "Region": "Provence",
         "Type": "White",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "Rose",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Ventoux",
         "Type": "White",
-        "Varietal": " Syrah"
+        "Varietal": "Syrah"
     },
     {
         "Country": "France",
         "Region": "Gigondas",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Vacqueyras",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Japan",
@@ -4971,37 +4851,31 @@
         "Country": "France",
         "Region": "Oregon",
         "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Languedoc-Roussillon",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "Red",
-        "Varietal": " Marsanne"
-    },
-    {
-        "Country": "France",
-        "Region": "Rhone Valley",
-        "Type": "Red",
-        "Varietal": "Viognier"
+        "Varietal": "Marsanne"
     },
     {
         "Country": "France",
         "Region": "Sauternes",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "France",
         "Region": "Cotes du Rhone",
         "Type": "Red",
-        "Varietal": " Roussanne"
+        "Varietal": "Roussanne"
     },
     {
         "Country": "France",
@@ -5013,7 +4887,7 @@
         "Country": "France",
         "Region": "Provence",
         "Type": "Red",
-        "Varietal": " Grenache"
+        "Varietal": "Grenache"
     },
     {
         "Country": "France",
@@ -5025,7 +4899,7 @@
         "Country": "France",
         "Region": "Burgundy",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "France",
@@ -5037,19 +4911,19 @@
         "Country": "France",
         "Region": "Oregon",
         "Type": "Rose",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Languedoc-Roussillon",
         "Type": "Rose",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Provence",
         "Type": "Red",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "France",
@@ -5061,13 +4935,13 @@
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "White",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
@@ -5079,31 +4953,31 @@
         "Country": "France",
         "Region": "Provence",
         "Type": "Rose",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "France",
         "Region": "Cotes du Rhone",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Champagne",
         "Type": "Rose",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Cotes du Rhone",
         "Type": "Rose",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Cotes de Castillon",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -5119,15 +4993,9 @@
     },
     {
         "Country": "France",
-        "Region": "Bordeaux",
-        "Type": "White",
-        "Varietal": "Semillon"
-    },
-    {
-        "Country": "France",
         "Region": "Napa Valley",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -5137,69 +5005,63 @@
     },
     {
         "Country": "France",
-        "Region": "Provence",
-        "Type": "Rose",
-        "Varietal": " Cinsault"
-    },
-    {
-        "Country": "France",
         "Region": "Southwest France",
         "Type": "White",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "France",
         "Region": "Pauillac",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Haut-M\u00e9doc",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Provence",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Saint-Julien",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Alsace",
         "Type": "Rose",
-        "Varietal": " Pinot Meunier"
+        "Varietal": "Pinot Meunier"
     },
     {
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Rose",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Saint-Estephe",
         "Type": "Red",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "France",
         "Region": "Beaujolais",
         "Type": "White",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "France",
         "Region": "Medoc",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Italy",
@@ -5209,7 +5071,7 @@
     },
     {
         "Country": "Spain",
-        "Region": " Ribera del Duero",
+        "Region": "Ribera del Duero",
         "Type": "Red",
         "Varietal": "Tempranillo"
     },
@@ -5628,18 +5490,6 @@
         "Varietal": "RedBlend"
     },
     {
-        "Country": "USA",
-        "Region": "Napa Valley",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "Italy",
-        "Region": " Piedmont",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "Australia",
         "Region": "Barossa Valley",
         "Type": "Red",
@@ -5970,12 +5820,6 @@
         "Varietal": "White Blend"
     },
     {
-        "Country": "France",
-        "Region": "Beaujolais",
-        "Type": "White",
-        "Varietal": "Chardonnay"
-    },
-    {
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "Red",
@@ -6273,25 +6117,19 @@
         "Country": "France",
         "Region": "Pauillac",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Margaux",
         "Type": "Red",
-        "Varietal": " Cabernet Franc and Cabernet Sauvignon."
+        "Varietal": "Cabernet Franc and Cabernet Sauvignon."
     },
     {
         "Country": "France",
         "Region": "Saint-Emilion",
         "Type": "Red",
-        "Varietal": " Cabernet Franc and Cabernet Sauvignon."
-    },
-    {
-        "Country": "France",
-        "Region": "Saint-Emilion",
-        "Type": "Red",
-        "Varietal": "Merlot"
+        "Varietal": "Cabernet Franc and Cabernet Sauvignon."
     },
     {
         "Country": "France",
@@ -6303,7 +6141,7 @@
         "Country": "South Africa",
         "Region": "Constantia",
         "Type": "Dessert",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -6315,7 +6153,7 @@
         "Country": "France",
         "Region": "Sauternes",
         "Type": "Dessert",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Georgia",
@@ -6370,18 +6208,6 @@
         "Region": "Santa Cruz Mountains",
         "Type": "Red",
         "Varietal": "Cabernet Sauvignon"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Veneto",
-        "Type": "Red",
-        "Varietal": "Cabernet Franc"
-    },
-    {
-        "Country": "France",
-        "Region": "Provence",
-        "Type": "Red",
-        "Varietal": "Grenache"
     },
     {
         "Country": "Spain",
@@ -6650,12 +6476,6 @@
     {
         "Country": "Argentina",
         "Region": "Uco Valley",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
-        "Country": "Argentina",
-        "Region": "Uco Valley",
         "Type": "White",
         "Varietal": "Chardonnay"
     },
@@ -6727,12 +6547,6 @@
     },
     {
         "Country": "France",
-        "Region": "Provence",
-        "Type": "Rose",
-        "Varietal": "Grenache\u00a0"
-    },
-    {
-        "Country": "France",
         "Region": "Loire",
         "Type": "Red",
         "Varietal": "Grolleau"
@@ -6748,12 +6562,6 @@
         "Region": "Central Otago",
         "Type": "Red",
         "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "Italy",
-        "Region": " Tuscany",
-        "Type": "Red",
-        "Varietal": "Sangiovese"
     },
     {
         "Country": "Italy",
@@ -6898,12 +6706,6 @@
         "Region": "Rhone Valley",
         "Type": "Red",
         "Varietal": "Rhone Blend"
-    },
-    {
-        "Country": "France",
-        "Region": "Languedoc-Roussillon",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
@@ -7060,12 +6862,6 @@
         "Region": "Vento",
         "Type": "Sparkling",
         "Varietal": "Prosecco"
-    },
-    {
-        "Country": "France",
-        "Region": "Champagne",
-        "Type": "Sparkling",
-        "Varietal": "Pinot Noir"
     },
     {
         "Country": "France",
@@ -8298,12 +8094,6 @@
         "Varietal": "Verdejo"
     },
     {
-        "Country": "Italy",
-        "Region": "Puglia",
-        "Type": "Red",
-        "Varietal": "\tAglianico"
-    },
-    {
         "Country": "Australia",
         "Region": "SouthAustralia",
         "Type": "Red",
@@ -9081,31 +8871,31 @@
         "Country": "France",
         "Region": "Languedoc-Roussillon",
         "Type": "White",
-        "Varietal": " Terret"
+        "Varietal": "Terret"
     },
     {
         "Country": "France",
         "Region": "Beaujolais",
         "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Australia",
         "Region": "McLaren Vale",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Australia",
         "Region": "Margaret River",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "France",
         "Region": "Gascony",
         "Type": "White",
-        "Varietal": " Ugni Blanc"
+        "Varietal": "Ugni Blanc"
     },
     {
         "Country": "France",
@@ -9624,12 +9414,6 @@
         "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country": "France",
-        "Region": "Provence",
-        "Type": "Rose",
-        "Varietal": "\nCinsault"
-    },
-    {
         "Country": "South Africa",
         "Region": "Robertson Wine Valley",
         "Type": "Red",
@@ -9645,7 +9429,7 @@
         "Country": "Portugal",
         "Region": "Alentejo",
         "Type": "Red",
-        "Varietal": "\nSyrah"
+        "Varietal": "Syrah"
     },
     {
         "Country": "USA",
@@ -9670,12 +9454,6 @@
         "Region": "Western Australia",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Spain",
-        "Region": " Rioja",
-        "Type": "Rose",
-        "Varietal": "Garnacha"
     },
     {
         "Country": "Spain",
@@ -10002,12 +9780,6 @@
         "Varietal": "Garnacha"
     },
     {
-        "Country": "South Africa",
-        "Region": "Western Cape",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
         "Country": "France",
         "Region": "Loire",
         "Type": "White",
@@ -10155,37 +9927,31 @@
         "Country": "France",
         "Region": "Fronsac",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Rose",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Pessac-Leognan",
         "Type": "White",
-        "Varietal": " Semillon"
+        "Varietal": "Semillon"
     },
     {
         "Country": "France",
         "Region": "Medoc",
         "Type": "Red",
-        "Varietal": " Chardonnay"
-    },
-    {
-        "Country": "France",
-        "Region": "Champagne",
-        "Type": "Red",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "USA",
         "Region": "Napa Valley",
         "Type": "Sparkling",
-        "Varietal": " Merlot"
+        "Varietal": "Merlot"
     },
     {
         "Country": "Chile",
@@ -10197,13 +9963,13 @@
         "Country": "France",
         "Region": "Saint-Est\u00e8phe",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Pessac-L\u00e9ognan",
         "Type": "White",
-        "Varietal": " Semillon"
+        "Varietal": "Semillon"
     },
     {
         "Country": "Chile",
@@ -10245,25 +10011,25 @@
         "Country": "Spain",
         "Region": "Ribera del Duero",
         "Type": "Red",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "Spain",
         "Region": "Valle de Guadalupe",
         "Type": "Red",
-        "Varietal": " Roussanne"
+        "Varietal": "Roussanne"
     },
     {
         "Country": "Spain",
         "Region": "Utiel-Requena",
         "Type": "Rose",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Spain",
         "Region": "Utiel-Requena",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Spain",
@@ -10273,15 +10039,9 @@
     },
     {
         "Country": "Italy",
-        "Region": "Piedmont",
-        "Type": "Red",
-        "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Italy",
         "Region": "Sardinia",
         "Type": "Red",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "Chile",
@@ -10320,22 +10080,10 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "France",
-        "Region": "Saint-Julien",
-        "Type": "Red",
-        "Varietal": "Cabernet Sauvignon"
-    },
-    {
         "Country": "Bulgaria",
         "Region": "Thracian Valley",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
-    },
-    {
-        "Country": "USA",
-        "Region": "Mendocino County",
-        "Type": "Red",
-        "Varietal": " Petite Sirah"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Italy",
@@ -10762,12 +10510,6 @@
         "Region": "Napa Valley",
         "Type": "Sparkling",
         "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "USA",
-        "Region": "Napa Valley",
-        "Type": "Sparkling",
-        "Varietal": "Merlot"
     },
     {
         "Country": "USA",
@@ -11281,15 +11023,9 @@
     },
     {
         "Country": "France",
-        "Region": "Sauternes",
-        "Type": "White",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "France",
         "Region": "Dordogne Valley",
         "Type": "White",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "France",
@@ -11301,19 +11037,13 @@
         "Country": "France",
         "Region": "Champagne",
         "Type": "Sparkling",
-        "Varietal": " Cabernet Sauvignon"
-    },
-    {
-        "Country": "France",
-        "Region": "Champagne",
-        "Type": "Sparkling",
-        "Varietal": " Chardonnay"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "St Emilion",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
@@ -11325,7 +11055,7 @@
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
@@ -11337,13 +11067,13 @@
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "Rose",
-        "Varietal": " Bourboulenc"
+        "Varietal": "Bourboulenc"
     },
     {
         "Country": "France",
         "Region": "Provence",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "USA",
@@ -11355,7 +11085,7 @@
         "Country": "France",
         "Region": "Beaujolais",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
@@ -11371,27 +11101,15 @@
     },
     {
         "Country": "France",
-        "Region": "Loire Valley",
-        "Type": "White",
-        "Varietal": "Merlot"
-    },
-    {
-        "Country": "France",
         "Region": "Douro Valley",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Rhone Valley",
         "Type": "White",
-        "Varietal": " Mourvedre"
-    },
-    {
-        "Country": "France",
-        "Region": "Rhone Valley",
-        "Type": "Red",
-        "Varietal": " Syrah"
+        "Varietal": "Mourvedre"
     },
     {
         "Country": "USA",
@@ -11403,31 +11121,19 @@
         "Country": "France",
         "Region": "C\u00f4tes de Provence",
         "Type": "Rose",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Provence",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
-    },
-    {
-        "Country": "France",
-        "Region": "Loire Valley",
-        "Type": "Red",
-        "Varietal": " Cabernet Franc"
-    },
-    {
-        "Country": "France",
-        "Region": "Bordeaux",
-        "Type": "White",
-        "Varietal": " Merlot"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "France",
         "Region": "Bordeaux",
         "Type": "Red",
-        "Varietal": " Pinot Meunier"
+        "Varietal": "Pinot Meunier"
     },
     {
         "Country": "France",
@@ -11439,7 +11145,7 @@
         "Country": "France",
         "Region": "Gascony",
         "Type": "Armagnac",
-        "Varietal": " Baco"
+        "Varietal": "Baco"
     },
     {
         "Country": "France",
@@ -11455,12 +11161,6 @@
     },
     {
         "Country": "France",
-        "Region": "Burgundy",
-        "Type": "Red",
-        "Varietal": " Pinot Noir"
-    },
-    {
-        "Country": "France",
         "Region": "Languedoc-Roussillon",
         "Type": "Rose",
         "Varietal": "Cabernet Franc"
@@ -11469,25 +11169,19 @@
         "Country": "USA",
         "Region": "Oregon",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Pessac-L\u00e9ognan",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "France",
         "Region": "Loire Valley",
         "Type": "Rose",
-        "Varietal": " Grolleau"
-    },
-    {
-        "Country": "France",
-        "Region": "Champagne",
-        "Type": "Rose",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Grolleau"
     },
     {
         "Country": "France",
@@ -11499,7 +11193,7 @@
         "Country": "France",
         "Region": "Alsace",
         "Type": "White",
-        "Varietal": " Pinot Meunier"
+        "Varietal": "Pinot Meunier"
     },
     {
         "Country": "Germany",
@@ -11523,25 +11217,25 @@
         "Country": "France",
         "Region": "Cotes de Provence",
         "Type": "Rose",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "France",
         "Region": "Ch\u00e2teauneuf-du-Pape",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Ch\u00e2teauneuf-du-Pape",
         "Type": "Sparkling",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Basque Country",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Chile",
@@ -11553,7 +11247,7 @@
         "Country": "USA",
         "Region": "Russian River Valley",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "USA",
@@ -11565,19 +11259,7 @@
         "Country": "Chile",
         "Region": "Valle de Guadalupe",
         "Type": "White",
-        "Varietal": " Cinsault"
-    },
-    {
-        "Country": "USA",
-        "Region": "Napa Valley",
-        "Type": "Red",
-        "Varietal": "Sauvignon Blanc"
-    },
-    {
-        "Country": "USA",
-        "Region": "Napa Valley",
-        "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "USA",
@@ -11589,19 +11271,13 @@
         "Country": "USA",
         "Region": "Maipo Valley",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "USA",
         "Region": "Cienega Valley",
         "Type": "Red",
         "Varietal": "Pinot Noir"
-    },
-    {
-        "Country": "USA",
-        "Region": "Paso Robles",
-        "Type": "Red",
-        "Varietal": " Syrah"
     },
     {
         "Country": "USA",
@@ -11613,19 +11289,19 @@
         "Country": "USA",
         "Region": "Central Coast",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "USA",
         "Region": "Dundee Hills",
         "Type": "White",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "Italy",
@@ -11643,7 +11319,7 @@
         "Country": "Italy",
         "Region": "Abruzzo",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -11655,7 +11331,7 @@
         "Country": "Italy",
         "Region": "Tuscany",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -11667,7 +11343,7 @@
         "Country": "Italy",
         "Region": "Chianti Classico",
         "Type": "Red",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
@@ -11715,7 +11391,7 @@
         "Country": "Italy",
         "Region": "Toscana",
         "Type": "Grappa",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
@@ -11733,13 +11409,13 @@
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
         "Region": "Priorat",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "Italy",
@@ -11757,7 +11433,7 @@
         "Country": "Italy",
         "Region": "South Tyrol",
         "Type": "White",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Italy",
@@ -11769,7 +11445,7 @@
         "Country": "Italy",
         "Region": "Piedmont",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Italy",
@@ -11785,15 +11461,9 @@
     },
     {
         "Country": "Italy",
-        "Region": "Veneto",
-        "Type": "White",
-        "Varietal": " Cabernet Sauvignon"
-    },
-    {
-        "Country": "Italy",
         "Region": "Tuscany",
         "Type": "White",
-        "Varietal": " Pinot Noir"
+        "Varietal": "Pinot Noir"
     },
     {
         "Country": "Italy",
@@ -11853,7 +11523,7 @@
         "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "Fortified",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Spain",
@@ -11865,19 +11535,19 @@
         "Country": "Spain",
         "Region": "Rias Baixas",
         "Type": "Fortified Wine",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Spain",
         "Region": "Rioja",
         "Type": "Red",
-        "Varietal": " Semillon"
+        "Varietal": "Semillon"
     },
     {
         "Country": "Spain",
         "Region": "Ribera de Guadiana",
         "Type": "Red",
-        "Varietal": " Semillon"
+        "Varietal": "Semillon"
     },
     {
         "Country": "Portugal",
@@ -11889,13 +11559,13 @@
         "Country": "Spain",
         "Region": "Ribera del Duero",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "Spain",
         "Region": "Valencia",
         "Type": "Sangria",
-        "Varietal": " Cabernet Franc"
+        "Varietal": "Cabernet Franc"
     },
     {
         "Country": "Portugal",
@@ -11907,31 +11577,19 @@
         "Country": "Spain",
         "Region": "Utiel-Requena",
         "Type": "Rose",
-        "Varietal": " Chardonnay"
+        "Varietal": "Chardonnay"
     },
     {
         "Country": "Spain",
         "Region": "Jerez-X\u00e9r\u00e8s-Sherry",
         "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Cabernet Sauvignon"
     },
     {
         "Country": "Spain",
         "Region": "Rioja",
         "Type": "Red",
-        "Varietal": "Semillon"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Rioja",
-        "Type": "Red",
-        "Varietal": " Bourboulenc"
-    },
-    {
-        "Country": "Chile",
-        "Region": "Maipo Valley",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
+        "Varietal": "Bourboulenc"
     },
     {
         "Country": "Chile",
@@ -11943,13 +11601,13 @@
         "Country": "Argentina",
         "Region": "Lujan de Cuyo",
         "Type": "Red",
-        "Varietal": " Syrah"
+        "Varietal": "Syrah"
     },
     {
         "Country": "Chile",
         "Region": "Bordeaux",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Argentina",
@@ -11967,19 +11625,19 @@
         "Country": "Chile",
         "Region": "Central Valley",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Chile",
         "Region": "Colchagua Valley",
         "Type": "White",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
         "Region": "Burgundy",
         "Type": "Red",
-        "Varietal": " Cinsault"
+        "Varietal": "Cinsault"
     },
     {
         "Country": "Spain",
@@ -14508,12 +14166,6 @@
         "Varietal": "Pinotage"
     },
     {
-        "Country": "Italy",
-        "Region": " Veneto",
-        "Type": "Red",
-        "Varietal": "Merlot"
-    },
-    {
         "Country": "USA",
         "Region": "Potter Valley",
         "Type": "White",
@@ -14644,12 +14296,6 @@
         "Region": "Western Cape",
         "Type": "White",
         "Varietal": "Chardonnay"
-    },
-    {
-        "Country": "Spain",
-        "Region": " Rioja",
-        "Type": "White",
-        "Varietal": "Viura"
     },
     {
         "Country": "Italy",
@@ -14880,12 +14526,6 @@
         "Varietal": "Champagne Blend"
     },
     {
-        "Country": "Argentina",
-        "Region": "Mendoza",
-        "Type": "Red",
-        "Varietal": " \nCabernet Sauvignon"
-    },
-    {
         "Country": "New Zealand",
         "Region": "North Island",
         "Type": "White",
@@ -14971,12 +14611,6 @@
     },
     {
         "Country": "Spain",
-        "Region": "\u00a0Ribera del Duero",
-        "Type": "Red",
-        "Varietal": "Tempranillo"
-    },
-    {
-        "Country": "Spain",
         "Region": "Bierzo",
         "Type": "Red",
         "Varietal": "Alicante Bouschet"
@@ -14985,7 +14619,7 @@
         "Country": "France",
         "Region": "Saint-Emilion",
         "Type": "Red",
-        "Varietal": " Sauvignon Blanc"
+        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "Spain",
@@ -15546,12 +15180,6 @@
         "Varietal": "Chardonnay"
     },
     {
-        "Country": "Lebanon",
-        "Region": "Bekaa Valley",
-        "Type": "Red",
-        "Varietal": " Cinsault"
-    },
-    {
         "Country": "France",
         "Region": "Burgundy",
         "Type": "natural",
@@ -15672,12 +15300,6 @@
         "Varietal": "Pinot Noir"
     },
     {
-        "Country": "Italy",
-        "Region": "Piedmont",
-        "Type": "Red",
-        "Varietal": "Cabernet Franc"
-    },
-    {
         "Country": "Australia",
         "Region": "Barossa Valey",
         "Type": "Red",
@@ -15747,7 +15369,7 @@
         "Country": "Portugal",
         "Region": "Dao",
         "Type": "Red",
-        "Varietal": " Touriga Nacional"
+        "Varietal": "Touriga Nacional"
     },
     {
         "Country": "Spain",
@@ -16023,12 +15645,6 @@
         "Country": "France",
         "Region": "Cotes de Provence",
         "Type": "Rose",
-        "Varietal": "Cinsault"
-    },
-    {
-        "Country": "France",
-        "Region": "Cotes de Provence",
-        "Type": "Rose",
         "Varietal": "Grenache"
     },
     {
@@ -16184,12 +15800,6 @@
     {
         "Country": "Spain",
         "Region": "Ribera del Duero",
-        "Type": "Red",
-        "Varietal": "Syrah"
-    },
-    {
-        "Country": "Portugal",
-        "Region": "Alentejo",
         "Type": "Red",
         "Varietal": "Syrah"
     },
@@ -16399,7 +16009,7 @@
     },
     {
         "Country": "Italy",
-        "Region": "\tTrentino-Alto Adige",
+        "Region": "Trentino-Alto Adige",
         "Type": "Sparkling",
         "Varietal": "Chardonnay"
     },
@@ -20013,7 +19623,7 @@
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "Red",
-        "Varietal": " Molinara"
+        "Varietal": "Molinara"
     },
     {
         "Country": "Italy",
@@ -20025,13 +19635,13 @@
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "Red",
-        "Varietal": " Rondinella"
+        "Varietal": "Rondinella"
     },
     {
         "Country": "Italy",
         "Region": "Valpolicella",
         "Type": "Red",
-        "Varietal": " Molinara"
+        "Varietal": "Molinara"
     },
     {
         "Country": "Australia",
@@ -20272,12 +19882,6 @@
         "Region": "Tuscany",
         "Type": "Red",
         "Varietal": "Blend (Red)"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Tuscany",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
     },
     {
         "Country": "USA",
@@ -20925,12 +20529,6 @@
         "Country": "Spain",
         "Region": "Catalonia",
         "Type": "Natural Wines",
-        "Varietal": " Syrah"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Catalonia",
-        "Type": "Natural Wines",
         "Varietal": "Syrah"
     },
     {
@@ -20950,12 +20548,6 @@
         "Region": "Veneto",
         "Type": "White",
         "Varietal": "Pint Grigio"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Trentino-Alto Adige",
-        "Type": "Sparkling",
-        "Varietal": "Chardonnay"
     },
     {
         "Country": "USA",
@@ -22801,12 +22393,6 @@
     },
     {
         "Country": "France",
-        "Region": "Languedoc-Roussillon",
-        "Type": "Red",
-        "Varietal": "Cinsault"
-    },
-    {
-        "Country": "France",
         "Region": "Vin De Pays",
         "Type": "Red",
         "Varietal": "Blend (Red)"
@@ -22869,7 +22455,7 @@
         "Country": "France",
         "Region": "Chateauneuf-du-Pape",
         "Type": "Red",
-        "Varietal": " Mourv\u00e8dre"
+        "Varietal": "Mourv\u00e8dre"
     },
     {
         "Country": "France",
@@ -23181,7 +22767,7 @@
         "Country": "Italy",
         "Region": "Rosso Piceno",
         "Type": "Red",
-        "Varietal": " Sangiovese"
+        "Varietal": "Sangiovese"
     },
     {
         "Country": "Italy",
@@ -23235,7 +22821,7 @@
         "Country": "Italy",
         "Region": "Pragal",
         "Type": "Red",
-        "Varietal": " Molinara"
+        "Varietal": "Molinara"
     },
     {
         "Country": "Italy",
@@ -23247,7 +22833,7 @@
         "Country": "Italy",
         "Region": "Soave",
         "Type": "White",
-        "Varietal": " Molinara"
+        "Varietal": "Molinara"
     },
     {
         "Country": "Italy",
@@ -23275,12 +22861,6 @@
     },
     {
         "Country": "Italy",
-        "Region": "Maremma Toscana",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
-    },
-    {
-        "Country": "Italy",
         "Region": "Valpolicella",
         "Type": "Red",
         "Varietal": "Brunello di Montalcino"
@@ -23289,13 +22869,13 @@
         "Country": "Italy",
         "Region": "Lugana",
         "Type": "White",
-        "Varietal": " Molinara"
+        "Varietal": "Molinara"
     },
     {
         "Country": "Italy",
         "Region": "Veneto",
         "Type": "White",
-        "Varietal": " Molinara"
+        "Varietal": "Molinara"
     },
     {
         "Country": "Italy",
@@ -23440,12 +23020,6 @@
         "Region": "Veneto",
         "Type": "Rose",
         "Varietal": "Sparkling Wine"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Veneto",
-        "Type": "Red",
-        "Varietal": "Sauvignon Blanc"
     },
     {
         "Country": "South Africa",
@@ -25471,12 +25045,6 @@
     },
     {
         "Country": "France",
-        "Region": "Languedoc-Roussillon",
-        "Type": "White",
-        "Varietal": "\nVermentino"
-    },
-    {
-        "Country": "France",
         "Region": "Languedoc Roussillon",
         "Type": "Red",
         "Varietal": "Grenache"
@@ -25942,12 +25510,6 @@
         "Region": "Slovenia",
         "Type": "White",
         "Varietal": "Pinot Grigio"
-    },
-    {
-        "Country": "USA",
-        "Region": "California",
-        "Type": "Red",
-        "Varietal": " Cabernet Sauvignon"
     },
     {
         "Country": "Italy",
