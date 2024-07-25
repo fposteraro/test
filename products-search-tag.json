@@ -1,1070 +1,1070 @@
 [
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"red",
-        "Varietal":"Sangiovese"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Merlot"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"red",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"white",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"white",
-        "Varietal":"Glera"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "White",
+        "Varietal": "Glera"
     },
     {
-        "Country":"France",
-        "Region":"Chablis",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Chablis",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"white",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"Italy",
-        "Region":"Sicily",
-        "Type":"rose",
-        "Varietal":"Syrah"
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "Rose",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"red",
-        "Varietal":"Cabernet Franc"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"Italy",
-        "Region":"Sicily",
-        "Type":"white",
-        "Varietal":"Moscato"
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "White",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"white",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"white",
-        "Varietal":"Moscato"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "White",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"red",
-        "Varietal":"Cabernet Franc"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Cabernet Franc"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"rose",
-        "Varietal":"Pinot Noir"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Rose",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"Spain",
-        "Region":"Catalunya",
-        "Type":"red",
-        "Varietal":"Garnacha"
+        "Country": "Spain",
+        "Region": "Catalunya",
+        "Type": "Red",
+        "Varietal": "Garnacha"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"rose",
-        "Varietal":"Glera"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Rose",
+        "Varietal": "Glera"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Syrah"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"Italy",
-        "Region":"Lombardy",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "Italy",
+        "Region": "Lombardy",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"sparkling",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Sparkling",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"red",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"white",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"white",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"Germany",
-        "Region":"Mosel",
-        "Type":"white",
-        "Varietal":"Riesling"
+        "Country": "Germany",
+        "Region": "Mosel",
+        "Type": "White",
+        "Varietal": "Riesling"
     },
     {
-        "Country":"Spain",
-        "Region":"Valencia",
-        "Type":"red",
-        "Varietal":"Garnacha"
+        "Country": "Spain",
+        "Region": "Valencia",
+        "Type": "Red",
+        "Varietal": "Garnacha"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"champagne",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Champagne",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"Spain",
-        "Region":"Andaluc\u00eda",
-        "Type":"sherry",
-        "Varietal":"Pedro Xim\u00e9nez"
+        "Country": "Spain",
+        "Region": "Andaluc\u00eda",
+        "Type": "Sherry",
+        "Varietal": "Pedro Xim\u00e9nez"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"red",
-        "Varietal":"Merlot"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"white",
-        "Varietal":"Pinot Blanc"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "White",
+        "Varietal": "Pinot Blanc"
     },
     {
-        "Country":"Italy",
-        "Region":"Sicily",
-        "Type":"red",
-        "Varietal":"Syrah"
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "Red",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"Italy",
-        "Region":"Sicily",
-        "Type":"red",
-        "Varietal":"Nero d'Avola"
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "Red",
+        "Varietal": "Nero D'Avola"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"red",
-        "Varietal":" Merlot"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":" Merlot"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"white",
-        "Varietal":" Cabernet Franc"
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "White",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"sparkling",
-        "Varietal":"Sangiovese"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Sparkling",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"white",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "White",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"rose",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Rose",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"white",
-        "Varietal":" Sauvignon Blanc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"red",
-        "Varietal":" Syrah"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Red",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"red",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"Spain",
-        "Region":"Castilla y Le\u00f3n",
-        "Type":"red",
-        "Varietal":" Merlot"
+        "Country": "Spain",
+        "Region": "Castilla Y Le\u00f3n",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"white",
-        "Varietal":" Cabernet Franc"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "White",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"red",
-        "Varietal":"Merlot"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"white",
-        "Varietal":"Sangiovese"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "White",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"red",
-        "Varietal":"Cabernet Franc"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"sparkling",
-        "Varietal":"Moscato"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Sparkling",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"red",
-        "Varietal":"Glera"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Red",
+        "Varietal": "Glera"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"rose",
-        "Varietal":"Sangiovese"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Rose",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"red",
-        "Varietal":"Syrah"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"Italy",
-        "Region":"Sicily",
-        "Type":"white",
-        "Varietal":"Nero d'Avola"
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "White",
+        "Varietal": "Nero D'Avola"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":"Chardonnay"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"Champagne",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "Usa",
+        "Region": "Champagne",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"rose",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Rose",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":" Sauvignon Blanc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"white",
-        "Varietal":"Cabernet Franc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "White",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"red",
-        "Varietal":" Cabernet Franc"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"red",
-        "Varietal":" Cabernet Franc"
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"white",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "White",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"red",
-        "Varietal":" Pinot Noir"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"sparkling",
-        "Varietal":" Pinot Noir"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Sparkling",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"red",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"red",
-        "Varietal":" Merlot"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"red",
-        "Varietal":" Sauvignon Blanc"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"white",
-        "Varietal":" Sauvignon Blanc"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"white",
-        "Varietal":"Pinot Noir"
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "White",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"red",
-        "Varietal":" Syrah"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Red",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"sparkling",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Sparkling",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"red",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"rose",
-        "Varietal":" Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Rose",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"white",
-        "Varietal":" Merlot"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "White",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"white",
-        "Varietal":" Cabernet Franc"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "White",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"white",
-        "Varietal":" Pinot Noir"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "White",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"red",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Red",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"white",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "White",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"white",
-        "Varietal":"Merlot"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "White",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"white",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "White",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"white",
-        "Varietal":" Cabernet Franc"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "White",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"France",
-        "Region":"Burgundy",
-        "Type":"red",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "Red",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"rose",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Rose",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"rose",
-        "Varietal":"Syrah"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Rose",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"red",
-        "Varietal":"Merlot"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"Germany",
-        "Region":"Pfalz",
-        "Type":"white",
-        "Varietal":"Riesling"
+        "Country": "Germany",
+        "Region": "Pfalz",
+        "Type": "White",
+        "Varietal": "Riesling"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"red",
-        "Varietal":" Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Red",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"white",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "White",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"red",
-        "Varietal":"Moscato"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Red",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"sparkling",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Sparkling",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"sparkling",
-        "Varietal":" Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Sparkling",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":" Italy",
-        "Region":"Tuscany",
-        "Type":"red",
-        "Varietal":"Sangiovese"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"red",
-        "Varietal":"Cabernet Franc"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"Spain",
-        "Region":"Galicia",
-        "Type":"white",
-        "Varietal":"Albari\u00f1o"
+        "Country": "Spain",
+        "Region": "Galicia",
+        "Type": "White",
+        "Varietal": "Albari\u00f1o"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"dessert",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Dessert",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"red",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"sparkling",
-        "Varietal":"Pinot Noir"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Sparkling",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"white",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"Spain",
-        "Region":"Castilla y Le\u00f3n",
-        "Type":"white",
-        "Varietal":"Verdejo"
+        "Country": "Spain",
+        "Region": "Castilla Y Le\u00f3n",
+        "Type": "White",
+        "Varietal": "Verdejo"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"sparkling",
-        "Varietal":"Glera"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Sparkling",
+        "Varietal": "Glera"
     },
     {
-        "Country":"Italy",
-        "Region":"Lombardy",
-        "Type":"white",
-        "Varietal":"Pinot Noir"
+        "Country": "Italy",
+        "Region": "Lombardy",
+        "Type": "White",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Sangiovese"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"red",
-        "Varietal":"Bonarda"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Red",
+        "Varietal": "Bonarda"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"USA",
-        "Region":"Sonoma County",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "Usa",
+        "Region": "Sonoma County",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"white",
-        "Varietal":"Moscato"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "White",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"USA",
-        "Region":"Sonoma County",
-        "Type":"white",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "Usa",
+        "Region": "Sonoma County",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"USA",
-        "Region":"Sonoma County",
-        "Type":"red",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "Sonoma County",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"USA",
-        "Region":"Sonoma County",
-        "Type":"red",
-        "Varietal":"Merlot"
+        "Country": "Usa",
+        "Region": "Sonoma County",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"white",
-        "Varietal":"Riesling"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "White",
+        "Varietal": "Riesling"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"rose",
-        "Varietal":"Sangiovese"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Rose",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"Sonoma County",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "Usa",
+        "Region": "Sonoma County",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"sparkling",
-        "Varietal":"Pinot Noir"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Sparkling",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"rose",
-        "Varietal":"Moscato"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Rose",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"Spain",
-        "Region":"Castilla y Le\u00f3n",
-        "Type":"red",
-        "Varietal":"Tempranillo"
+        "Country": "Spain",
+        "Region": "Castilla Y Le\u00f3n",
+        "Type": "Red",
+        "Varietal": "Tempranillo"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":"Merlot"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"Italy",
-        "Region":"Lombardy",
-        "Type":"red",
-        "Varietal":"Nebbiolo"
+        "Country": "Italy",
+        "Region": "Lombardy",
+        "Type": "Red",
+        "Varietal": "Nebbiolo"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"sparkling",
-        "Varietal":"Chardonnay"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Sparkling",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"rose",
-        "Varietal":"Merlot"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Rose",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"rose",
-        "Varietal":"Moscato"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Rose",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"white",
-        "Varietal":"Moscato"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "White",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Merlot"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"rose",
-        "Varietal":"Merlot"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Rose",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":"Sangiovese"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Moscato"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"Germany",
-        "Region":"Pfalz",
-        "Type":"white",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "Germany",
+        "Region": "Pfalz",
+        "Type": "White",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"Spain",
-        "Region":"Galicia",
-        "Type":"natural",
-        "Varietal":"Garnacha Tintorera"
+        "Country": "Spain",
+        "Region": "Galicia",
+        "Type": "Natural",
+        "Varietal": "Garnacha Tintorera"
     },
     {
-        "Country":"USA",
-        "Region":"NAPA VALLEY",
-        "Type":"biodynamic",
-        "Varietal":"Cabernet Franc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Biodynamic",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"champagne",
-        "Varietal":"Pinot Noir"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Champagne",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"rose",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Rose",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":"Cabernet Franc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"Spain",
-        "Region":"Castilla y Le\u00f3n",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "Spain",
+        "Region": "Castilla Y Le\u00f3n",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"rose",
-        "Varietal":"Moscato"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Rose",
+        "Varietal": "Moscato"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"rose",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Rose",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"white",
-        "Varietal":" Merlot"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "White",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"rose",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Rose",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Bordeaux",
-        "Type":"red",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"white",
-        "Varietal":"Merlot"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "White",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"red",
-        "Varietal":" Cabernet Sauvignon"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":" Cabernet Franc"
+        "Country": "France",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"Germany",
-        "Region":"Mosel",
-        "Type":"dessert",
-        "Varietal":"Riesling"
+        "Country": "Germany",
+        "Region": "Mosel",
+        "Type": "Dessert",
+        "Varietal": "Riesling"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"rose",
-        "Varietal":"Syrah"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Rose",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"USA",
-        "Region":"California",
-        "Type":"red",
-        "Varietal":"Chardonnay"
+        "Country": "Usa",
+        "Region": "California",
+        "Type": "Red",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"Argentina",
-        "Region":"Mendoza",
-        "Type":"red",
-        "Varietal":"Tempranillo"
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Red",
+        "Varietal": "Tempranillo"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"red",
-        "Varietal":"Syrah"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Red",
+        "Varietal": "Syrah"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"dessert",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Dessert",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Loire Valley",
-        "Type":"white",
-        "Varietal":"Merlot"
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "White",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"Spain",
-        "Region":"Catalonia",
-        "Type":"natural",
-        "Varietal":"Pinot Noir"
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Natural",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"rose",
-        "Varietal":"Pinot Noir"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Rose",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"Germany",
-        "Region":"Mosel",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "Germany",
+        "Region": "Mosel",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"organic",
-        "Varietal":"Cabernet Franc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Organic",
+        "Varietal": "Cabernet Franc"
     },
     {
-        "Country":"Italy",
-        "Region":" Tuscany",
-        "Type":"red",
-        "Varietal":"Merlot"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"Italy",
-        "Region":" Tuscany",
-        "Type":"red",
-        "Varietal":"Sangiovese"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red",
+        "Varietal": "Sangiovese"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"grower champagne",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Grower Champagne",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"sparkling",
-        "Varietal":"Sauvignon Blanc"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Sparkling",
+        "Varietal": "Sauvignon Blanc"
     },
     {
-        "Country":"USA",
-        "Region":"Napa Valley",
-        "Type":"sparkling",
-        "Varietal":"Merlot"
+        "Country": "Usa",
+        "Region": "Napa Valley",
+        "Type": "Sparkling",
+        "Varietal": "Merlot"
     },
     {
-        "Country":"Italy",
-        "Region":"Tuscany",
-        "Type":"white",
-        "Varietal":"Chardonnay"
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "White",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"kosher",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Kosher",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"Spain",
-        "Region":"Catalonia",
-        "Type":"natural",
-        "Varietal":"Tempranillo"
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Natural",
+        "Varietal": "Tempranillo"
     },
     {
-        "Country":"Spain",
-        "Region":"Catalonia",
-        "Type":"red",
-        "Varietal":"Cabernet Sauvignon"
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Red",
+        "Varietal": "Cabernet Sauvignon"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"red",
-        "Varietal":"Pinot Noir"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Red",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"Spain",
-        "Region":"Catalonia",
-        "Type":"sparkling",
-        "Varietal":"Chardonnay"
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Sparkling",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"dessert",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Dessert",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"biodynamic",
-        "Varietal":"Pinot Noir"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Biodynamic",
+        "Varietal": "Pinot Noir"
     },
     {
-        "Country":"France",
-        "Region":"Champagne",
-        "Type":"red",
-        "Varietal":"Chardonnay"
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Red",
+        "Varietal": "Chardonnay"
     },
     {
-        "Country":"Italy",
-        "Region":"Veneto",
-        "Type":"red",
-        "Varietal":"Cabernet Franc"
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Red",
+        "Varietal": "Cabernet Franc"
     }
 ]
