@@ -1,1 +1,2927 @@
-[{'Country': 'USA', 'Region': 'Alexander Valley', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Anderson Valley', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Anderson Valley', 'Type': 'White'}, {'Country': 'USA', 'Region': 'California', 'Type': 'White'}, {'Country': 'USA', 'Region': 'California', 'Type': 'Sparkling'}, {'Country': 'USA', 'Region': 'California', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'California', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'California', 'Type': 'Cult Wine'}, {'Country': 'USA', 'Region': 'Carneros', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Carneros', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'Carneros', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Central Coast', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Central Coast', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Cienega Valley', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Coombsville', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Coombsville', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Edna Valley', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Finger Lakes', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Finger Lakes', 'Type': 'Sparkling'}, {'Country': 'USA', 'Region': 'Finger Lakes', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'Finger Lakes', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Hawkes Bay', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Lodi', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Lodi', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'Lodi', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Marlborough', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Marlborough', 'Type': 'Sparkling'}, {'Country': 'USA', 'Region': 'Marlborough', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Mendocino County', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Napa Valley', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Napa Valley', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'Napa Valley', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Napa Valley', 'Type': 'Organic'}, {'Country': 'USA', 'Region': 'Napa Valley', 'Type': 'Dessert'}, {'Country': 'USA', 'Region': 'Napa Valley', 'Type': 'Cult Wine'}, {'Country': 'USA', 'Region': 'Napa Valley', 'Type': 'Biodynamic'}, {'Country': 'USA', 'Region': 'New York', 'Type': 'White'}, {'Country': 'USA', 'Region': 'New York', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'New York', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Oakville', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Oregon', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Oregon', 'Type': 'Sake'}, {'Country': 'USA', 'Region': 'Oregon', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'Oregon', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Paso Robles', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Paso Robles', 'Type': 'Sparkling'}, {'Country': 'USA', 'Region': 'Paso Robles', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Red Hills', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Russian River Valley', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Russian River Valley', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'Russian River Valley', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Rutherford', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'San Luis Obispo', 'Type': 'Dessert'}, {'Country': 'USA', 'Region': 'San Luis Obispo', 'Type': 'Cult Wine'}, {'Country': 'USA', 'Region': 'Santa Barbara', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Santa Barbara', 'Type': 'Sparkling'}, {'Country': 'USA', 'Region': 'Santa Barbara', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Santa Barbara', 'Type': 'Natural Wines'}, {'Country': 'USA', 'Region': 'Santa Barbara', 'Type': 'Biodynamic'}, {'Country': 'USA', 'Region': 'Santa Cruz Mountains', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Santa Rita Hills', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Sierra Foothills', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Sonoma', 'Type': 'Sparkling'}, {'Country': 'USA', 'Region': 'Sonoma Coast', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Sonoma Coast', 'Type': 'Sparkling'}, {'Country': 'USA', 'Region': 'Sonoma Coast', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Sonoma County', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Sonoma Valley', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Vayots Dzor', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Vayots Dzor', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'Vayots Dzor', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Virginia', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Virginia', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Wahluke', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Wahluke', 'Type': 'Natural Wines'}, {'Country': 'USA', 'Region': 'Walla Walla Valley', 'Type': 'Red'}, {'Country': 'USA', 'Region': 'Walla Walla Valley', 'Type': 'Cult Wine'}, {'Country': 'USA', 'Region': 'Washington', 'Type': 'White'}, {'Country': 'USA', 'Region': 'Washington', 'Type': 'Sparkling'}, {'Country': 'USA', 'Region': 'Washington', 'Type': 'Rose'}, {'Country': 'USA', 'Region': 'Washington', 'Type': 'Red'}, {'Country': 'Uruguay', 'Region': 'Lavalleja', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Alava', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Alcaria', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Aldeorras', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Alicante', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Andalucia', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Andalucia', 'Type': 'Sherry'}, {'Country': 'Spain', 'Region': 'Andalucia', 'Type': 'Natural Wines'}, {'Country': 'Spain', 'Region': 'Andalucia', 'Type': 'Dessert'}, {'Country': 'Spain', 'Region': 'Aragon', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Basque Country', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Bierzo', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Bierzo', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Calatayud', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'California', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Campo de Borja', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Campo De Borja', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Campo De Borja', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Canary Islands', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Castilla La Mancha', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Castilla y Leon', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Castilla y Leon', 'Type': 'Rose'}, {'Country': 'Spain', 'Region': 'Castilla y Leon', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Castilla y Leon', 'Type': 'Natural Wines'}, {'Country': 'Spain', 'Region': 'Catalonia', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Catalonia', 'Type': 'Vermouth'}, {'Country': 'Spain', 'Region': 'Catalonia', 'Type': 'Sparkling'}, {'Country': 'Spain', 'Region': 'Catalonia', 'Type': 'Rose'}, {'Country': 'Spain', 'Region': 'Catalonia', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Catalonia', 'Type': 'Natural Wines'}, {'Country': 'Spain', 'Region': 'Cava', 'Type': 'Sparkling'}, {'Country': 'Spain', 'Region': 'Cigales', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Emporda', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Extremadura', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Galicia', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Galicia', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Galicia', 'Type': 'Organic'}, {'Country': 'Spain', 'Region': 'Galicia', 'Type': 'Natural Wines'}, {'Country': 'Spain', 'Region': 'Galicia', 'Type': 'Biodynamic'}, {'Country': 'Spain', 'Region': 'Jerez', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Jerez', 'Type': 'Sherry'}, {'Country': 'Spain', 'Region': 'Jerez', 'Type': 'Dessert'}, {'Country': 'Spain', 'Region': 'Jumilla', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Jumilla', 'Type': 'Organic'}, {'Country': 'Spain', 'Region': 'Jumilla', 'Type': 'Dessert'}, {'Country': 'Spain', 'Region': 'La Mancha', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'La Mancha', 'Type': 'Rose'}, {'Country': 'Spain', 'Region': 'La Mancha', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Madrid', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Madrid', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Malaga', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Malaga', 'Type': 'Dessert'}, {'Country': 'Spain', 'Region': 'Mallorca', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Mallorca', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Mallorca', 'Type': 'Gourmet'}, {'Country': 'Spain', 'Region': 'Mentrida', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Montilla-MoMontilla-Morilesriles', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Montilla-MoMontilla-Morilesriles', 'Type': 'Sherry'}, {'Country': 'Spain', 'Region': 'Montsant', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Navarra', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Navarra', 'Type': 'Rose'}, {'Country': 'Spain', 'Region': 'Navarra', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Pago de Vicario', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Pais Vasco', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Pais Vasco', 'Type': 'Rose'}, {'Country': 'Spain', 'Region': 'Pais Vasco', 'Type': 'Dessert'}, {'Country': 'Spain', 'Region': 'Pais Vasco', 'Type': 'Cider'}, {'Country': 'Spain', 'Region': 'Penedes', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Penedes', 'Type': 'Sparkling'}, {'Country': 'Spain', 'Region': 'Penedes', 'Type': 'Rose'}, {'Country': 'Spain', 'Region': 'Penedes', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Penedes', 'Type': 'Natural Wines'}, {'Country': 'Spain', 'Region': 'Pesquera de Duero', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Priorat', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Priorat', 'Type': 'Sake'}, {'Country': 'Spain', 'Region': 'Priorat', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Quintanilla', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Rias Baixas', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Rias Baixas', 'Type': 'Dessert'}, {'Country': 'Spain', 'Region': 'Ribeiro', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Ribeiro', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Ribera del Duero', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Ribera del Duero', 'Type': 'Rose'}, {'Country': 'Spain', 'Region': 'Ribera del Duero', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Ribera del Duero', 'Type': 'Cult Wine'}, {'Country': 'Spain', 'Region': 'Ribera del Jucar', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Ribiera Sacra', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Rioja', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Rioja', 'Type': 'Vermouth'}, {'Country': 'Spain', 'Region': 'Rioja', 'Type': 'Rose'}, {'Country': 'Spain', 'Region': 'Rioja', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Rioja', 'Type': 'Natural Wines'}, {'Country': 'Spain', 'Region': 'Rioja', 'Type': 'Cult Wine'}, {'Country': 'Spain', 'Region': 'Rueda', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Rueda', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Tamboril', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Terra Alta', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Terra Alta', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Toro', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Toro', 'Type': 'Cult Wine'}, {'Country': 'Spain', 'Region': 'Utiel-Requena', 'Type': 'Sparkling'}, {'Country': 'Spain', 'Region': 'Utiel-Requena', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Valdeorras', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Valdeorras', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Valencia', 'Type': 'White'}, {'Country': 'Spain', 'Region': 'Valencia', 'Type': 'Red'}, {'Country': 'Spain', 'Region': 'Yecla', 'Type': 'Rose'}, {'Country': 'South Africa', 'Region': 'Coastal Region', 'Type': 'White'}, {'Country': 'South Africa', 'Region': 'Coastal Region', 'Type': 'Red'}, {'Country': 'South Africa', 'Region': 'Constantia', 'Type': 'White'}, {'Country': 'South Africa', 'Region': 'Constantia', 'Type': 'Dessert'}, {'Country': 'South Africa', 'Region': 'Robertson', 'Type': 'White'}, {'Country': 'South Africa', 'Region': 'Robertson', 'Type': 'Rose'}, {'Country': 'South Africa', 'Region': 'Simonsberg-Paarl', 'Type': 'Red'}, {'Country': 'South Africa', 'Region': 'South Africa', 'Type': 'White'}, {'Country': 'South Africa', 'Region': 'South Africa', 'Type': 'Red'}, {'Country': 'South Africa', 'Region': 'Stellenbosch', 'Type': 'White'}, {'Country': 'South Africa', 'Region': 'Stellenbosch', 'Type': 'Red'}, {'Country': 'South Africa', 'Region': 'Stellenbosch', 'Type': 'Cult Wine'}, {'Country': 'South Africa', 'Region': 'Swartland', 'Type': 'White'}, {'Country': 'South Africa', 'Region': 'Swartland', 'Type': 'Red'}, {'Country': 'South Africa', 'Region': 'Western Cape', 'Type': 'White'}, {'Country': 'South Africa', 'Region': 'Western Cape', 'Type': 'Rose'}, {'Country': 'South Africa', 'Region': 'Western Cape', 'Type': 'Red'}, {'Country': 'Portugal', 'Region': 'Alentejo', 'Type': 'Red'}, {'Country': 'Portugal', 'Region': 'Bairrada', 'Type': 'White'}, {'Country': 'Portugal', 'Region': 'Dao', 'Type': 'Red'}, {'Country': 'Portugal', 'Region': 'Douro Valley', 'Type': 'White'}, {'Country': 'Portugal', 'Region': 'Douro Valley', 'Type': 'Rose'}, {'Country': 'Portugal', 'Region': 'Douro Valley', 'Type': 'Red'}, {'Country': 'Portugal', 'Region': 'Douro Valley', 'Type': 'Fortifed'}, {'Country': 'Portugal', 'Region': 'Douro Valley', 'Type': 'Dessert'}, {'Country': 'Portugal', 'Region': 'Maderia', 'Type': 'White'}, {'Country': 'Portugal', 'Region': 'Maderia', 'Type': 'Red'}, {'Country': 'Portugal', 'Region': 'Maderia', 'Type': 'Fortifed'}, {'Country': 'Portugal', 'Region': 'Maderia', 'Type': 'Dessert'}, {'Country': 'Portugal', 'Region': 'Setúbal Peninsula', 'Type': 'Red'}, {'Country': 'Palestine', 'Region': 'West Bank', 'Type': 'White'}, {'Country': 'Palestine', 'Region': 'West Bank', 'Type': 'Red'}, {'Country': 'New Zealand', 'Region': 'Central Otago', 'Type': 'Red'}, {'Country': 'New Zealand', 'Region': 'Hawkes Bay', 'Type': 'Red'}, {'Country': 'New Zealand', 'Region': 'Hawkes Bay', 'Type': 'White'}, {'Country': 'New Zealand', 'Region': 'Kumeu River', 'Type': 'Red'}, {'Country': 'New Zealand', 'Region': 'Kumeu River', 'Type': 'White'}, {'Country': 'New Zealand', 'Region': 'Marlborough', 'Type': 'Red'}, {'Country': 'New Zealand', 'Region': 'Marlborough', 'Type': 'White'}, {'Country': 'New Zealand', 'Region': 'Martinborough', 'Type': 'Red'}, {'Country': 'New Zealand', 'Region': 'SouthIsland', 'Type': 'Red'}, {'Country': 'New Zealand', 'Region': 'SouthIsland', 'Type': 'White'}, {'Country': 'New Zealand', 'Region': 'South Island', 'Type': 'Red'}, {'Country': 'New Zealand', 'Region': 'South Island', 'Type': 'White'}, {'Country': 'Mexico', 'Region': 'Baja', 'Type': 'Red'}, {'Country': 'Mexico', 'Region': 'Valle de Guadalupe', 'Type': 'White'}, {'Country': 'Mexico', 'Region': 'Valle de Guadalupe', 'Type': 'Rose'}, {'Country': 'Mexico', 'Region': 'Valle de Guadalupe', 'Type': 'Red'}, {'Country': 'Mexico', 'Region': 'Valle de Parras', 'Type': 'White'}, {'Country': 'Mexico', 'Region': 'Valle de Santo Tomas', 'Type': 'Red'}, {'Country': 'Lebanon', 'Region': 'Batroun', 'Type': 'White'}, {'Country': 'Lebanon', 'Region': 'Batroun', 'Type': 'Red'}, {'Country': 'Lebanon', 'Region': 'Bekka Valley', 'Type': 'White'}, {'Country': 'Lebanon', 'Region': 'Bekka Valley', 'Type': 'Rose'}, {'Country': 'Lebanon', 'Region': 'Bekka Valley', 'Type': 'Red'}, {'Country': 'Lebanon', 'Region': 'Burgenland', 'Type': 'Red'}, {'Country': 'Japon', 'Region': 'Akita', 'Type': 'Sake'}, {'Country': 'Japon', 'Region': 'Akita', 'Type': 'Red'}, {'Country': 'Japon', 'Region': 'Iwate', 'Type': 'White'}, {'Country': 'Japon', 'Region': 'Iwate', 'Type': 'Sake'}, {'Country': 'Japon', 'Region': 'Nigata', 'Type': 'Sake'}, {'Country': 'Japon', 'Region': 'Nigata', 'Type': 'Natural Wines'}, {'Country': 'Japon', 'Region': 'Niigata', 'Type': 'White'}, {'Country': 'Japon', 'Region': 'Niigata', 'Type': 'Sake'}, {'Country': 'Japon', 'Region': 'Niigata Prefecture', 'Type': 'White'}, {'Country': 'Japon', 'Region': 'Priorat', 'Type': 'Sake'}, {'Country': 'Italy', 'Region': 'Abruzzi', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Abruzzi', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Abruzzo', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Abruzzo', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Alto Adige (Südtirol)', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Alto Adige (Südtirol)Alto Adige', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Alto Adige (Südtirol)Alto Adige', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Apulia', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Apulia', 'Type': 'Rose'}, {'Country': 'Italy', 'Region': 'Apulia', 'Type': 'Red'}, {'Country': 'Italy', 'Region': "Barbera D'Asti", 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Barolo', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Bolgheri', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Bolgheri', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Calabria', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Calabria', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Campania', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Campania', 'Type': 'Rose'}, {'Country': 'Italy', 'Region': 'Campania', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Chianti', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Chima', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Colli di Salerno', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Colli Orientali del Friuli', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Colli Tortonesi', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Colli Tortonesi', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'De lle Venezie', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Emilia-Romagna', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Emilia-Romagna', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Emilia-Romagna', 'Type': 'Rose'}, {'Country': 'Italy', 'Region': 'Emilia-Romagna', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Frascati', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Friuli', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Friuli', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Fruili', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Fruili', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Gattinara', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Gattinara', 'Type': 'Cult Wine'}, {'Country': 'Italy', 'Region': 'Gavi', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Langhe', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Lazio', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Lombardia', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'LombardyLombardia', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'LombardyLombardia', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Marches', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Marches', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Montalcino', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Montefalco Sagrantino', 'Type': 'Red'}, {'Country': 'Italy', 'Region': "Montepulciano d'Abruzzo", 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Morellino di Scansano', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Piedmont', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Piedmont', 'Type': 'Vermouth'}, {'Country': 'Italy', 'Region': 'Piedmont', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Piedmont', 'Type': 'Rose'}, {'Country': 'Italy', 'Region': 'Piedmont', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Piedmont', 'Type': 'Natural Wines'}, {'Country': 'Italy', 'Region': 'Piedmont', 'Type': 'Fortifed'}, {'Country': 'Italy', 'Region': 'Prosecco', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Puglia', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Puglia', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Puglia', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Roero', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Roero', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Romagna', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Sardegna', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Sardegna', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Sardinia', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Sardinia', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Sicilia', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Sicily', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Sicily', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Sicily', 'Type': 'Rose'}, {'Country': 'Italy', 'Region': 'Sicily', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Südtirol', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Trentino-Alto Adige', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Trentino-Alto Adige', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Trentino-Alto Adige', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Trentino Alto Adige', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Trentino Alto Adige', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Treviso', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Tusany', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Tuscany', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Tuscany', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Tuscany', 'Type': 'Rose'}, {'Country': 'Italy', 'Region': 'Tuscany', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Tuscany', 'Type': 'Cult Wine'}, {'Country': 'Italy', 'Region': 'Umbria', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Umbria', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Valdobbiadene', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Valle Central', 'Type': 'Red'}, {'Country': 'Italy', 'Region': "Valle d'Aosta", 'Type': 'Red'}, {'Country': 'Italy', 'Region': "Valle d'Aosta", 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Valpolicella', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Veneto', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Veneto', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Veneto', 'Type': 'Rose'}, {'Country': 'Italy', 'Region': 'Veneto', 'Type': 'Red'}, {'Country': 'Italy', 'Region': 'Veneto', 'Type': 'Dessert'}, {'Country': 'Italy', 'Region': 'Veneto', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Vento', 'Type': 'Sparkling'}, {'Country': 'Italy', 'Region': 'Venezia', 'Type': 'White'}, {'Country': 'Italy', 'Region': 'Verdicchio De Castelli DiIesi', 'Type': 'White'}, {'Country': 'Hungary', 'Region': 'Somlo', 'Type': 'White'}, {'Country': 'Hungary', 'Region': 'Somlo', 'Type': 'Natural Wines'}, {'Country': 'Hungary', 'Region': 'Tokaji', 'Type': 'White'}, {'Country': 'Hungary', 'Region': 'Tokaji', 'Type': 'Dessert'}, {'Country': 'Greece', 'Region': 'Aegean Islands', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'Aegean Islands', 'Type': 'Red'}, {'Country': 'Greece', 'Region': 'Aegean Islands', 'Type': 'Natural Wines'}, {'Country': 'Greece', 'Region': 'Aegean Islands', 'Type': 'Dessert'}, {'Country': 'Greece', 'Region': 'Attika', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'Attika', 'Type': 'Red'}, {'Country': 'Greece', 'Region': 'Cephalonia', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'Crete', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'Crete', 'Type': 'Red'}, {'Country': 'Greece', 'Region': 'Crete', 'Type': 'Natural Wines'}, {'Country': 'Greece', 'Region': 'Côte de Beaune', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'Ionian Islands', 'Type': 'Red'}, {'Country': 'Greece', 'Region': 'Ionian Islands', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'MaMacedoniacedonia', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'MaMacedoniacedonia', 'Type': 'Rose'}, {'Country': 'Greece', 'Region': 'MaMacedoniacedonia', 'Type': 'Red'}, {'Country': 'Greece', 'Region': 'MaMacedoniacedonia', 'Type': 'Organic'}, {'Country': 'Greece', 'Region': 'MaMacedoniacedonia', 'Type': 'Dessert'}, {'Country': 'Greece', 'Region': 'Naoussa', 'Type': 'Red'}, {'Country': 'Greece', 'Region': 'Peloponnese', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'Peloponnese', 'Type': 'Sparkling'}, {'Country': 'Greece', 'Region': 'Peloponnese', 'Type': 'Rose'}, {'Country': 'Greece', 'Region': 'Peloponnese', 'Type': 'Red'}, {'Country': 'Greece', 'Region': 'Peloponnese', 'Type': 'Dessert'}, {'Country': 'Greece', 'Region': 'Santorini', 'Type': 'White'}, {'Country': 'Greece', 'Region': 'Thessaly', 'Type': 'Red'}, {'Country': 'Greece', 'Region': 'Thessaly', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Baden', 'Type': 'Red'}, {'Country': 'Germany', 'Region': 'Campo de Borja', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Erdener Pralat', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Mosel', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Mosel', 'Type': 'Red'}, {'Country': 'Germany', 'Region': 'Mosel', 'Type': 'Dessert'}, {'Country': 'Germany', 'Region': 'Mosel Saar Ruwer', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Mosel Saar Ruwer', 'Type': 'Red'}, {'Country': 'Germany', 'Region': 'Mosel Valley', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Mosel Valley', 'Type': 'Red'}, {'Country': 'Germany', 'Region': 'Pfalz', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Pfalz', 'Type': 'Rose'}, {'Country': 'Germany', 'Region': 'Rheingau', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Rheingau', 'Type': 'Dessert'}, {'Country': 'Germany', 'Region': 'Rheinhessen', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Rheinhessen', 'Type': 'Rose'}, {'Country': 'Germany', 'Region': 'Rheinhessen', 'Type': 'Red'}, {'Country': 'Germany', 'Region': 'Saar', 'Type': 'White'}, {'Country': 'Germany', 'Region': 'Saar', 'Type': 'Cult Wine'}, {'Country': 'Germany', 'Region': 'Wehlen', 'Type': 'Dessert'}, {'Country': 'Georgian Republic', 'Region': 'Kakheti', 'Type': 'White'}, {'Country': 'Georgian Republic', 'Region': 'Kakheti', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Alsace', 'Type': 'White'}, {'Country': 'France', 'Region': 'Alsace', 'Type': 'Sparkling'}, {'Country': 'France', 'Region': 'Alsace', 'Type': 'Sake'}, {'Country': 'France', 'Region': 'Alsace', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Alsace', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Alsace', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Beaujolaid', 'Type': 'White'}, {'Country': 'France', 'Region': 'Beaujolaid', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Beaujolaid', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Beaujolaid', 'Type': 'Natural Wines'}, {'Country': 'France', 'Region': 'Bordeaux', 'Type': 'White'}, {'Country': 'France', 'Region': 'Bordeaux', 'Type': 'Sparkling'}, {'Country': 'France', 'Region': 'Bordeaux', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Bordeaux', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Bordeaux', 'Type': 'Dessert'}, {'Country': 'France', 'Region': 'Bordeaux', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Burgundy', 'Type': 'White'}, {'Country': 'France', 'Region': 'Burgundy', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Burgundy', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Burgundy', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Cahors', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Central Valley', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Chablis', 'Type': 'White'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'White'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Sparkling'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Organic'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Natural Wines'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Kosher'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Champagne'}, {'Country': 'France', 'Region': 'Champagne', 'Type': 'Biodynamic'}, {'Country': 'France', 'Region': 'Châteauneuf-du-Pape', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Cornas', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Corsica', 'Type': 'White'}, {'Country': 'France', 'Region': 'Corsica', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Cotes de Nuits', 'Type': 'White'}, {'Country': 'France', 'Region': 'Cotes Du Ventoux', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Côtes de Castillon', 'Type': nan}, {'Country': 'France', 'Region': 'Côtes de Provence', 'Type': 'White'}, {'Country': 'France', 'Region': 'Côtes de Provence', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Côtes du Rhone', 'Type': 'White'}, {'Country': 'France', 'Region': 'Côtes du Rhone', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Côtes du Rhone', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Gascony', 'Type': 'White'}, {'Country': 'France', 'Region': 'Gevrey Chambertin', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Gigondas', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Graves', 'Type': 'White'}, {'Country': 'France', 'Region': 'Haut-Medoc', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Jura', 'Type': 'White'}, {'Country': 'France', 'Region': 'Haut-Medoc', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Jura', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Jurancon', 'Type': 'Dessert'}, {'Country': 'France', 'Region': 'Jurancon', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Languedoc-Rousillon', 'Type': 'White'}, {'Country': 'France', 'Region': 'Languedoc-Rousillon', 'Type': 'Sparkling'}, {'Country': 'France', 'Region': 'Languedoc-Rousillon', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Languedoc-Rousillon', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Languedoc Roussillon', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Loire Valley', 'Type': 'White'}, {'Country': 'France', 'Region': 'Loire Valley', 'Type': 'Sparkling'}, {'Country': 'France', 'Region': 'Loire Valley', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Loire Valley', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Loire Valley', 'Type': 'Dessert'}, {'Country': 'France', 'Region': 'Loire Valley', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Margaux', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Montagne St Emilion', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Pauillac', 'Type': 'White'}, {'Country': 'France', 'Region': 'Pauillac', 'Type': 'Red'}, {'Country': 'France', 'Region': "Pays d'Herault", 'Type': 'White'}, {'Country': 'France', 'Region': 'Pessac-Leognan', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Pomerol', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Pomerol', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Pouilly Fume', 'Type': 'White'}, {'Country': 'France', 'Region': 'Provence', 'Type': 'White'}, {'Country': 'France', 'Region': 'Provence', 'Type': 'Sparkling'}, {'Country': 'France', 'Region': 'Provence', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Provence', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Provence', 'Type': 'Kosher'}, {'Country': 'France', 'Region': 'Rhône Valley', 'Type': 'White'}, {'Country': 'France', 'Region': 'Rhône Valley', 'Type': 'Sparkling'}, {'Country': 'France', 'Region': 'Rhône Valley', 'Type': 'Rose'}, {'Country': 'France', 'Region': 'Rhône Valley', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Rhône Valley', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Saint-Estephe', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Saint-Julien', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Saint Emilion', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Saint Joeseph', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Saint Joeseph', 'Type': 'White'}, {'Country': 'France', 'Region': 'Santenay', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Sauternes', 'Type': 'White'}, {'Country': 'France', 'Region': 'Sauternes', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Sauternes', 'Type': 'Dessert'}, {'Country': 'France', 'Region': 'Sauternes', 'Type': 'Cult Wine'}, {'Country': 'France', 'Region': 'Savoie', 'Type': 'White'}, {'Country': 'France', 'Region': 'Southwest', 'Type': 'Red'}, {'Country': 'France', 'Region': 'South West France', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Southwest France', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Tusany', 'Type': 'Red'}, {'Country': 'France', 'Region': 'Vacqueyras', 'Type': 'White'}, {'Country': 'France', 'Region': 'Ventoux', 'Type': 'White'}, {'Country': 'Cyprus', 'Region': 'Paphos', 'Type': 'White'}, {'Country': 'Cyprus', 'Region': 'Paphos', 'Type': 'Red'}, {'Country': 'China', 'Region': 'Yunnan', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Aconcagua Valley', 'Type': 'White'}, {'Country': 'Chile', 'Region': 'Aconcagua Valley', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Aconcagua Valley', 'Type': 'Cult Wine'}, {'Country': 'Chile', 'Region': 'Apalta', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Bio Bio Valley', 'Type': 'Rosé'}, {'Country': 'Chile', 'Region': 'Cachapoal Valley', 'Type': 'Rose'}, {'Country': 'Chile', 'Region': 'Cachapoal Valley', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Casablanca Valley', 'Type': 'White'}, {'Country': 'Chile', 'Region': 'Casablanca Valley', 'Type': 'Rose'}, {'Country': 'Chile', 'Region': 'Casablanca Valley', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Cauquenes', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Cauquenes', 'Type': 'Organic'}, {'Country': 'Chile', 'Region': 'Central Valley', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Colchagua Valley', 'Type': 'White'}, {'Country': 'Chile', 'Region': 'Colchagua Valley', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Colchagua Valley', 'Type': 'Cult Wine'}, {'Country': 'Chile', 'Region': 'Itata Valley', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Maipo Valley', 'Type': 'White'}, {'Country': 'Chile', 'Region': 'Maipo Valley', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Maule Valley', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Talagante', 'Type': 'Red'}, {'Country': 'Chile', 'Region': 'Talagante', 'Type': 'White'}, {'Country': 'Austria', 'Region': 'Burgenland', 'Type': 'White'}, {'Country': 'Austria', 'Region': 'Burgenland', 'Type': 'Rose'}, {'Country': 'Austria', 'Region': 'Burgenland', 'Type': 'Red'}, {'Country': 'Austria', 'Region': 'Burgenland', 'Type': 'Natural Wines'}, {'Country': 'Austria', 'Region': 'Kremstal', 'Type': 'White'}, {'Country': 'Austria', 'Region': 'Niederösterreich', 'Type': 'White'}, {'Country': 'Austria', 'Region': 'Niederösterreich', 'Type': 'Rose'}, {'Country': 'Austria', 'Region': 'Vienna', 'Type': 'White'}, {'Country': 'Austria', 'Region': 'Wachau', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'Barossa Valley', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'Central Valley', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'Clare Clare ValleyValley', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'Central Valley', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'Coonawarra', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'Edna Valley', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'Margaret River', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'Margaret River', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'McLaren Valley', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'New South Wales', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'New South Wales', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'Riverland', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'South Australia', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'South Australia', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'Southern Australia', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'Southern Australia', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'Tasmania', 'Type': 'White'}, {'Country': 'Australia', 'Region': 'Tasmania', 'Type': 'Sparkling'}, {'Country': 'Australia', 'Region': 'Tasmania', 'Type': 'Rose'}, {'Country': 'Australia', 'Region': 'Tasmania', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'Victoria', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'Victoria', 'Type': 'Dessert'}, {'Country': 'Australia', 'Region': 'Western Australia', 'Type': 'Red'}, {'Country': 'Australia', 'Region': 'Western Australia', 'Type': 'White'}, {'Country': 'Argentina', 'Region': 'Agrelo', 'Type': 'Red'}, {'Country': 'Argentina', 'Region': 'Agrelo', 'Type': 'Cult Wine'}, {'Country': 'Argentina', 'Region': 'Los Chacayes', 'Type': 'White'}, {'Country': 'Argentina', 'Region': 'Los Chacayes', 'Type': 'Red'}, {'Country': 'Argentina', 'Region': 'Lujan De Cuyo', 'Type': 'Red'}, {'Country': 'Argentina', 'Region': 'Mendoza', 'Type': 'White'}, {'Country': 'Argentina', 'Region': 'Mendoza', 'Type': 'Sparkling'}, {'Country': 'Argentina', 'Region': 'Mendoza', 'Type': 'Rose'}, {'Country': 'Argentina', 'Region': 'Mendoza', 'Type': 'Red'}, {'Country': 'Argentina', 'Region': 'Mendoza', 'Type': 'Natural Wines'}, {'Country': 'Argentina', 'Region': 'Mendoza', 'Type': 'Dessert'}, {'Country': 'Argentina', 'Region': 'Mendoza', 'Type': 'Cult Wine'}, {'Country': 'Argentina', 'Region': 'Patagonia', 'Type': 'White'}, {'Country': 'Argentina', 'Region': 'Patagonia', 'Type': 'Red'}, {'Country': 'Argentina', 'Region': 'Salta', 'Type': 'White'}, {'Country': 'Argentina', 'Region': 'Uco Valley', 'Type': 'White'}, {'Country': 'Argentina', 'Region': 'Uco Valley', 'Type': 'Red'}]
+[
+    {
+        "Country": "USA",
+        "Region": "Alexander Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Anderson Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Anderson Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "California",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "California",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "USA",
+        "Region": "California",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "California",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "California",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "USA",
+        "Region": "Carneros",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Carneros",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "Carneros",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Central Coast",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Central Coast",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Cienega Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Coombsville",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Coombsville",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Edna Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Finger Lakes",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Finger Lakes",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "USA",
+        "Region": "Finger Lakes",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "Finger Lakes",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Hawkes Bay",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Lodi",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Lodi",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "Lodi",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Marlborough",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Marlborough",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "USA",
+        "Region": "Marlborough",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Mendocino County",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Napa Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Napa Valley",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "Napa Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Napa Valley",
+        "Type": "Organic"
+    },
+    {
+        "Country": "USA",
+        "Region": "Napa Valley",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "USA",
+        "Region": "Napa Valley",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "USA",
+        "Region": "Napa Valley",
+        "Type": "Biodynamic"
+    },
+    {
+        "Country": "USA",
+        "Region": "New York",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "New York",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "New York",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Oakville",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Oregon",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Oregon",
+        "Type": "Sake"
+    },
+    {
+        "Country": "USA",
+        "Region": "Oregon",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "Oregon",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Paso Robles",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Paso Robles",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "USA",
+        "Region": "Paso Robles",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Red Hills",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Russian River Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Russian River Valley",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "Russian River Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Rutherford",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "San Luis Obispo",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "USA",
+        "Region": "San Luis Obispo",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "USA",
+        "Region": "Santa Barbara",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Santa Barbara",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "USA",
+        "Region": "Santa Barbara",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Santa Barbara",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "USA",
+        "Region": "Santa Barbara",
+        "Type": "Biodynamic"
+    },
+    {
+        "Country": "USA",
+        "Region": "Santa Cruz Mountains",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Santa Rita Hills",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Sierra Foothills",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Sonoma",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "USA",
+        "Region": "Sonoma Coast",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Sonoma Coast",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "USA",
+        "Region": "Sonoma Coast",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Sonoma County",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Sonoma Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Vayots Dzor",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Vayots Dzor",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "Vayots Dzor",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Virginia",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Virginia",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Wahluke",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Wahluke",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "USA",
+        "Region": "Walla Walla Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Walla Walla Valley",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "USA",
+        "Region": "Washington",
+        "Type": "White"
+    },
+    {
+        "Country": "USA",
+        "Region": "Washington",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "USA",
+        "Region": "Washington",
+        "Type": "Rose"
+    },
+    {
+        "Country": "USA",
+        "Region": "Washington",
+        "Type": "Red"
+    },
+    {
+        "Country": "Uruguay",
+        "Region": "Lavalleja",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Alava",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Alcaria",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Aldeorras",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Alicante",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Andalucia",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Andalucia",
+        "Type": "Sherry"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Andalucia",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Andalucia",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Aragon",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Basque Country",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Bierzo",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Bierzo",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Calatayud",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "California",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Campo de Borja",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Campo De Borja",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Campo De Borja",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Canary Islands",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Castilla La Mancha",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Castilla y Leon",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Castilla y Leon",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Castilla y Leon",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Castilla y Leon",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Vermouth"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Catalonia",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Cava",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Cigales",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Emporda",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Extremadura",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Galicia",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Galicia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Galicia",
+        "Type": "Organic"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Galicia",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Galicia",
+        "Type": "Biodynamic"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Jerez",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Jerez",
+        "Type": "Sherry"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Jerez",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Jumilla",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Jumilla",
+        "Type": "Organic"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Jumilla",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Spain",
+        "Region": "La Mancha",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "La Mancha",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Spain",
+        "Region": "La Mancha",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Madrid",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Madrid",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Malaga",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Malaga",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Mallorca",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Mallorca",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Mallorca",
+        "Type": "Gourmet"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Mentrida",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Montilla-MoMontilla-Morilesriles",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Montilla-MoMontilla-Morilesriles",
+        "Type": "Sherry"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Montsant",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Navarra",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Navarra",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Navarra",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Pago de Vicario",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Pais Vasco",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Pais Vasco",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Pais Vasco",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Pais Vasco",
+        "Type": "Cider"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Penedes",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Penedes",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Penedes",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Penedes",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Penedes",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Pesquera de Duero",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Priorat",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Priorat",
+        "Type": "Sake"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Priorat",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Quintanilla",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rias Baixas",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rias Baixas",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Ribeiro",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Ribeiro",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Ribera del Duero",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Ribera del Duero",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Ribera del Duero",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Ribera del Duero",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Ribera del Jucar",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Ribiera Sacra",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rioja",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rioja",
+        "Type": "Vermouth"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rioja",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rioja",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rioja",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rioja",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rueda",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Rueda",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Tamboril",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Terra Alta",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Terra Alta",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Toro",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Toro",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Utiel-Requena",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Utiel-Requena",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Valdeorras",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Valdeorras",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Valencia",
+        "Type": "White"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Valencia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Yecla",
+        "Type": "Rose"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Coastal Region",
+        "Type": "White"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Coastal Region",
+        "Type": "Red"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Constantia",
+        "Type": "White"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Constantia",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Robertson",
+        "Type": "White"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Robertson",
+        "Type": "Rose"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Simonsberg-Paarl",
+        "Type": "Red"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "South Africa",
+        "Type": "White"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "South Africa",
+        "Type": "Red"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Stellenbosch",
+        "Type": "White"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Stellenbosch",
+        "Type": "Red"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Stellenbosch",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Swartland",
+        "Type": "White"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Swartland",
+        "Type": "Red"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Western Cape",
+        "Type": "White"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Western Cape",
+        "Type": "Rose"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Western Cape",
+        "Type": "Red"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Alentejo",
+        "Type": "Red"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Bairrada",
+        "Type": "White"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Dao",
+        "Type": "Red"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Douro Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Douro Valley",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Douro Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Douro Valley",
+        "Type": "Fortifed"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Douro Valley",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Maderia",
+        "Type": "White"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Maderia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Maderia",
+        "Type": "Fortifed"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Maderia",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Set\u00fabal Peninsula",
+        "Type": "Red"
+    },
+    {
+        "Country": "Palestine",
+        "Region": "West Bank",
+        "Type": "White"
+    },
+    {
+        "Country": "Palestine",
+        "Region": "West Bank",
+        "Type": "Red"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Central Otago",
+        "Type": "Red"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Hawkes Bay",
+        "Type": "Red"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Hawkes Bay",
+        "Type": "White"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Kumeu River",
+        "Type": "Red"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Kumeu River",
+        "Type": "White"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Marlborough",
+        "Type": "Red"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Marlborough",
+        "Type": "White"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Martinborough",
+        "Type": "Red"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "SouthIsland",
+        "Type": "Red"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "SouthIsland",
+        "Type": "White"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "South Island",
+        "Type": "Red"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "South Island",
+        "Type": "White"
+    },
+    {
+        "Country": "Mexico",
+        "Region": "Baja",
+        "Type": "Red"
+    },
+    {
+        "Country": "Mexico",
+        "Region": "Valle de Guadalupe",
+        "Type": "White"
+    },
+    {
+        "Country": "Mexico",
+        "Region": "Valle de Guadalupe",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Mexico",
+        "Region": "Valle de Guadalupe",
+        "Type": "Red"
+    },
+    {
+        "Country": "Mexico",
+        "Region": "Valle de Parras",
+        "Type": "White"
+    },
+    {
+        "Country": "Mexico",
+        "Region": "Valle de Santo Tomas",
+        "Type": "Red"
+    },
+    {
+        "Country": "Lebanon",
+        "Region": "Batroun",
+        "Type": "White"
+    },
+    {
+        "Country": "Lebanon",
+        "Region": "Batroun",
+        "Type": "Red"
+    },
+    {
+        "Country": "Lebanon",
+        "Region": "Bekka Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Lebanon",
+        "Region": "Bekka Valley",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Lebanon",
+        "Region": "Bekka Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Lebanon",
+        "Region": "Burgenland",
+        "Type": "Red"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Akita",
+        "Type": "Sake"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Akita",
+        "Type": "Red"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Iwate",
+        "Type": "White"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Iwate",
+        "Type": "Sake"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Nigata",
+        "Type": "Sake"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Nigata",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Niigata",
+        "Type": "White"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Niigata",
+        "Type": "Sake"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Niigata Prefecture",
+        "Type": "White"
+    },
+    {
+        "Country": "Japon",
+        "Region": "Priorat",
+        "Type": "Sake"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Abruzzi",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Abruzzi",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Abruzzo",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Abruzzo",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Alto Adige (S\u00fcdtirol)",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Alto Adige (S\u00fcdtirol)Alto Adige",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Alto Adige (S\u00fcdtirol)Alto Adige",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Apulia",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Apulia",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Apulia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Barbera D'Asti",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Barolo",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Bolgheri",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Bolgheri",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Calabria",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Calabria",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Campania",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Campania",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Campania",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Chianti",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Chima",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Colli di Salerno",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Colli Orientali del Friuli",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Colli Tortonesi",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Colli Tortonesi",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "De lle Venezie",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Emilia-Romagna",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Emilia-Romagna",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Emilia-Romagna",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Emilia-Romagna",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Frascati",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Friuli",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Friuli",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Fruili",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Fruili",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Gattinara",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Gattinara",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Gavi",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Langhe",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Lazio",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Lombardia",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "LombardyLombardia",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "LombardyLombardia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Marches",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Marches",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Montalcino",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Montefalco Sagrantino",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Montepulciano d'Abruzzo",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Morellino di Scansano",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Piedmont",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Piedmont",
+        "Type": "Vermouth"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Piedmont",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Piedmont",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Piedmont",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Piedmont",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Piedmont",
+        "Type": "Fortifed"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Prosecco",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Puglia",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Puglia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Puglia",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Roero",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Roero",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Romagna",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sardegna",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sardegna",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sardinia",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sardinia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sicilia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Sicily",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "S\u00fcdtirol",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Trentino-Alto Adige",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Trentino-Alto Adige",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Trentino-Alto Adige",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Trentino Alto Adige",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Trentino Alto Adige",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Treviso",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Tusany",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Tuscany",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Umbria",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Umbria",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Valdobbiadene",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Valle Central",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Valle d'Aosta",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Valle d'Aosta",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Valpolicella",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Red"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Veneto",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Vento",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Venezia",
+        "Type": "White"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Verdicchio De Castelli DiIesi",
+        "Type": "White"
+    },
+    {
+        "Country": "Hungary",
+        "Region": "Somlo",
+        "Type": "White"
+    },
+    {
+        "Country": "Hungary",
+        "Region": "Somlo",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Hungary",
+        "Region": "Tokaji",
+        "Type": "White"
+    },
+    {
+        "Country": "Hungary",
+        "Region": "Tokaji",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Aegean Islands",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Aegean Islands",
+        "Type": "Red"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Aegean Islands",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Aegean Islands",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Attika",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Attika",
+        "Type": "Red"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Cephalonia",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Crete",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Crete",
+        "Type": "Red"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Crete",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Greece",
+        "Region": "C\u00f4te de Beaune",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Ionian Islands",
+        "Type": "Red"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Ionian Islands",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "MaMacedoniacedonia",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "MaMacedoniacedonia",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Greece",
+        "Region": "MaMacedoniacedonia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Greece",
+        "Region": "MaMacedoniacedonia",
+        "Type": "Organic"
+    },
+    {
+        "Country": "Greece",
+        "Region": "MaMacedoniacedonia",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Naoussa",
+        "Type": "Red"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Peloponnese",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Peloponnese",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Peloponnese",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Peloponnese",
+        "Type": "Red"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Peloponnese",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Santorini",
+        "Type": "White"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Thessaly",
+        "Type": "Red"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Thessaly",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Baden",
+        "Type": "Red"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Campo de Borja",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Erdener Pralat",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Mosel",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Mosel",
+        "Type": "Red"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Mosel",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Mosel Saar Ruwer",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Mosel Saar Ruwer",
+        "Type": "Red"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Mosel Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Mosel Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Pfalz",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Pfalz",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Rheingau",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Rheingau",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Rheinhessen",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Rheinhessen",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Rheinhessen",
+        "Type": "Red"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Saar",
+        "Type": "White"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Saar",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Wehlen",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Georgian Republic",
+        "Region": "Kakheti",
+        "Type": "White"
+    },
+    {
+        "Country": "Georgian Republic",
+        "Region": "Kakheti",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Alsace",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Alsace",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "France",
+        "Region": "Alsace",
+        "Type": "Sake"
+    },
+    {
+        "Country": "France",
+        "Region": "Alsace",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Alsace",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Alsace",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Beaujolaid",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Beaujolaid",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Beaujolaid",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Beaujolaid",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "France",
+        "Region": "Bordeaux",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Burgundy",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Cahors",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Central Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Chablis",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Organic"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Kosher"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Champagne"
+    },
+    {
+        "Country": "France",
+        "Region": "Champagne",
+        "Type": "Biodynamic"
+    },
+    {
+        "Country": "France",
+        "Region": "Ch\u00e2teauneuf-du-Pape",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Cornas",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Corsica",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Corsica",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Cotes de Nuits",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Cotes Du Ventoux",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "C\u00f4tes de Castillon",
+        "Type": NaN
+    },
+    {
+        "Country": "France",
+        "Region": "C\u00f4tes de Provence",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "C\u00f4tes de Provence",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "C\u00f4tes du Rhone",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "C\u00f4tes du Rhone",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "C\u00f4tes du Rhone",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Gascony",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Gevrey Chambertin",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Gigondas",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Graves",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Haut-Medoc",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Jura",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Haut-Medoc",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Jura",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Jurancon",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "France",
+        "Region": "Jurancon",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Languedoc-Rousillon",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Languedoc-Rousillon",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "France",
+        "Region": "Languedoc-Rousillon",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Languedoc-Rousillon",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Languedoc Roussillon",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "France",
+        "Region": "Loire Valley",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Margaux",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Montagne St Emilion",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Pauillac",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Pauillac",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Pays d'Herault",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Pessac-Leognan",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Pomerol",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Pomerol",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Pouilly Fume",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Provence",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Provence",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "France",
+        "Region": "Provence",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Provence",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Provence",
+        "Type": "Kosher"
+    },
+    {
+        "Country": "France",
+        "Region": "Rh\u00f4ne Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Rh\u00f4ne Valley",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "France",
+        "Region": "Rh\u00f4ne Valley",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
+        "Region": "Rh\u00f4ne Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Rh\u00f4ne Valley",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Saint-Estephe",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Saint-Julien",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Saint Emilion",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Saint Joeseph",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Saint Joeseph",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Santenay",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Sauternes",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Sauternes",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Sauternes",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "France",
+        "Region": "Sauternes",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "France",
+        "Region": "Savoie",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Southwest",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "South West France",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Southwest France",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Tusany",
+        "Type": "Red"
+    },
+    {
+        "Country": "France",
+        "Region": "Vacqueyras",
+        "Type": "White"
+    },
+    {
+        "Country": "France",
+        "Region": "Ventoux",
+        "Type": "White"
+    },
+    {
+        "Country": "Cyprus",
+        "Region": "Paphos",
+        "Type": "White"
+    },
+    {
+        "Country": "Cyprus",
+        "Region": "Paphos",
+        "Type": "Red"
+    },
+    {
+        "Country": "China",
+        "Region": "Yunnan",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Aconcagua Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Aconcagua Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Aconcagua Valley",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Apalta",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Bio Bio Valley",
+        "Type": "Ros\u00e9"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Cachapoal Valley",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Cachapoal Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Casablanca Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Casablanca Valley",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Casablanca Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Cauquenes",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Cauquenes",
+        "Type": "Organic"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Central Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Colchagua Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Colchagua Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Colchagua Valley",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Itata Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Maipo Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Maipo Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Maule Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Talagante",
+        "Type": "Red"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Talagante",
+        "Type": "White"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Burgenland",
+        "Type": "White"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Burgenland",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Burgenland",
+        "Type": "Red"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Burgenland",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Kremstal",
+        "Type": "White"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Nieder\u00f6sterreich",
+        "Type": "White"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Nieder\u00f6sterreich",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Vienna",
+        "Type": "White"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Wachau",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Barossa Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Central Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Clare Clare ValleyValley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Central Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Coonawarra",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Edna Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Margaret River",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Margaret River",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "McLaren Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "New South Wales",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "New South Wales",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Riverland",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "South Australia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "South Australia",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Southern Australia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Southern Australia",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Tasmania",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Tasmania",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Tasmania",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Tasmania",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Victoria",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Victoria",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Western Australia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Western Australia",
+        "Type": "White"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Agrelo",
+        "Type": "Red"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Agrelo",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Los Chacayes",
+        "Type": "White"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Los Chacayes",
+        "Type": "Red"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Lujan De Cuyo",
+        "Type": "Red"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "White"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Sparkling"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Rose"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Red"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Natural Wines"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Dessert"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Mendoza",
+        "Type": "Cult Wine"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Patagonia",
+        "Type": "White"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Patagonia",
+        "Type": "Red"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Salta",
+        "Type": "White"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Uco Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Uco Valley",
+        "Type": "Red"
+    }
+]
