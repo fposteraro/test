@@ -1,11 +1,6 @@
 [
     {
         "Country": "USA",
-        "Region": "Alexander Valley",
-        "Type": "Red"
-    },
-    {
-        "Country": "USA",
         "Region": "Anderson Valley",
         "Type": "Red"
     },
@@ -71,16 +66,6 @@
     },
     {
         "Country": "USA",
-        "Region": "Coombsville",
-        "Type": "White"
-    },
-    {
-        "Country": "USA",
-        "Region": "Coombsville",
-        "Type": "Red"
-    },
-    {
-        "Country": "USA",
         "Region": "Edna Valley",
         "Type": "White"
     },
@@ -101,11 +86,6 @@
     },
     {
         "Country": "USA",
-        "Region": "Finger Lakes",
-        "Type": "Red"
-    },
-    {
-        "Country": "USA",
         "Region": "Hawkes Bay",
         "Type": "Red"
     },
@@ -123,10 +103,10 @@
         "Country": "USA",
         "Region": "Lodi",
         "Type": "Red"
-    },
+    }, 
     {
         "Country": "USA",
-        "Region": "Marlborough",
+        "Region": "Margaret River",
         "Type": "White"
     },
     {
@@ -256,11 +236,6 @@
     },
     {
         "Country": "USA",
-        "Region": "Rutherford",
-        "Type": "Red"
-    },
-    {
-        "Country": "USA",
         "Region": "San Luis Obispo",
         "Type": "Dessert"
     },
@@ -288,11 +263,6 @@
         "Country": "USA",
         "Region": "Santa Barbara",
         "Type": "Natural Wines"
-    },
-    {
-        "Country": "USA",
-        "Region": "Santa Barbara",
-        "Type": "Biodynamic"
     },
     {
         "Country": "USA",
@@ -341,21 +311,6 @@
     },
     {
         "Country": "USA",
-        "Region": "Vayots Dzor",
-        "Type": "White"
-    },
-    {
-        "Country": "USA",
-        "Region": "Vayots Dzor",
-        "Type": "Rose"
-    },
-    {
-        "Country": "USA",
-        "Region": "Vayots Dzor",
-        "Type": "Red"
-    },
-    {
-        "Country": "USA",
         "Region": "Virginia",
         "Type": "White"
     },
@@ -405,9 +360,29 @@
         "Type": "Red"
     },
     {
+        "Country": "USA",
+        "Region": "Willamette Valley",
+        "Type": "Red"
+    },
+    {
+        "Country": "USA",
+        "Region": "Willamette Valley",
+        "Type": "White"
+    },
+    {
         "Country": "Uruguay",
         "Region": "Lavalleja",
         "Type": "Red"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Akita",
+        "Type": "Red"
+    },
+     {
+        "Country": "Spain",
+        "Region": "Alava",
+        "Type": "Sake"
     },
     {
         "Country": "Spain",
@@ -418,11 +393,6 @@
         "Country": "Spain",
         "Region": "Alcaria",
         "Type": "Red"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Aldeorras",
-        "Type": "White"
     },
     {
         "Country": "Spain",
@@ -496,11 +466,6 @@
     },
     {
         "Country": "Spain",
-        "Region": "Canary Islands",
-        "Type": "Red"
-    },
-    {
-        "Country": "Spain",
         "Region": "Castilla La Mancha",
         "Type": "Red"
     },
@@ -566,16 +531,6 @@
     },
     {
         "Country": "Spain",
-        "Region": "Emporda",
-        "Type": "Red"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Extremadura",
-        "Type": "White"
-    },
-    {
-        "Country": "Spain",
         "Region": "Galicia",
         "Type": "White"
     },
@@ -598,11 +553,6 @@
         "Country": "Spain",
         "Region": "Galicia",
         "Type": "Biodynamic"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Jerez",
-        "Type": "White"
     },
     {
         "Country": "Spain",
@@ -686,16 +636,6 @@
     },
     {
         "Country": "Spain",
-        "Region": "Montilla-MoMontilla-Morilesriles",
-        "Type": "White"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Montilla-MoMontilla-Morilesriles",
-        "Type": "Sherry"
-    },
-    {
-        "Country": "Spain",
         "Region": "Montsant",
         "Type": "Red"
     },
@@ -713,11 +653,6 @@
         "Country": "Spain",
         "Region": "Navarra",
         "Type": "Red"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Pago de Vicario",
-        "Type": "White"
     },
     {
         "Country": "Spain",
@@ -836,11 +771,6 @@
     },
     {
         "Country": "Spain",
-        "Region": "Ribiera Sacra",
-        "Type": "Red"
-    },
-    {
-        "Country": "Spain",
         "Region": "Rioja",
         "Type": "White"
     },
@@ -876,11 +806,6 @@
     },
     {
         "Country": "Spain",
-        "Region": "Rueda",
-        "Type": "Red"
-    },
-    {
-        "Country": "Spain",
         "Region": "Tamboril",
         "Type": "Red"
     },
@@ -888,11 +813,6 @@
         "Country": "Spain",
         "Region": "Terra Alta",
         "Type": "White"
-    },
-    {
-        "Country": "Spain",
-        "Region": "Terra Alta",
-        "Type": "Red"
     },
     {
         "Country": "Spain",
@@ -984,6 +904,16 @@
         "Region": "South Africa",
         "Type": "Red"
     },
+      {
+        "Country": "South Africa",
+        "Region": "South Australia",
+        "Type": "Red"
+    },
+     {
+        "Country": "South Africa",
+        "Region": "South Australia",
+        "Type": "White"
+    },
     {
         "Country": "South Africa",
         "Region": "Stellenbosch",
@@ -998,16 +928,6 @@
         "Country": "South Africa",
         "Region": "Stellenbosch",
         "Type": "Cult Wine"
-    },
-    {
-        "Country": "South Africa",
-        "Region": "Swartland",
-        "Type": "White"
-    },
-    {
-        "Country": "South Africa",
-        "Region": "Swartland",
-        "Type": "Red"
     },
     {
         "Country": "South Africa",
@@ -1036,11 +956,6 @@
     },
     {
         "Country": "Portugal",
-        "Region": "Dao",
-        "Type": "Red"
-    },
-    {
-        "Country": "Portugal",
         "Region": "Douro Valley",
         "Type": "White"
     },
@@ -1078,11 +993,6 @@
         "Country": "Portugal",
         "Region": "Maderia",
         "Type": "Fortifed"
-    },
-    {
-        "Country": "Portugal",
-        "Region": "Maderia",
-        "Type": "Dessert"
     },
     {
         "Country": "Portugal",
@@ -1220,54 +1130,59 @@
         "Type": "Red"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Akita",
         "Type": "Sake"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Akita",
         "Type": "Red"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Iwate",
         "Type": "White"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Iwate",
         "Type": "Sake"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Nigata",
         "Type": "Sake"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Nigata",
         "Type": "Natural Wines"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Niigata",
         "Type": "White"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Niigata",
         "Type": "Sake"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Niigata Prefecture",
         "Type": "White"
     },
     {
-        "Country": "Japon",
+        "Country": "Japan",
         "Region": "Priorat",
         "Type": "Sake"
+    },
+    {
+        "Country": "Japan",
+        "Region": "Priorat",
+        "Type": "Red"
     },
     {
         "Country": "Italy",
@@ -1386,21 +1301,6 @@
     },
     {
         "Country": "Italy",
-        "Region": "Colli Tortonesi",
-        "Type": "Red"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Colli Tortonesi",
-        "Type": "White"
-    },
-    {
-        "Country": "Italy",
-        "Region": "De lle Venezie",
-        "Type": "White"
-    },
-    {
-        "Country": "Italy",
         "Region": "Emilia-Romagna",
         "Type": "White"
     },
@@ -1418,21 +1318,6 @@
         "Country": "Italy",
         "Region": "Emilia-Romagna",
         "Type": "Red"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Frascati",
-        "Type": "White"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Friuli",
-        "Type": "Red"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Friuli",
-        "Type": "White"
     },
     {
         "Country": "Italy",
@@ -1551,11 +1436,6 @@
     },
     {
         "Country": "Italy",
-        "Region": "Prosecco",
-        "Type": "Sparkling"
-    },
-    {
-        "Country": "Italy",
         "Region": "Puglia",
         "Type": "Sparkling"
     },
@@ -1568,11 +1448,6 @@
         "Country": "Italy",
         "Region": "Puglia",
         "Type": "White"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Roero",
-        "Type": "Red"
     },
     {
         "Country": "Italy",
@@ -1606,11 +1481,6 @@
     },
     {
         "Country": "Italy",
-        "Region": "Sicilia",
-        "Type": "Red"
-    },
-    {
-        "Country": "Italy",
         "Region": "Sicily",
         "Type": "White"
     },
@@ -1634,6 +1504,16 @@
         "Region": "S\u00fcdtirol",
         "Type": "White"
     },
+      {
+        "Country": "Italy",
+        "Region": "Toscana",
+        "Type": "White"
+    },
+      {
+        "Country": "Italy",
+        "Region": "Toscana",
+        "Type": "Red"
+    },
     {
         "Country": "Italy",
         "Region": "Trentino-Alto Adige",
@@ -1658,11 +1538,6 @@
         "Country": "Italy",
         "Region": "Trentino Alto Adige",
         "Type": "White"
-    },
-    {
-        "Country": "Italy",
-        "Region": "Treviso",
-        "Type": "Sparkling"
     },
     {
         "Country": "Italy",
@@ -1757,7 +1632,7 @@
     {
         "Country": "Italy",
         "Region": "Veneto",
-        "Type": "White"
+        "Type": "Cult Wine"
     },
     {
         "Country": "Italy",
@@ -1877,11 +1752,6 @@
     {
         "Country": "Greece",
         "Region": "MaMacedoniacedonia",
-        "Type": "Organic"
-    },
-    {
-        "Country": "Greece",
-        "Region": "MaMacedoniacedonia",
         "Type": "Dessert"
     },
     {
@@ -1936,11 +1806,6 @@
     },
     {
         "Country": "Germany",
-        "Region": "Campo de Borja",
-        "Type": "White"
-    },
-    {
-        "Country": "Germany",
         "Region": "Erdener Pralat",
         "Type": "White"
     },
@@ -1973,11 +1838,6 @@
         "Country": "Germany",
         "Region": "Mosel Valley",
         "Type": "White"
-    },
-    {
-        "Country": "Germany",
-        "Region": "Mosel Valley",
-        "Type": "Red"
     },
     {
         "Country": "Germany",
@@ -2146,11 +2006,6 @@
     },
     {
         "Country": "France",
-        "Region": "Central Valley",
-        "Type": "Red"
-    },
-    {
-        "Country": "France",
         "Region": "Chablis",
         "Type": "White"
     },
@@ -2177,7 +2032,7 @@
     {
         "Country": "France",
         "Region": "Champagne",
-        "Type": "Organic"
+        "Type": "Kosher"
     },
     {
         "Country": "France",
@@ -2201,13 +2056,13 @@
     },
     {
         "Country": "France",
-        "Region": "Champagne",
-        "Type": "Biodynamic"
-    },
-    {
-        "Country": "France",
         "Region": "Ch\u00e2teauneuf-du-Pape",
         "Type": "Red"
+    },
+     {
+        "Country": "France",
+        "Region": "Condrieu",
+        "Type": "White"
     },
     {
         "Country": "France",
@@ -2237,7 +2092,7 @@
     {
         "Country": "France",
         "Region": "C\u00f4tes de Castillon",
-        "Type": ""
+        "Type": "Red"
     },
     {
         "Country": "France",
@@ -2248,11 +2103,6 @@
         "Country": "France",
         "Region": "C\u00f4tes de Provence",
         "Type": "Rose"
-    },
-    {
-        "Country": "France",
-        "Region": "C\u00f4tes du Rhone",
-        "Type": "White"
     },
     {
         "Country": "France",
@@ -2294,12 +2144,7 @@
         "Region": "Jura",
         "Type": "White"
     },
-    {
-        "Country": "France",
-        "Region": "Haut-Medoc",
-        "Type": "Red"
-    },
-    {
+     {
         "Country": "France",
         "Region": "Jura",
         "Type": "Cult Wine"
@@ -2381,6 +2226,16 @@
     },
     {
         "Country": "France",
+        "Region": "Napa Valley",
+        "Type": "Red"
+    },
+     {
+        "Country": "France",
+        "Region": "Oregon",
+        "Type": "Rose"
+    },
+    {
+        "Country": "France",
         "Region": "Pauillac",
         "Type": "White"
     },
@@ -2396,11 +2251,6 @@
     },
     {
         "Country": "France",
-        "Region": "Pessac-Leognan",
-        "Type": "Red"
-    },
-    {
-        "Country": "France",
         "Region": "Pomerol",
         "Type": "Red"
     },
@@ -2408,11 +2258,6 @@
         "Country": "France",
         "Region": "Pomerol",
         "Type": "Cult Wine"
-    },
-    {
-        "Country": "France",
-        "Region": "Pouilly Fume",
-        "Type": "White"
     },
     {
         "Country": "France",
@@ -2466,11 +2311,6 @@
     },
     {
         "Country": "France",
-        "Region": "Saint-Estephe",
-        "Type": "Red"
-    },
-    {
-        "Country": "France",
         "Region": "Saint-Julien",
         "Type": "Red"
     },
@@ -2481,13 +2321,8 @@
     },
     {
         "Country": "France",
-        "Region": "Saint Joeseph",
-        "Type": "Red"
-    },
-    {
-        "Country": "France",
-        "Region": "Saint Joeseph",
-        "Type": "White"
+        "Region": "Santa Barbara",
+        "Type": "Sparkling"
     },
     {
         "Country": "France",
@@ -2540,16 +2375,6 @@
         "Type": "Red"
     },
     {
-        "Country": "France",
-        "Region": "Vacqueyras",
-        "Type": "White"
-    },
-    {
-        "Country": "France",
-        "Region": "Ventoux",
-        "Type": "White"
-    },
-    {
         "Country": "Cyprus",
         "Region": "Paphos",
         "Type": "White"
@@ -2587,7 +2412,7 @@
     {
         "Country": "Chile",
         "Region": "Bio Bio Valley",
-        "Type": "Ros\u00e9"
+        "Type": "Rose"
     },
     {
         "Country": "Chile",
@@ -2603,11 +2428,6 @@
         "Country": "Chile",
         "Region": "Casablanca Valley",
         "Type": "White"
-    },
-    {
-        "Country": "Chile",
-        "Region": "Casablanca Valley",
-        "Type": "Rose"
     },
     {
         "Country": "Chile",
@@ -2663,16 +2483,6 @@
         "Country": "Chile",
         "Region": "Maule Valley",
         "Type": "Red"
-    },
-    {
-        "Country": "Chile",
-        "Region": "Talagante",
-        "Type": "Red"
-    },
-    {
-        "Country": "Chile",
-        "Region": "Talagante",
-        "Type": "White"
     },
     {
         "Country": "Austria",
@@ -2734,15 +2544,10 @@
         "Region": "Clare Clare ValleyValley",
         "Type": "Red"
     },
-    {
+      {
         "Country": "Australia",
-        "Region": "Central Valley",
+        "Region": "Clare Clare ValleyValley",
         "Type": "White"
-    },
-    {
-        "Country": "Australia",
-        "Region": "Coonawarra",
-        "Type": "Red"
     },
     {
         "Country": "Australia",
@@ -2766,6 +2571,11 @@
     },
     {
         "Country": "Australia",
+        "Region": "Napa Valley",
+        "Type": "White"
+    },
+    {
+        "Country": "Australia",
         "Region": "New South Wales",
         "Type": "White"
     },
@@ -2774,9 +2584,9 @@
         "Region": "New South Wales",
         "Type": "Red"
     },
-    {
+      {
         "Country": "Australia",
-        "Region": "Riverland",
+        "Region": "Russian River Valley",
         "Type": "White"
     },
     {
@@ -2857,11 +2667,6 @@
     {
         "Country": "Argentina",
         "Region": "Los Chacayes",
-        "Type": "Red"
-    },
-    {
-        "Country": "Argentina",
-        "Region": "Lujan De Cuyo",
         "Type": "Red"
     },
     {
